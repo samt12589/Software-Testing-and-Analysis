@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.0.1-dev-20150306-5afe4d1" sequence="1" timestamp="1691437030262" analysisTimestamp="1691437020148" release="">
+  <Project projectName="Hotel-Management-Project-Java-master.zip_expanded">
+    <Jar>C:\Users\arora\eclipse-workspace\Hotel-Management-Project-Java-master.zip_expanded\bin</Jar>
+    <AuxClasspathEntry>C:\Users\arora\eclipse-workspace\Hotel-Management-Project-Java-master.zip_expanded\bin</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Program Files\Java\jre1.8.0_202\lib\rt.jar</AuxClasspathEntry>
+    <SrcDir>C:\Users\arora\eclipse-workspace\Hotel-Management-Project-Java-master.zip_expanded\Hotel-Management-Project-Java-master</SrcDir>
+    <Cloud id="edu.umd.cs.findbugs.cloud.doNothingCloud" online="false"></Cloud>
+  </Project>
+  <BugInstance type="SF_SWITCH_NO_DEFAULT" priority="2" rank="19" abbrev="SF" category="STYLE" first="1">
+    <Class classname="Food">
+      <SourceLine classname="Food" sourcefile="Main.java" sourcepath="Main.java"/>
+    </Class>
+    <Method classname="Food" name="&lt;init&gt;" signature="(II)V" isStatic="false">
+      <SourceLine classname="Food" start="16" end="31" startBytecode="0" endBytecode="219" sourcefile="Main.java" sourcepath="Main.java"/>
+    </Method>
+    <SourceLine classname="Food" start="20" end="28" startBytecode="15" endBytecode="88" sourcefile="Main.java" sourcepath="Main.java"/>
+    <SourceLine classname="Food" start="20" end="28" startBytecode="15" endBytecode="88" sourcefile="Main.java" sourcepath="Main.java"/>
+  </BugInstance>
+  <BugInstance type="DM_DEFAULT_ENCODING" priority="1" rank="19" abbrev="Dm" category="I18N" first="1">
+    <Class classname="Hotel">
+      <SourceLine classname="Hotel" sourcefile="Main.java" sourcepath="Main.java"/>
+    </Class>
+    <Method classname="Hotel" name="&lt;clinit&gt;" signature="()V" isStatic="true">
+      <SourceLine classname="Hotel" start="92" end="93" startBytecode="0" endBytecode="59" sourcefile="Main.java" sourcepath="Main.java"/>
+    </Method>
+    <Method classname="java.util.Scanner" name="&lt;init&gt;" signature="(Ljava/io/InputStream;)V" isStatic="false" role="METHOD_CALLED">
+      <SourceLine classname="java.util.Scanner"/>
+    </Method>
+    <SourceLine classname="Hotel" start="93" end="93" startBytecode="17" endBytecode="17" sourcefile="Main.java" sourcepath="Main.java"/>
+    <SourceLine classname="Hotel" start="93" end="93" startBytecode="17" endBytecode="17" sourcefile="Main.java" sourcepath="Main.java"/>
+  </BugInstance>
+  <BugInstance type="SF_SWITCH_NO_DEFAULT" priority="2" rank="19" abbrev="SF" category="STYLE" first="1">
+    <Class classname="Hotel">
+      <SourceLine classname="Hotel" sourcefile="Main.java" sourcepath="Main.java"/>
+    </Class>
+    <Method classname="Hotel" name="order" signature="(II)V" isStatic="true">
+      <SourceLine classname="Hotel" start="444" end="473" startBytecode="0" endBytecode="465" sourcefile="Main.java" sourcepath="Main.java"/>
+    </Method>
+    <SourceLine classname="Hotel" start="451" end="458" startBytecode="33" endBytecode="168" sourcefile="Main.java" sourcepath="Main.java"/>
+    <SourceLine classname="Hotel" start="451" end="458" startBytecode="33" endBytecode="168" sourcefile="Main.java" sourcepath="Main.java"/>
+  </BugInstance>
+  <BugInstance type="DM_DEFAULT_ENCODING" priority="1" rank="19" abbrev="Dm" category="I18N" first="1">
+    <Class classname="Main">
+      <SourceLine classname="Main" sourcefile="Main.java" sourcepath="Main.java"/>
+    </Class>
+    <Method classname="Main" name="main" signature="([Ljava/lang/String;)V" isStatic="true">
+      <SourceLine classname="Main" start="505" end="587" startBytecode="0" endBytecode="1059" sourcefile="Main.java" sourcepath="Main.java"/>
+    </Method>
+    <Method classname="java.util.Scanner" name="&lt;init&gt;" signature="(Ljava/io/InputStream;)V" isStatic="false" role="METHOD_CALLED">
+      <SourceLine classname="java.util.Scanner"/>
+    </Method>
+    <SourceLine classname="Main" start="512" end="512" startBytecode="52" endBytecode="52" sourcefile="Main.java" sourcepath="Main.java"/>
+    <SourceLine classname="Main" start="512" end="512" startBytecode="52" endBytecode="52" sourcefile="Main.java" sourcepath="Main.java"/>
+  </BugInstance>
+  <BugInstance type="REC_CATCH_EXCEPTION" priority="1" rank="15" abbrev="REC" category="STYLE" first="1">
+    <Class classname="Main">
+      <SourceLine classname="Main" sourcefile="Main.java" sourcepath="Main.java"/>
+    </Class>
+    <Method classname="Main" name="main" signature="([Ljava/lang/String;)V" isStatic="true">
+      <SourceLine classname="Main" start="505" end="587" startBytecode="0" endBytecode="1059" sourcefile="Main.java" sourcepath="Main.java"/>
+    </Method>
+    <SourceLine classname="Main" start="583" end="583" startBytecode="522" endBytecode="522" sourcefile="Main.java" sourcepath="Main.java"/>
+    <SourceLine classname="Main" start="583" end="583" startBytecode="522" endBytecode="522" sourcefile="Main.java" sourcepath="Main.java"/>
+  </BugInstance>
+  <BugInstance type="OS_OPEN_STREAM" priority="2" rank="16" abbrev="OS" category="BAD_PRACTICE" first="1">
+    <Class classname="write">
+      <SourceLine classname="write" sourcefile="Main.java" sourcepath="Main.java"/>
+    </Class>
+    <Method classname="write" name="run" signature="()V" isStatic="false">
+      <SourceLine classname="write" start="487" end="496" startBytecode="0" endBytecode="25" sourcefile="Main.java" sourcepath="Main.java"/>
+    </Method>
+    <Type descriptor="Ljava/io/OutputStream;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.io.OutputStream"/>
+    </Type>
+    <SourceLine classname="write" start="488" end="488" startBytecode="10" endBytecode="10" sourcefile="Main.java" sourcepath="Main.java"/>
+    <SourceLine classname="write" start="488" end="488" startBytecode="10" endBytecode="10" sourcefile="Main.java" sourcepath="Main.java"/>
+  </BugInstance>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Mon, 7 Aug 2023 15:02:40 -0400" total_classes="8" referenced_classes="51" total_bugs="6" total_size="400" num_packages="1" java_version="14.0.1" vm_version="14.0.1+7" cpu_seconds="61.91" clock_seconds="69.81" peak_mbytes="627.35" alloc_mbytes="2048.00" gc_seconds="0.04" priority_2="3" priority_1="3">
+    <PackageStats package="" total_bugs="6" total_types="8" total_size="400" priority_2="3" priority_1="3">
+      <ClassStats class="Doubleroom" sourceFile="Main.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="Food" sourceFile="Main.java" interface="false" size="17" bugs="1" priority_2="1"/>
+      <ClassStats class="Hotel" sourceFile="Main.java" interface="false" size="252" bugs="2" priority_2="1" priority_1="1"/>
+      <ClassStats class="Main" sourceFile="Main.java" interface="false" size="67" bugs="2" priority_1="2"/>
+      <ClassStats class="NotAvailable" sourceFile="Main.java" interface="false" size="5" bugs="0"/>
+      <ClassStats class="Singleroom" sourceFile="Main.java" interface="false" size="16" bugs="0"/>
+      <ClassStats class="holder" sourceFile="Main.java" interface="false" size="11" bugs="0"/>
+      <ClassStats class="write" sourceFile="Main.java" interface="false" size="14" bugs="1" priority_2="1"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="de.tobject.findbugs.builder.FindBugs2Eclipse" totalMilliseconds="2814" invocations="2" avgMicrosecondsPerInvocation="1407251" maxMicrosecondsPerInvocation="2000425" standardDeviationMircosecondsPerInvocation="593174"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="2019" invocations="526" avgMicrosecondsPerInvocation="3840" maxMicrosecondsPerInvocation="172086" standardDeviationMircosecondsPerInvocation="14388"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="684" invocations="87" avgMicrosecondsPerInvocation="7871" maxMicrosecondsPerInvocation="530188" standardDeviationMircosecondsPerInvocation="57959"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="503" invocations="528" avgMicrosecondsPerInvocation="954" maxMicrosecondsPerInvocation="23568" standardDeviationMircosecondsPerInvocation="2004"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.StreamResourceTracker" totalMilliseconds="419" invocations="102" avgMicrosecondsPerInvocation="4111" maxMicrosecondsPerInvocation="16375" standardDeviationMircosecondsPerInvocation="3559"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="401" invocations="485" avgMicrosecondsPerInvocation="828" maxMicrosecondsPerInvocation="134793" standardDeviationMircosecondsPerInvocation="6595"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="269" invocations="24" avgMicrosecondsPerInvocation="11240" maxMicrosecondsPerInvocation="54743" standardDeviationMircosecondsPerInvocation="14523"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="254" invocations="51" avgMicrosecondsPerInvocation="4992" maxMicrosecondsPerInvocation="63265" standardDeviationMircosecondsPerInvocation="10859"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="198" invocations="168" avgMicrosecondsPerInvocation="1180" maxMicrosecondsPerInvocation="16304" standardDeviationMircosecondsPerInvocation="1814"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History>
+    <AppVersion sequence="0" timestamp="1691437030255" release="" codeSize="0" numClasses="0"/>
+  </History>
+</BugCollection>

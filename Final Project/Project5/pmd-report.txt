@@ -1,0 +1,1240 @@
+src/com/shashi/beans/CartBean.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/beans/CartBean.java:6:	DataClass:	DataClass: The class 'CartBean' is suspected to be a Data Class (WOC=0.000%, NOPA=3, NOAM=6, WMC=8)
+src/com/shashi/beans/CartBean.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/beans/CartBean.java:8:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/com/shashi/beans/CartBean.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/CartBean.java:11:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/shashi/beans/CartBean.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/CartBean.java:13:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/shashi/beans/CartBean.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/CartBean.java:15:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/shashi/beans/CartBean.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/com/shashi/beans/CartBean.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/beans/CartBean.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/com/shashi/beans/CartBean.java:41:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/beans/CartBean.java:41:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/beans/CartBean.java:41:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/com/shashi/beans/CartBean.java:41:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/com/shashi/beans/DemandBean.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/beans/DemandBean.java:6:	DataClass:	DataClass: The class 'DemandBean' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=8)
+src/com/shashi/beans/DemandBean.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/DemandBean.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/DemandBean.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/DemandBean.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/beans/DemandBean.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/beans/DemandBean.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'demandQty' is not assigned and could be declared final
+src/com/shashi/beans/DemandBean.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/beans/DemandBean.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userName' is not assigned and could be declared final
+src/com/shashi/beans/DemandBean.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userName' is not assigned and could be declared final
+src/com/shashi/beans/DemandBean.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/beans/DemandBean.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'demandQty' is not assigned and could be declared final
+src/com/shashi/beans/OrderBean.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/beans/OrderBean.java:6:	DataClass:	DataClass: The class 'OrderBean' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=10, WMC=13)
+src/com/shashi/beans/OrderBean.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/OrderBean.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/OrderBean.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/OrderBean.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/OrderBean.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/OrderBean.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/beans/OrderBean.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/beans/OrderBean.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'amount' is not assigned and could be declared final
+src/com/shashi/beans/OrderBean.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productId' is not assigned and could be declared final
+src/com/shashi/beans/OrderBean.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/com/shashi/beans/OrderBean.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'transactionId' is not assigned and could be declared final
+src/com/shashi/beans/OrderBean.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/beans/OrderBean.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'amount' is not assigned and could be declared final
+src/com/shashi/beans/OrderBean.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productId' is not assigned and could be declared final
+src/com/shashi/beans/OrderBean.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/com/shashi/beans/OrderBean.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'shipped' is not assigned and could be declared final
+src/com/shashi/beans/OrderBean.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'transactionId' is not assigned and could be declared final
+src/com/shashi/beans/OrderBean.java:40:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'transactionId' is not assigned and could be declared final
+src/com/shashi/beans/OrderBean.java:48:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productId' is not assigned and could be declared final
+src/com/shashi/beans/OrderBean.java:56:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/com/shashi/beans/OrderBean.java:64:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'amount' is not assigned and could be declared final
+src/com/shashi/beans/OrderBean.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'shipped' is not assigned and could be declared final
+src/com/shashi/beans/OrderDetails.java:7:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/beans/OrderDetails.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/beans/OrderDetails.java:7:	DataClass:	DataClass: The class 'OrderDetails' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=16, WMC=16)
+src/com/shashi/beans/OrderDetails.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/OrderDetails.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/OrderDetails.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/OrderDetails.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/OrderDetails.java:17:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/OrderDetails.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/OrderDetails.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/OrderDetails.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/OrderDetails.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'orderId' is not assigned and could be declared final
+src/com/shashi/beans/OrderDetails.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodName' is not assigned and could be declared final
+src/com/shashi/beans/OrderDetails.java:42:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'qty' is not assigned and could be declared final
+src/com/shashi/beans/OrderDetails.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'amount' is not assigned and could be declared final
+src/com/shashi/beans/OrderDetails.java:58:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'time' is not assigned and could be declared final
+src/com/shashi/beans/OrderDetails.java:66:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodImage' is not assigned and could be declared final
+src/com/shashi/beans/OrderDetails.java:74:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productId' is not assigned and could be declared final
+src/com/shashi/beans/OrderDetails.java:82:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'shipped' is not assigned and could be declared final
+src/com/shashi/beans/ProductBean.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/beans/ProductBean.java:7:	DataClass:	DataClass: The class 'ProductBean' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=14, WMC=16)
+src/com/shashi/beans/ProductBean.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/beans/ProductBean.java:9:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/com/shashi/beans/ProductBean.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/ProductBean.java:12:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/shashi/beans/ProductBean.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/ProductBean.java:13:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/shashi/beans/ProductBean.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/ProductBean.java:14:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/shashi/beans/ProductBean.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/ProductBean.java:15:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/shashi/beans/ProductBean.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/ProductBean.java:16:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/shashi/beans/ProductBean.java:17:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/ProductBean.java:17:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/shashi/beans/ProductBean.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/ProductBean.java:18:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/shashi/beans/ProductBean.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/beans/ProductBean.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/beans/ProductBean.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodInfo' is not assigned and could be declared final
+src/com/shashi/beans/ProductBean.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodName' is not assigned and could be declared final
+src/com/shashi/beans/ProductBean.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodPrice' is not assigned and could be declared final
+src/com/shashi/beans/ProductBean.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodType' is not assigned and could be declared final
+src/com/shashi/beans/ProductBean.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodImage' is not assigned and could be declared final
+src/com/shashi/beans/ProductBean.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodQuantity' is not assigned and could be declared final
+src/com/shashi/beans/ProductBean.java:36:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/beans/ProductBean.java:44:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodName' is not assigned and could be declared final
+src/com/shashi/beans/ProductBean.java:52:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodType' is not assigned and could be declared final
+src/com/shashi/beans/ProductBean.java:60:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodInfo' is not assigned and could be declared final
+src/com/shashi/beans/ProductBean.java:68:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodPrice' is not assigned and could be declared final
+src/com/shashi/beans/ProductBean.java:76:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodQuantity' is not assigned and could be declared final
+src/com/shashi/beans/ProductBean.java:84:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodImage' is not assigned and could be declared final
+src/com/shashi/beans/TransactionBean.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/beans/TransactionBean.java:10:	DataClass:	DataClass: The class 'TransactionBean' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=8, WMC=13)
+src/com/shashi/beans/TransactionBean.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/TransactionBean.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/TransactionBean.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/TransactionBean.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/TransactionBean.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/beans/TransactionBean.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sdf' could be declared final
+src/com/shashi/beans/TransactionBean.java:24:	SimpleDateFormatNeedsLocale:	SimpleDateFormatNeedsLocale: When instantiating a SimpleDateFormat object, specify a Locale
+src/com/shashi/beans/TransactionBean.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'timestamp' could be declared final
+src/com/shashi/beans/TransactionBean.java:33:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/beans/TransactionBean.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'transAmount' is not assigned and could be declared final
+src/com/shashi/beans/TransactionBean.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userName' is not assigned and could be declared final
+src/com/shashi/beans/TransactionBean.java:40:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sdf' could be declared final
+src/com/shashi/beans/TransactionBean.java:40:	SimpleDateFormatNeedsLocale:	SimpleDateFormatNeedsLocale: When instantiating a SimpleDateFormat object, specify a Locale
+src/com/shashi/beans/TransactionBean.java:42:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'timestamp' could be declared final
+src/com/shashi/beans/TransactionBean.java:50:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/beans/TransactionBean.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'transAmount' is not assigned and could be declared final
+src/com/shashi/beans/TransactionBean.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'transactionId' is not assigned and could be declared final
+src/com/shashi/beans/TransactionBean.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userName' is not assigned and could be declared final
+src/com/shashi/beans/TransactionBean.java:56:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sdf' could be declared final
+src/com/shashi/beans/TransactionBean.java:56:	SimpleDateFormatNeedsLocale:	SimpleDateFormatNeedsLocale: When instantiating a SimpleDateFormat object, specify a Locale
+src/com/shashi/beans/TransactionBean.java:58:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'timestamp' could be declared final
+src/com/shashi/beans/TransactionBean.java:65:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/beans/TransactionBean.java:65:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'transAmount' is not assigned and could be declared final
+src/com/shashi/beans/TransactionBean.java:65:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'transDateTime' is not assigned and could be declared final
+src/com/shashi/beans/TransactionBean.java:65:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userName' is not assigned and could be declared final
+src/com/shashi/beans/TransactionBean.java:73:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/beans/TransactionBean.java:73:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'transAmount' is not assigned and could be declared final
+src/com/shashi/beans/TransactionBean.java:73:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'transDateTime' is not assigned and could be declared final
+src/com/shashi/beans/TransactionBean.java:73:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'transactionId' is not assigned and could be declared final
+src/com/shashi/beans/TransactionBean.java:73:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userName' is not assigned and could be declared final
+src/com/shashi/beans/TransactionBean.java:86:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'transactionId' is not assigned and could be declared final
+src/com/shashi/beans/TransactionBean.java:94:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userName' is not assigned and could be declared final
+src/com/shashi/beans/TransactionBean.java:102:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'transDateTime' is not assigned and could be declared final
+src/com/shashi/beans/TransactionBean.java:110:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'transAmount' is not assigned and could be declared final
+src/com/shashi/beans/UserBean.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/beans/UserBean.java:6:	DataClass:	DataClass: The class 'UserBean' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=12, WMC=14)
+src/com/shashi/beans/UserBean.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/beans/UserBean.java:8:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/com/shashi/beans/UserBean.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/beans/UserBean.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'address' is not assigned and could be declared final
+src/com/shashi/beans/UserBean.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'emailId' is not assigned and could be declared final
+src/com/shashi/beans/UserBean.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'mobileNo' is not assigned and could be declared final
+src/com/shashi/beans/UserBean.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/com/shashi/beans/UserBean.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'pinCode' is not assigned and could be declared final
+src/com/shashi/beans/UserBean.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userName' is not assigned and could be declared final
+src/com/shashi/beans/UserBean.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/UserBean.java:21:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/shashi/beans/UserBean.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/UserBean.java:22:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/shashi/beans/UserBean.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/UserBean.java:23:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/shashi/beans/UserBean.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/UserBean.java:24:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/shashi/beans/UserBean.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/UserBean.java:25:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/shashi/beans/UserBean.java:26:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/UserBean.java:26:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/shashi/beans/UserBean.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/com/shashi/beans/UserBean.java:40:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'mobile' is not assigned and could be declared final
+src/com/shashi/beans/UserBean.java:48:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/com/shashi/beans/UserBean.java:56:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'address' is not assigned and could be declared final
+src/com/shashi/beans/UserBean.java:64:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'pinCode' is not assigned and could be declared final
+src/com/shashi/beans/UserBean.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/com/shashi/constants/IUserConstants.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/constants/IUserConstants.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/constants/IUserConstants.java:5:	ConstantsInInterface:	ConstantsInInterface: Using constants in interfaces is a bad practice.
+src/com/shashi/constants/IUserConstants.java:5:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on field 'TABLE_USER': the field is declared in an interface type
+src/com/shashi/constants/IUserConstants.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/constants/IUserConstants.java:6:	ConstantsInInterface:	ConstantsInInterface: Using constants in interfaces is a bad practice.
+src/com/shashi/constants/IUserConstants.java:6:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on field 'COLUMN_NAME': the field is declared in an interface type
+src/com/shashi/constants/IUserConstants.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/constants/IUserConstants.java:7:	ConstantsInInterface:	ConstantsInInterface: Using constants in interfaces is a bad practice.
+src/com/shashi/constants/IUserConstants.java:7:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on field 'COLUMN_MOBILE': the field is declared in an interface type
+src/com/shashi/constants/IUserConstants.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/constants/IUserConstants.java:8:	ConstantsInInterface:	ConstantsInInterface: Using constants in interfaces is a bad practice.
+src/com/shashi/constants/IUserConstants.java:8:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on field 'COLUMN_EMAIL': the field is declared in an interface type
+src/com/shashi/constants/IUserConstants.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/constants/IUserConstants.java:9:	ConstantsInInterface:	ConstantsInInterface: Using constants in interfaces is a bad practice.
+src/com/shashi/constants/IUserConstants.java:9:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on field 'COLUMN_ADDRESS': the field is declared in an interface type
+src/com/shashi/constants/IUserConstants.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/constants/IUserConstants.java:10:	ConstantsInInterface:	ConstantsInInterface: Using constants in interfaces is a bad practice.
+src/com/shashi/constants/IUserConstants.java:10:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on field 'COLUMN_PINCODE': the field is declared in an interface type
+src/com/shashi/constants/IUserConstants.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/constants/IUserConstants.java:11:	ConstantsInInterface:	ConstantsInInterface: Using constants in interfaces is a bad practice.
+src/com/shashi/constants/IUserConstants.java:11:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on field 'COLUMN_PASSWORD': the field is declared in an interface type
+src/com/shashi/service/CartService.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/service/CartService.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/CartService.java:9:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addProductToCart': the method is declared in an interface type
+src/com/shashi/service/CartService.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/CartService.java:11:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateProductToCart': the method is declared in an interface type
+src/com/shashi/service/CartService.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/CartService.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllCartItems': the method is declared in an interface type
+src/com/shashi/service/CartService.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/CartService.java:15:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getCartCount': the method is declared in an interface type
+src/com/shashi/service/CartService.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/CartService.java:17:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getCartItemCount': the method is declared in an interface type
+src/com/shashi/service/CartService.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/CartService.java:19:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'removeProductFromCart': the method is declared in an interface type
+src/com/shashi/service/CartService.java:21:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/CartService.java:21:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'removeAProduct': the method is declared in an interface type
+src/com/shashi/service/DemandService.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/service/DemandService.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/DemandService.java:9:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addProduct': the method is declared in an interface type
+src/com/shashi/service/DemandService.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/DemandService.java:11:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addProduct': the method is declared in an interface type
+src/com/shashi/service/DemandService.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/DemandService.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'removeProduct': the method is declared in an interface type
+src/com/shashi/service/DemandService.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/DemandService.java:15:	LinguisticNaming:	LinguisticNaming: Linguistics Antipattern - The method 'haveDemanded' indicates linguistically it returns a boolean, but it returns 'List<DemandBean>'
+src/com/shashi/service/DemandService.java:15:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'haveDemanded': the method is declared in an interface type
+src/com/shashi/service/OrderService.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/service/OrderService.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/OrderService.java:11:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'paymentSuccess': the method is declared in an interface type
+src/com/shashi/service/OrderService.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/OrderService.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addOrder': the method is declared in an interface type
+src/com/shashi/service/OrderService.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/OrderService.java:15:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addTransaction': the method is declared in an interface type
+src/com/shashi/service/OrderService.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/OrderService.java:17:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'countSoldItem': the method is declared in an interface type
+src/com/shashi/service/OrderService.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/OrderService.java:19:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllOrders': the method is declared in an interface type
+src/com/shashi/service/OrderService.java:21:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/OrderService.java:21:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getOrdersByUserId': the method is declared in an interface type
+src/com/shashi/service/OrderService.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/OrderService.java:23:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllOrderDetails': the method is declared in an interface type
+src/com/shashi/service/OrderService.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/OrderService.java:25:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'shipNow': the method is declared in an interface type
+src/com/shashi/service/ProductService.java:8:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/service/ProductService.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/ProductService.java:10:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addProduct': the method is declared in an interface type
+src/com/shashi/service/ProductService.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/ProductService.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addProduct': the method is declared in an interface type
+src/com/shashi/service/ProductService.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/ProductService.java:15:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'removeProduct': the method is declared in an interface type
+src/com/shashi/service/ProductService.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/ProductService.java:17:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateProduct': the method is declared in an interface type
+src/com/shashi/service/ProductService.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/ProductService.java:19:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateProductPrice': the method is declared in an interface type
+src/com/shashi/service/ProductService.java:21:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/ProductService.java:21:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllProducts': the method is declared in an interface type
+src/com/shashi/service/ProductService.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/ProductService.java:23:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllProductsByType': the method is declared in an interface type
+src/com/shashi/service/ProductService.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/ProductService.java:25:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'searchAllProducts': the method is declared in an interface type
+src/com/shashi/service/ProductService.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/ProductService.java:27:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getImage': the method is declared in an interface type
+src/com/shashi/service/ProductService.java:29:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/ProductService.java:29:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getProductDetails': the method is declared in an interface type
+src/com/shashi/service/ProductService.java:31:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/ProductService.java:31:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateProductWithoutImage': the method is declared in an interface type
+src/com/shashi/service/ProductService.java:33:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/ProductService.java:33:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getProductPrice': the method is declared in an interface type
+src/com/shashi/service/ProductService.java:35:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/ProductService.java:35:	ShortVariable:	ShortVariable: Avoid variables with short names like n
+src/com/shashi/service/ProductService.java:35:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'sellNProduct': the method is declared in an interface type
+src/com/shashi/service/ProductService.java:37:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/ProductService.java:37:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getProductQuantity': the method is declared in an interface type
+src/com/shashi/service/TransService.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/service/TransService.java:5:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/TransService.java:5:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getUserId': the method is declared in an interface type
+src/com/shashi/service/UserService.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/service/UserService.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/UserService.java:12:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'registerUser': the method is declared in an interface type
+src/com/shashi/service/UserService.java:12:	UseObjectForClearerAPI:	UseObjectForClearerAPI: Rather than using a lot of String arguments, consider using a container object for those values.
+src/com/shashi/service/UserService.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/UserService.java:15:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'registerUser': the method is declared in an interface type
+src/com/shashi/service/UserService.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/UserService.java:17:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'isRegistered': the method is declared in an interface type
+src/com/shashi/service/UserService.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/UserService.java:19:	LinguisticNaming:	LinguisticNaming: Linguistics Antipattern - The method 'isValidCredential' indicates linguistically it returns a boolean, but it returns 'String'
+src/com/shashi/service/UserService.java:19:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'isValidCredential': the method is declared in an interface type
+src/com/shashi/service/UserService.java:21:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/UserService.java:21:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getUserDetails': the method is declared in an interface type
+src/com/shashi/service/UserService.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/UserService.java:23:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getFName': the method is declared in an interface type
+src/com/shashi/service/UserService.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/UserService.java:25:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getUserAddr': the method is declared in an interface type
+src/com/shashi/service/impl/CartServiceImpl.java:16:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/service/impl/CartServiceImpl.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/service/impl/CartServiceImpl.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:22:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:22:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:24:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:24:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/CartServiceImpl.java:25:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ps2' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:26:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:26:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/CartServiceImpl.java:39:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cartQuantity' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:41:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'product' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:43:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'availableQty' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:45:	AvoidReassigningParameters:	AvoidReassigningParameters: Avoid reassigning parameters such as 'prodQty'
+src/com/shashi/service/impl/CartServiceImpl.java:49:	UnusedAssignment:	UnusedAssignment: The value assigned to variable 'status' is never used (overwritten on lines 51 and 72)
+src/com/shashi/service/impl/CartServiceImpl.java:51:	AddEmptyString:	AddEmptyString: Do not add empty strings
+src/com/shashi/service/impl/CartServiceImpl.java:55:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'demandBean' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:57:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'demand' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:59:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'flag' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:62:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/CartServiceImpl.java:73:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/CartServiceImpl.java:85:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:86:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'items' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:86:	UseDiamondOperator:	UseDiamondOperator: Explicit type arguments can be replaced by a diamond: `new ArrayList<>()`
+src/com/shashi/service/impl/CartServiceImpl.java:88:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:88:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:90:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:90:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/CartServiceImpl.java:91:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:91:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/CartServiceImpl.java:102:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/shashi/service/impl/CartServiceImpl.java:102:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cart' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:114:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/CartServiceImpl.java:125:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:128:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:128:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:130:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:130:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/CartServiceImpl.java:132:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:132:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/CartServiceImpl.java:142:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/CartServiceImpl.java:146:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/CartServiceImpl.java:157:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:157:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:160:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:160:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:162:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:162:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/CartServiceImpl.java:163:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:164:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:164:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/CartServiceImpl.java:190:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'k' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:190:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/com/shashi/service/impl/CartServiceImpl.java:193:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/CartServiceImpl.java:202:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'k' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:202:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/com/shashi/service/impl/CartServiceImpl.java:205:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/CartServiceImpl.java:216:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/CartServiceImpl.java:228:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:228:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:231:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:231:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:233:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:233:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/CartServiceImpl.java:234:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:234:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rs' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:234:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/CartServiceImpl.java:242:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'k' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:242:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/com/shashi/service/impl/CartServiceImpl.java:245:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/CartServiceImpl.java:249:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/CartServiceImpl.java:260:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:260:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodQty' is not assigned and could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:260:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:264:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:264:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:266:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:266:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/CartServiceImpl.java:267:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:268:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:268:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/CartServiceImpl.java:290:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'k' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:290:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/com/shashi/service/impl/CartServiceImpl.java:293:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/CartServiceImpl.java:301:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'k' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:301:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/com/shashi/service/impl/CartServiceImpl.java:304:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/CartServiceImpl.java:316:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'k' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:316:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/com/shashi/service/impl/CartServiceImpl.java:319:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/CartServiceImpl.java:325:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/CartServiceImpl.java:336:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/impl/CartServiceImpl.java:336:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:336:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:339:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:339:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:341:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:341:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/CartServiceImpl.java:341:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'ps' is never used (overwritten on line 345)
+src/com/shashi/service/impl/CartServiceImpl.java:342:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:342:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/CartServiceImpl.java:342:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'rs' is never used (overwritten on line 348)
+src/com/shashi/service/impl/CartServiceImpl.java:351:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/CartServiceImpl.java:354:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/CartServiceImpl.java:361:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'itemId' is not assigned and could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:361:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:362:	PrematureDeclaration:	PrematureDeclaration: Declaration of 'count' can be moved closer to its usages
+src/com/shashi/service/impl/CartServiceImpl.java:364:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/CartServiceImpl.java:364:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/com/shashi/service/impl/CartServiceImpl.java:365:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:365:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/CartServiceImpl.java:367:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:367:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/CartServiceImpl.java:369:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/CartServiceImpl.java:369:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/CartServiceImpl.java:380:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/CartServiceImpl.java:384:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/DemandServiceImpl.java:14:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/service/impl/DemandServiceImpl.java:14:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/service/impl/DemandServiceImpl.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'demandQty' is not assigned and could be declared final
+src/com/shashi/service/impl/DemandServiceImpl.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/service/impl/DemandServiceImpl.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/com/shashi/service/impl/DemandServiceImpl.java:20:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/DemandServiceImpl.java:20:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/DemandServiceImpl.java:22:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/DemandServiceImpl.java:22:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/DemandServiceImpl.java:23:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/DemandServiceImpl.java:24:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/DemandServiceImpl.java:24:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/DemandServiceImpl.java:46:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'k' could be declared final
+src/com/shashi/service/impl/DemandServiceImpl.java:46:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/com/shashi/service/impl/DemandServiceImpl.java:49:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/DemandServiceImpl.java:54:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/DemandServiceImpl.java:66:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/service/impl/DemandServiceImpl.java:66:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/com/shashi/service/impl/DemandServiceImpl.java:69:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/DemandServiceImpl.java:69:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/DemandServiceImpl.java:71:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/DemandServiceImpl.java:71:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/DemandServiceImpl.java:72:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/DemandServiceImpl.java:73:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/DemandServiceImpl.java:73:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/DemandServiceImpl.java:94:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'k' could be declared final
+src/com/shashi/service/impl/DemandServiceImpl.java:94:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/com/shashi/service/impl/DemandServiceImpl.java:97:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/DemandServiceImpl.java:105:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/DemandServiceImpl.java:117:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userDemandBean' is not assigned and could be declared final
+src/com/shashi/service/impl/DemandServiceImpl.java:123:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/service/impl/DemandServiceImpl.java:124:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'demandList' could be declared final
+src/com/shashi/service/impl/DemandServiceImpl.java:124:	UseDiamondOperator:	UseDiamondOperator: Explicit type arguments can be replaced by a diamond: `new ArrayList<>()`
+src/com/shashi/service/impl/DemandServiceImpl.java:126:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/DemandServiceImpl.java:126:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/DemandServiceImpl.java:128:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/DemandServiceImpl.java:128:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/DemandServiceImpl.java:128:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'ps' is never used (overwritten on line 132)
+src/com/shashi/service/impl/DemandServiceImpl.java:129:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/DemandServiceImpl.java:129:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/DemandServiceImpl.java:129:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'rs' is never used (overwritten on line 134)
+src/com/shashi/service/impl/DemandServiceImpl.java:138:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/shashi/service/impl/DemandServiceImpl.java:138:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'demand' could be declared final
+src/com/shashi/service/impl/DemandServiceImpl.java:147:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/OrderServiceImpl.java:18:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/service/impl/OrderServiceImpl.java:18:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/service/impl/OrderServiceImpl.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'paidAmount' is not assigned and could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userName' is not assigned and could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:24:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'cartItems' is never used (overwritten on line 25)
+src/com/shashi/service/impl/OrderServiceImpl.java:24:	UseDiamondOperator:	UseDiamondOperator: Explicit type arguments can be replaced by a diamond: `new ArrayList<>()`
+src/com/shashi/service/impl/OrderServiceImpl.java:27:	UseCollectionIsEmpty:	UseCollectionIsEmpty: Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+src/com/shashi/service/impl/OrderServiceImpl.java:28:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/OrderServiceImpl.java:28:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/com/shashi/service/impl/OrderServiceImpl.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'transaction' could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'transactionId' could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:39:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'item' could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:41:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/shashi/service/impl/OrderServiceImpl.java:41:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'amount' could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:43:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/shashi/service/impl/OrderServiceImpl.java:43:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'order' could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:46:	ConfusingTernary:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/com/shashi/service/impl/OrderServiceImpl.java:47:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/OrderServiceImpl.java:49:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/shashi/service/impl/OrderServiceImpl.java:52:	ConfusingTernary:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/com/shashi/service/impl/OrderServiceImpl.java:53:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/OrderServiceImpl.java:55:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/shashi/service/impl/OrderServiceImpl.java:55:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/OrderServiceImpl.java:58:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/OrderServiceImpl.java:76:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'order' is not assigned and could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:79:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/OrderServiceImpl.java:79:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:81:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/OrderServiceImpl.java:81:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/OrderServiceImpl.java:81:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'ps' is never used (overwritten on line 84)
+src/com/shashi/service/impl/OrderServiceImpl.java:92:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'k' could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:92:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/com/shashi/service/impl/OrderServiceImpl.java:95:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/OrderServiceImpl.java:99:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/OrderServiceImpl.java:106:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'transaction' is not assigned and could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:109:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/OrderServiceImpl.java:109:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:111:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/OrderServiceImpl.java:111:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/OrderServiceImpl.java:111:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'ps' is never used (overwritten on line 114)
+src/com/shashi/service/impl/OrderServiceImpl.java:121:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'k' could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:121:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/com/shashi/service/impl/OrderServiceImpl.java:124:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/OrderServiceImpl.java:128:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/OrderServiceImpl.java:135:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:138:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/OrderServiceImpl.java:138:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:140:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/OrderServiceImpl.java:140:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/OrderServiceImpl.java:142:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/OrderServiceImpl.java:142:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/OrderServiceImpl.java:152:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/OrderServiceImpl.java:156:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/OrderServiceImpl.java:168:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'orderList' could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:168:	UseDiamondOperator:	UseDiamondOperator: Explicit type arguments can be replaced by a diamond: `new ArrayList<>()`
+src/com/shashi/service/impl/OrderServiceImpl.java:170:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/OrderServiceImpl.java:170:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:172:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/OrderServiceImpl.java:172:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/OrderServiceImpl.java:172:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'ps' is never used (overwritten on line 177)
+src/com/shashi/service/impl/OrderServiceImpl.java:173:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/OrderServiceImpl.java:173:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/OrderServiceImpl.java:173:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'rs' is never used (overwritten on line 179)
+src/com/shashi/service/impl/OrderServiceImpl.java:183:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/shashi/service/impl/OrderServiceImpl.java:183:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'order' could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:192:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/OrderServiceImpl.java:199:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'emailId' is not assigned and could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:200:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'orderList' could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:200:	UseDiamondOperator:	UseDiamondOperator: Explicit type arguments can be replaced by a diamond: `new ArrayList<>()`
+src/com/shashi/service/impl/OrderServiceImpl.java:202:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/OrderServiceImpl.java:202:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:204:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/OrderServiceImpl.java:204:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/OrderServiceImpl.java:204:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'ps' is never used (overwritten on line 209)
+src/com/shashi/service/impl/OrderServiceImpl.java:205:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/OrderServiceImpl.java:205:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/OrderServiceImpl.java:205:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'rs' is never used (overwritten on line 212)
+src/com/shashi/service/impl/OrderServiceImpl.java:216:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/shashi/service/impl/OrderServiceImpl.java:216:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'order' could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:225:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/OrderServiceImpl.java:232:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userEmailId' is not assigned and could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:233:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'orderList' could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:233:	UseDiamondOperator:	UseDiamondOperator: Explicit type arguments can be replaced by a diamond: `new ArrayList<>()`
+src/com/shashi/service/impl/OrderServiceImpl.java:235:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/OrderServiceImpl.java:235:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:237:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/OrderServiceImpl.java:237:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/OrderServiceImpl.java:237:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'ps' is never used (overwritten on line 242)
+src/com/shashi/service/impl/OrderServiceImpl.java:238:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/OrderServiceImpl.java:238:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/OrderServiceImpl.java:238:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'rs' is never used (overwritten on line 245)
+src/com/shashi/service/impl/OrderServiceImpl.java:249:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/shashi/service/impl/OrderServiceImpl.java:249:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'order' could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:264:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/OrderServiceImpl.java:271:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'orderId' is not assigned and could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:271:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:274:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/OrderServiceImpl.java:274:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:276:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/OrderServiceImpl.java:276:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/OrderServiceImpl.java:284:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'k' could be declared final
+src/com/shashi/service/impl/OrderServiceImpl.java:284:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/com/shashi/service/impl/OrderServiceImpl.java:292:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/ProductServiceImpl.java:18:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/service/impl/ProductServiceImpl.java:18:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/service/impl/ProductServiceImpl.java:18:	GodClass:	GodClass: Possible God Class (WMC=48, ATFD=96, TCC=0.000%)
+src/com/shashi/service/impl/ProductServiceImpl.java:18:	TooManyMethods:	TooManyMethods: This class has too many methods, consider refactoring it.
+src/com/shashi/service/impl/ProductServiceImpl.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodInfo' is not assigned and could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodName' is not assigned and could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodPrice' is not assigned and could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodQuantity' is not assigned and could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodType' is not assigned and could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodImage' is not assigned and could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:23:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'status' is never used (overwritten on line 28)
+src/com/shashi/service/impl/ProductServiceImpl.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prodId' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'product' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'product' is not assigned and could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:35:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'status' is never used (overwritten on lines 58, 62 and 66)
+src/com/shashi/service/impl/ProductServiceImpl.java:38:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/ProductServiceImpl.java:40:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:40:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:42:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:42:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/ProductServiceImpl.java:54:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'k' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:54:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/com/shashi/service/impl/ProductServiceImpl.java:67:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/ProductServiceImpl.java:77:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:80:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:80:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:82:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:82:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/ProductServiceImpl.java:83:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:89:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'k' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:89:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/com/shashi/service/impl/ProductServiceImpl.java:104:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/ProductServiceImpl.java:115:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prevProduct' is not assigned and could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:115:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'updatedProduct' is not assigned and could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:122:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/com/shashi/service/impl/ProductServiceImpl.java:125:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:125:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:127:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:127:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/ProductServiceImpl.java:141:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'k' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:141:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/com/shashi/service/impl/ProductServiceImpl.java:144:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/ProductServiceImpl.java:148:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/ProductServiceImpl.java:158:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:158:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'updatedPrice' is not assigned and could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:161:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:161:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:163:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:163:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/ProductServiceImpl.java:171:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'k' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:171:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/com/shashi/service/impl/ProductServiceImpl.java:174:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/ProductServiceImpl.java:177:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/ProductServiceImpl.java:188:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'products' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:188:	UseDiamondOperator:	UseDiamondOperator: Explicit type arguments can be replaced by a diamond: `new ArrayList<>()`
+src/com/shashi/service/impl/ProductServiceImpl.java:190:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:190:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:192:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:192:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/ProductServiceImpl.java:193:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:193:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/ProductServiceImpl.java:202:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/shashi/service/impl/ProductServiceImpl.java:202:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'product' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:217:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/ProductServiceImpl.java:228:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'type' is not assigned and could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:229:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'products' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:229:	UseDiamondOperator:	UseDiamondOperator: Explicit type arguments can be replaced by a diamond: `new ArrayList<>()`
+src/com/shashi/service/impl/ProductServiceImpl.java:231:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:231:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:233:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:233:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/ProductServiceImpl.java:234:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:234:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/ProductServiceImpl.java:243:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/shashi/service/impl/ProductServiceImpl.java:243:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'product' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:258:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/ProductServiceImpl.java:270:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'products' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:270:	UseDiamondOperator:	UseDiamondOperator: Explicit type arguments can be replaced by a diamond: `new ArrayList<>()`
+src/com/shashi/service/impl/ProductServiceImpl.java:272:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:272:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:274:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:274:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/ProductServiceImpl.java:275:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:275:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/ProductServiceImpl.java:280:	AvoidReassigningParameters:	AvoidReassigningParameters: Avoid reassigning parameters such as 'search'
+src/com/shashi/service/impl/ProductServiceImpl.java:288:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/shashi/service/impl/ProductServiceImpl.java:288:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'product' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:303:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/ProductServiceImpl.java:314:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:317:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:317:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:319:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:319:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/ProductServiceImpl.java:320:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:320:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/ProductServiceImpl.java:330:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/ProductServiceImpl.java:334:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/ProductServiceImpl.java:345:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:348:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:348:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:350:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:350:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/ProductServiceImpl.java:351:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:351:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/ProductServiceImpl.java:351:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'rs' is never used (overwritten on line 357)
+src/com/shashi/service/impl/ProductServiceImpl.java:372:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/ProductServiceImpl.java:382:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prevProductId' is not assigned and could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:382:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'updatedProduct' is not assigned and could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:389:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/com/shashi/service/impl/ProductServiceImpl.java:392:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prevQuantity' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:393:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:393:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:395:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:395:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/ProductServiceImpl.java:407:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'k' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:407:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/com/shashi/service/impl/ProductServiceImpl.java:412:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'demandList' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:414:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'demand' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:416:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/shashi/service/impl/ProductServiceImpl.java:416:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userFName' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:420:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/shashi/service/impl/ProductServiceImpl.java:421:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/service/impl/ProductServiceImpl.java:423:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/shashi/service/impl/ProductServiceImpl.java:423:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'flag' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:426:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/ProductServiceImpl.java:426:	UseStringBufferForStringAppends:	UseStringBufferForStringAppends: Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+src/com/shashi/service/impl/ProductServiceImpl.java:429:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/ProductServiceImpl.java:431:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/ProductServiceImpl.java:435:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/ProductServiceImpl.java:446:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:449:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:449:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:451:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:451:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/ProductServiceImpl.java:452:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:452:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/ProductServiceImpl.java:452:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'rs' is never used (overwritten on line 458)
+src/com/shashi/service/impl/ProductServiceImpl.java:466:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/ProductServiceImpl.java:476:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'n' is not assigned and could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:476:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:476:	ShortVariable:	ShortVariable: Avoid variables with short names like n
+src/com/shashi/service/impl/ProductServiceImpl.java:479:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:479:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:481:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:481:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/ProductServiceImpl.java:491:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'k' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:491:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/com/shashi/service/impl/ProductServiceImpl.java:494:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/ProductServiceImpl.java:497:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/ProductServiceImpl.java:507:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:511:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:511:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/ProductServiceImpl.java:513:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:513:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/ProductServiceImpl.java:514:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/ProductServiceImpl.java:514:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/ProductServiceImpl.java:514:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'rs' is never used (overwritten on line 520)
+src/com/shashi/service/impl/ProductServiceImpl.java:528:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/TransServiceImpl.java:11:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/service/impl/TransServiceImpl.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/service/impl/TransServiceImpl.java:14:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'transId' is not assigned and could be declared final
+src/com/shashi/service/impl/TransServiceImpl.java:17:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/TransServiceImpl.java:17:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/TransServiceImpl.java:18:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/TransServiceImpl.java:18:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/TransServiceImpl.java:18:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'ps' is never used (overwritten on line 23)
+src/com/shashi/service/impl/TransServiceImpl.java:19:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/TransServiceImpl.java:19:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/TransServiceImpl.java:19:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'rs' is never used (overwritten on line 27)
+src/com/shashi/service/impl/TransServiceImpl.java:30:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/TransServiceImpl.java:33:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/UserServiceImpl.java:14:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/service/impl/UserServiceImpl.java:14:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/service/impl/UserServiceImpl.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'address' is not assigned and could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'emailId' is not assigned and could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'mobileNo' is not assigned and could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'pinCode' is not assigned and could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userName' is not assigned and could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:17:	UseObjectForClearerAPI:	UseObjectForClearerAPI: Rather than using a lot of String arguments, consider using a container object for those values.
+src/com/shashi/service/impl/UserServiceImpl.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:20:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:22:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'status' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:22:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'status'
+src/com/shashi/service/impl/UserServiceImpl.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'isRegtd' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:36:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/com/shashi/service/impl/UserServiceImpl.java:38:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:38:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'conn' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:39:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:39:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/UserServiceImpl.java:41:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/service/impl/UserServiceImpl.java:55:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'k' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:55:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/com/shashi/service/impl/UserServiceImpl.java:64:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/UserServiceImpl.java:74:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'emailId' is not assigned and could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:77:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:77:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:79:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:79:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/UserServiceImpl.java:80:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:80:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/UserServiceImpl.java:90:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/UserServiceImpl.java:94:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/UserServiceImpl.java:105:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'emailId' is not assigned and could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:105:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:108:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:108:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:110:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:110:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/UserServiceImpl.java:111:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:111:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/UserServiceImpl.java:123:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/UserServiceImpl.java:127:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/UserServiceImpl.java:137:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'emailId' is not assigned and could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:137:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:141:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:141:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:143:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:143:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/UserServiceImpl.java:144:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:144:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/UserServiceImpl.java:161:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/com/shashi/service/impl/UserServiceImpl.java:165:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/UserServiceImpl.java:176:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'emailId' is not assigned and could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:179:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:179:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:181:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:181:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/UserServiceImpl.java:181:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'ps' is never used (overwritten on line 185)
+src/com/shashi/service/impl/UserServiceImpl.java:182:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:182:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/UserServiceImpl.java:182:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'rs' is never used (overwritten on line 188)
+src/com/shashi/service/impl/UserServiceImpl.java:199:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/service/impl/UserServiceImpl.java:206:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:209:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:209:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:210:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:210:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/UserServiceImpl.java:210:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'ps' is never used (overwritten on line 214)
+src/com/shashi/service/impl/UserServiceImpl.java:211:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:211:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/UserServiceImpl.java:211:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'rs' is never used (overwritten on line 218)
+src/com/shashi/service/impl/UserServiceImpl.java:221:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/service/impl/UserServiceImpl.java:225:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/srv/AddProductSrv.java:22:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 16177215 should separate every third digit with an underscore
+src/com/shashi/srv/AddProductSrv.java:23:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/srv/AddProductSrv.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/AddProductSrv.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/AddProductSrv.java:26:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/srv/AddProductSrv.java:29:	LawOfDemeter:	LawOfDemeter: Call to `getSession` on foreign value `request` (degree 1)
+src/com/shashi/srv/AddProductSrv.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'session' could be declared final
+src/com/shashi/srv/AddProductSrv.java:30:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `session` (degree 2)
+src/com/shashi/srv/AddProductSrv.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userType' could be declared final
+src/com/shashi/srv/AddProductSrv.java:31:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `session` (degree 2)
+src/com/shashi/srv/AddProductSrv.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userName' could be declared final
+src/com/shashi/srv/AddProductSrv.java:32:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `session` (degree 2)
+src/com/shashi/srv/AddProductSrv.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'password' could be declared final
+src/com/shashi/srv/AddProductSrv.java:34:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/com/shashi/srv/AddProductSrv.java:45:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'status' is never used (overwritten on line 60)
+src/com/shashi/srv/AddProductSrv.java:46:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prodName' could be declared final
+src/com/shashi/srv/AddProductSrv.java:47:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prodType' could be declared final
+src/com/shashi/srv/AddProductSrv.java:48:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prodInfo' could be declared final
+src/com/shashi/srv/AddProductSrv.java:49:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prodPrice' could be declared final
+src/com/shashi/srv/AddProductSrv.java:50:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prodQuantity' could be declared final
+src/com/shashi/srv/AddProductSrv.java:52:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'part' could be declared final
+src/com/shashi/srv/AddProductSrv.java:54:	CloseResource:	CloseResource: Ensure that resources like this InputStream object are closed after use
+src/com/shashi/srv/AddProductSrv.java:54:	LawOfDemeter:	LawOfDemeter: Call to `getInputStream` on foreign value `part` (degree 1)
+src/com/shashi/srv/AddProductSrv.java:54:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'inputStream' could be declared final
+src/com/shashi/srv/AddProductSrv.java:56:	CloseResource:	CloseResource: Ensure that resources like this InputStream object are closed after use
+src/com/shashi/srv/AddProductSrv.java:56:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prodImage' could be declared final
+src/com/shashi/srv/AddProductSrv.java:58:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'product' could be declared final
+src/com/shashi/srv/AddProductSrv.java:62:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/srv/AddProductSrv.java:62:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/srv/AddProductSrv.java:67:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/AddProductSrv.java:67:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/AddProductSrv.java:67:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/srv/AddtoCart.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/srv/AddtoCart.java:27:	UnnecessaryConstructor:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/com/shashi/srv/AddtoCart.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/AddtoCart.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/AddtoCart.java:31:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/srv/AddtoCart.java:34:	LawOfDemeter:	LawOfDemeter: Call to `getSession` on foreign value `request` (degree 1)
+src/com/shashi/srv/AddtoCart.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'session' could be declared final
+src/com/shashi/srv/AddtoCart.java:35:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `session` (degree 2)
+src/com/shashi/srv/AddtoCart.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userName' could be declared final
+src/com/shashi/srv/AddtoCart.java:36:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `session` (degree 2)
+src/com/shashi/srv/AddtoCart.java:36:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'password' could be declared final
+src/com/shashi/srv/AddtoCart.java:37:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `session` (degree 2)
+src/com/shashi/srv/AddtoCart.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'usertype' could be declared final
+src/com/shashi/srv/AddtoCart.java:38:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/com/shashi/srv/AddtoCart.java:45:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userId' could be declared final
+src/com/shashi/srv/AddtoCart.java:46:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prodId' could be declared final
+src/com/shashi/srv/AddtoCart.java:49:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cart' could be declared final
+src/com/shashi/srv/AddtoCart.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'productDao' could be declared final
+src/com/shashi/srv/AddtoCart.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'product' could be declared final
+src/com/shashi/srv/AddtoCart.java:55:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'availableQty' could be declared final
+src/com/shashi/srv/AddtoCart.java:57:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cartQty' could be declared final
+src/com/shashi/srv/AddtoCart.java:61:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/srv/AddtoCart.java:61:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `response` (degree 1)
+src/com/shashi/srv/AddtoCart.java:61:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/srv/AddtoCart.java:61:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/srv/AddtoCart.java:65:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'status' could be declared final
+src/com/shashi/srv/AddtoCart.java:67:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/srv/AddtoCart.java:67:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/srv/AddtoCart.java:74:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'status' is never used (overwritten on lines 77 and 82)
+src/com/shashi/srv/AddtoCart.java:82:	AddEmptyString:	AddEmptyString: Do not add empty strings
+src/com/shashi/srv/AddtoCart.java:86:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'demandBean' could be declared final
+src/com/shashi/srv/AddtoCart.java:88:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'demand' could be declared final
+src/com/shashi/srv/AddtoCart.java:90:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'flag' could be declared final
+src/com/shashi/srv/AddtoCart.java:93:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/srv/AddtoCart.java:96:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/srv/AddtoCart.java:96:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/srv/AddtoCart.java:103:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'status' could be declared final
+src/com/shashi/srv/AddtoCart.java:105:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/srv/AddtoCart.java:105:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/srv/AddtoCart.java:114:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/AddtoCart.java:114:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/AddtoCart.java:114:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/srv/FansMessage.java:18:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/srv/FansMessage.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/FansMessage.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/FansMessage.java:21:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/srv/FansMessage.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'name' could be declared final
+src/com/shashi/srv/FansMessage.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'email' could be declared final
+src/com/shashi/srv/FansMessage.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'comments' could be declared final
+src/com/shashi/srv/FansMessage.java:30:	AddEmptyString:	AddEmptyString: Do not add empty strings
+src/com/shashi/srv/FansMessage.java:30:	AddEmptyString:	AddEmptyString: Do not add empty strings
+src/com/shashi/srv/FansMessage.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'htmlTextMessage' could be declared final
+src/com/shashi/srv/FansMessage.java:38:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/com/shashi/srv/FansMessage.java:43:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/srv/FansMessage.java:43:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/srv/FansMessage.java:47:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `response` (degree 1)
+src/com/shashi/srv/FansMessage.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/FansMessage.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/FansMessage.java:51:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/srv/LoginSrv.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/srv/LoginSrv.java:23:	UnnecessaryConstructor:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/com/shashi/srv/LoginSrv.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/LoginSrv.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/LoginSrv.java:27:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/srv/LoginSrv.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userName' could be declared final
+src/com/shashi/srv/LoginSrv.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'password' could be declared final
+src/com/shashi/srv/LoginSrv.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userType' could be declared final
+src/com/shashi/srv/LoginSrv.java:37:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/com/shashi/srv/LoginSrv.java:39:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/com/shashi/srv/LoginSrv.java:39:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/com/shashi/srv/LoginSrv.java:42:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/srv/LoginSrv.java:42:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/srv/LoginSrv.java:44:	LawOfDemeter:	LawOfDemeter: Call to `getSession` on foreign value `request` (degree 1)
+src/com/shashi/srv/LoginSrv.java:44:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'session' could be declared final
+src/com/shashi/srv/LoginSrv.java:54:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/srv/LoginSrv.java:54:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/srv/LoginSrv.java:60:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'udao' could be declared final
+src/com/shashi/srv/LoginSrv.java:64:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/com/shashi/srv/LoginSrv.java:67:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/com/shashi/srv/LoginSrv.java:69:	LawOfDemeter:	LawOfDemeter: Call to `getSession` on foreign value `request` (degree 1)
+src/com/shashi/srv/LoginSrv.java:69:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'session' could be declared final
+src/com/shashi/srv/LoginSrv.java:77:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/srv/LoginSrv.java:77:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/srv/LoginSrv.java:84:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/srv/LoginSrv.java:84:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/srv/LoginSrv.java:93:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/LoginSrv.java:93:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/LoginSrv.java:93:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/srv/LogoutSrv.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/srv/LogoutSrv.java:20:	UnnecessaryConstructor:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/com/shashi/srv/LogoutSrv.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/LogoutSrv.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/LogoutSrv.java:25:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/srv/LogoutSrv.java:30:	LawOfDemeter:	LawOfDemeter: Call to `getSession` on foreign value `request` (degree 1)
+src/com/shashi/srv/LogoutSrv.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'session' could be declared final
+src/com/shashi/srv/LogoutSrv.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/srv/LogoutSrv.java:37:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/srv/LogoutSrv.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/LogoutSrv.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/LogoutSrv.java:43:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/srv/OrderServlet.java:20:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/srv/OrderServlet.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/OrderServlet.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/OrderServlet.java:23:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/srv/OrderServlet.java:26:	LawOfDemeter:	LawOfDemeter: Call to `getSession` on foreign value `request` (degree 1)
+src/com/shashi/srv/OrderServlet.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'session' could be declared final
+src/com/shashi/srv/OrderServlet.java:27:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `session` (degree 2)
+src/com/shashi/srv/OrderServlet.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userName' could be declared final
+src/com/shashi/srv/OrderServlet.java:28:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `session` (degree 2)
+src/com/shashi/srv/OrderServlet.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'password' could be declared final
+src/com/shashi/srv/OrderServlet.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'paidAmount' could be declared final
+src/com/shashi/srv/OrderServlet.java:36:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'status' could be declared final
+src/com/shashi/srv/OrderServlet.java:38:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/srv/OrderServlet.java:38:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `response` (degree 1)
+src/com/shashi/srv/OrderServlet.java:38:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/srv/OrderServlet.java:38:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/srv/OrderServlet.java:41:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/srv/OrderServlet.java:41:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/srv/OrderServlet.java:48:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/OrderServlet.java:48:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/OrderServlet.java:48:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/srv/RegisterSrv.java:19:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/srv/RegisterSrv.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/RegisterSrv.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/RegisterSrv.java:22:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/srv/RegisterSrv.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userName' could be declared final
+src/com/shashi/srv/RegisterSrv.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mobileNo' could be declared final
+src/com/shashi/srv/RegisterSrv.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'emailId' could be declared final
+src/com/shashi/srv/RegisterSrv.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'address' could be declared final
+src/com/shashi/srv/RegisterSrv.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pinCode' could be declared final
+src/com/shashi/srv/RegisterSrv.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'password' could be declared final
+src/com/shashi/srv/RegisterSrv.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'confirmPassword' could be declared final
+src/com/shashi/srv/RegisterSrv.java:33:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'status' is never used (overwritten on lines 39 and 41)
+src/com/shashi/srv/RegisterSrv.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/com/shashi/srv/RegisterSrv.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'dao' could be declared final
+src/com/shashi/srv/RegisterSrv.java:44:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/srv/RegisterSrv.java:44:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/srv/RegisterSrv.java:49:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/RegisterSrv.java:49:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/RegisterSrv.java:49:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/srv/RemoveProductSrv.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/srv/RemoveProductSrv.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/srv/RemoveProductSrv.java:19:	UnnecessaryConstructor:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/com/shashi/srv/RemoveProductSrv.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/RemoveProductSrv.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/RemoveProductSrv.java:24:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/srv/RemoveProductSrv.java:27:	LawOfDemeter:	LawOfDemeter: Call to `getSession` on foreign value `request` (degree 1)
+src/com/shashi/srv/RemoveProductSrv.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'session' could be declared final
+src/com/shashi/srv/RemoveProductSrv.java:28:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `session` (degree 2)
+src/com/shashi/srv/RemoveProductSrv.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userType' could be declared final
+src/com/shashi/srv/RemoveProductSrv.java:29:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `session` (degree 2)
+src/com/shashi/srv/RemoveProductSrv.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userName' could be declared final
+src/com/shashi/srv/RemoveProductSrv.java:30:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `session` (degree 2)
+src/com/shashi/srv/RemoveProductSrv.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'password' could be declared final
+src/com/shashi/srv/RemoveProductSrv.java:32:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/com/shashi/srv/RemoveProductSrv.java:45:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prodId' could be declared final
+src/com/shashi/srv/RemoveProductSrv.java:47:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'product' could be declared final
+src/com/shashi/srv/RemoveProductSrv.java:49:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'status' could be declared final
+src/com/shashi/srv/RemoveProductSrv.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/srv/RemoveProductSrv.java:51:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/srv/RemoveProductSrv.java:57:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/RemoveProductSrv.java:57:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/RemoveProductSrv.java:57:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/srv/ShipmentServlet.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/srv/ShipmentServlet.java:25:	UnnecessaryConstructor:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/com/shashi/srv/ShipmentServlet.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/ShipmentServlet.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/ShipmentServlet.java:29:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/srv/ShipmentServlet.java:32:	LawOfDemeter:	LawOfDemeter: Call to `getSession` on foreign value `request` (degree 1)
+src/com/shashi/srv/ShipmentServlet.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'session' could be declared final
+src/com/shashi/srv/ShipmentServlet.java:33:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `session` (degree 2)
+src/com/shashi/srv/ShipmentServlet.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userType' could be declared final
+src/com/shashi/srv/ShipmentServlet.java:40:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'orderId' could be declared final
+src/com/shashi/srv/ShipmentServlet.java:41:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prodId' could be declared final
+src/com/shashi/srv/ShipmentServlet.java:42:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userName' could be declared final
+src/com/shashi/srv/ShipmentServlet.java:43:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'amount' could be declared final
+src/com/shashi/srv/ShipmentServlet.java:44:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'status' could be declared final
+src/com/shashi/srv/ShipmentServlet.java:46:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/com/shashi/srv/ShipmentServlet.java:51:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/srv/ShipmentServlet.java:51:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `response` (degree 1)
+src/com/shashi/srv/ShipmentServlet.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/srv/ShipmentServlet.java:51:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/srv/ShipmentServlet.java:54:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/srv/ShipmentServlet.java:54:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/srv/ShipmentServlet.java:61:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/ShipmentServlet.java:61:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/ShipmentServlet.java:61:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/srv/ShowImage.java:19:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/srv/ShowImage.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/srv/ShowImage.java:22:	UnnecessaryConstructor:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/com/shashi/srv/ShowImage.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/ShowImage.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/ShowImage.java:26:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/srv/ShowImage.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prodId' could be declared final
+src/com/shashi/srv/ShowImage.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'dao' could be declared final
+src/com/shashi/srv/ShowImage.java:36:	LawOfDemeter:	LawOfDemeter: Call to `getServletContext` on foreign value `request` (degree 1)
+src/com/shashi/srv/ShowImage.java:36:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'fnew' could be declared final
+src/com/shashi/srv/ShowImage.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'originalImage' could be declared final
+src/com/shashi/srv/ShowImage.java:38:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'baos' could be declared final
+src/com/shashi/srv/ShowImage.java:43:	CloseResource:	CloseResource: Ensure that resources like this ServletOutputStream object are closed after use
+src/com/shashi/srv/ShowImage.java:43:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'sos' is never used (overwritten on line 45)
+src/com/shashi/srv/ShowImage.java:45:	LawOfDemeter:	LawOfDemeter: Call to `getOutputStream` on foreign value `response` (degree 1)
+src/com/shashi/srv/ShowImage.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/ShowImage.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/ShowImage.java:51:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/srv/UpdateProductSrv.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/srv/UpdateProductSrv.java:23:	UnnecessaryConstructor:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/com/shashi/srv/UpdateProductSrv.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/UpdateProductSrv.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/UpdateProductSrv.java:28:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/srv/UpdateProductSrv.java:31:	LawOfDemeter:	LawOfDemeter: Call to `getSession` on foreign value `request` (degree 1)
+src/com/shashi/srv/UpdateProductSrv.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'session' could be declared final
+src/com/shashi/srv/UpdateProductSrv.java:32:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `session` (degree 2)
+src/com/shashi/srv/UpdateProductSrv.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userType' could be declared final
+src/com/shashi/srv/UpdateProductSrv.java:33:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `session` (degree 2)
+src/com/shashi/srv/UpdateProductSrv.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userName' could be declared final
+src/com/shashi/srv/UpdateProductSrv.java:34:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `session` (degree 2)
+src/com/shashi/srv/UpdateProductSrv.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'password' could be declared final
+src/com/shashi/srv/UpdateProductSrv.java:36:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/com/shashi/srv/UpdateProductSrv.java:39:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/com/shashi/srv/UpdateProductSrv.java:49:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prodId' could be declared final
+src/com/shashi/srv/UpdateProductSrv.java:50:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prodName' could be declared final
+src/com/shashi/srv/UpdateProductSrv.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prodType' could be declared final
+src/com/shashi/srv/UpdateProductSrv.java:52:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prodInfo' could be declared final
+src/com/shashi/srv/UpdateProductSrv.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prodPrice' could be declared final
+src/com/shashi/srv/UpdateProductSrv.java:54:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prodQuantity' could be declared final
+src/com/shashi/srv/UpdateProductSrv.java:56:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'product' could be declared final
+src/com/shashi/srv/UpdateProductSrv.java:64:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'dao' could be declared final
+src/com/shashi/srv/UpdateProductSrv.java:66:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'status' could be declared final
+src/com/shashi/srv/UpdateProductSrv.java:68:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/srv/UpdateProductSrv.java:68:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/srv/UpdateProductSrv.java:74:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/UpdateProductSrv.java:74:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/UpdateProductSrv.java:74:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/srv/UpdateToCart.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/srv/UpdateToCart.java:27:	UnnecessaryConstructor:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/com/shashi/srv/UpdateToCart.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/UpdateToCart.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/UpdateToCart.java:32:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/srv/UpdateToCart.java:34:	LawOfDemeter:	LawOfDemeter: Call to `getSession` on foreign value `request` (degree 1)
+src/com/shashi/srv/UpdateToCart.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'session' could be declared final
+src/com/shashi/srv/UpdateToCart.java:35:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `session` (degree 2)
+src/com/shashi/srv/UpdateToCart.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userName' could be declared final
+src/com/shashi/srv/UpdateToCart.java:36:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `session` (degree 2)
+src/com/shashi/srv/UpdateToCart.java:36:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'password' could be declared final
+src/com/shashi/srv/UpdateToCart.java:45:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userId' could be declared final
+src/com/shashi/srv/UpdateToCart.java:46:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'prodId' could be declared final
+src/com/shashi/srv/UpdateToCart.java:47:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pQty' could be declared final
+src/com/shashi/srv/UpdateToCart.java:49:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cart' could be declared final
+src/com/shashi/srv/UpdateToCart.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'productDao' could be declared final
+src/com/shashi/srv/UpdateToCart.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'product' could be declared final
+src/com/shashi/srv/UpdateToCart.java:55:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'availableQty' could be declared final
+src/com/shashi/srv/UpdateToCart.java:57:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/srv/UpdateToCart.java:57:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `response` (degree 1)
+src/com/shashi/srv/UpdateToCart.java:57:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/srv/UpdateToCart.java:57:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/srv/UpdateToCart.java:63:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'status' is never used (overwritten on line 65)
+src/com/shashi/srv/UpdateToCart.java:65:	AddEmptyString:	AddEmptyString: Do not add empty strings
+src/com/shashi/srv/UpdateToCart.java:69:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'demandBean' could be declared final
+src/com/shashi/srv/UpdateToCart.java:71:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'demand' could be declared final
+src/com/shashi/srv/UpdateToCart.java:73:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'flag' could be declared final
+src/com/shashi/srv/UpdateToCart.java:76:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/srv/UpdateToCart.java:79:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/srv/UpdateToCart.java:79:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/srv/UpdateToCart.java:86:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'status' could be declared final
+src/com/shashi/srv/UpdateToCart.java:88:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/srv/UpdateToCart.java:88:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/srv/UpdateToCart.java:97:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/srv/UpdateToCart.java:97:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/srv/UpdateToCart.java:97:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/utility/DBUtil.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/utility/DBUtil.java:10:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/com/shashi/utility/DBUtil.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/utility/DBUtil.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/utility/DBUtil.java:13:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/com/shashi/utility/DBUtil.java:13:	UnnecessaryConstructor:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/com/shashi/utility/DBUtil.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/utility/DBUtil.java:19:	NonThreadSafeSingleton:	NonThreadSafeSingleton: Singleton is not thread safe
+src/com/shashi/utility/DBUtil.java:20:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rb' could be declared final
+src/com/shashi/utility/DBUtil.java:20:	ShortVariable:	ShortVariable: Avoid variables with short names like rb
+src/com/shashi/utility/DBUtil.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'connectionString' could be declared final
+src/com/shashi/utility/DBUtil.java:22:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'driverName' could be declared final
+src/com/shashi/utility/DBUtil.java:23:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'username' could be declared final
+src/com/shashi/utility/DBUtil.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'password' could be declared final
+src/com/shashi/utility/DBUtil.java:28:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/utility/DBUtil.java:35:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/utility/DBUtil.java:41:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/utility/DBUtil.java:50:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/utility/DBUtil.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rs' is not assigned and could be declared final
+src/com/shashi/utility/DBUtil.java:50:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/utility/DBUtil.java:57:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/utility/DBUtil.java:62:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/utility/DBUtil.java:66:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/utility/DBUtil.java:66:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ps' is not assigned and could be declared final
+src/com/shashi/utility/DBUtil.java:66:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/utility/DBUtil.java:73:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/utility/DBUtil.java:78:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/utility/IDUtil.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/utility/IDUtil.java:6:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/com/shashi/utility/IDUtil.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/utility/IDUtil.java:9:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'pId' is never used (overwritten on line 12)
+src/com/shashi/utility/IDUtil.java:11:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sdf' could be declared final
+src/com/shashi/utility/IDUtil.java:11:	SimpleDateFormatNeedsLocale:	SimpleDateFormatNeedsLocale: When instantiating a SimpleDateFormat object, specify a Locale
+src/com/shashi/utility/IDUtil.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/utility/IDUtil.java:19:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'tId' is never used (overwritten on line 22)
+src/com/shashi/utility/IDUtil.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sdf' could be declared final
+src/com/shashi/utility/IDUtil.java:21:	SimpleDateFormatNeedsLocale:	SimpleDateFormatNeedsLocale: When instantiating a SimpleDateFormat object, specify a Locale
+src/com/shashi/utility/JavaMailUtil.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/utility/JavaMailUtil.java:17:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/com/shashi/utility/JavaMailUtil.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/utility/JavaMailUtil.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'recipientMailId' is not assigned and could be declared final
+src/com/shashi/utility/JavaMailUtil.java:20:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/utility/JavaMailUtil.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'properties' could be declared final
+src/com/shashi/utility/JavaMailUtil.java:22:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'host' could be declared final
+src/com/shashi/utility/JavaMailUtil.java:25:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "true" appears 4 times in this file; the first occurrence is on line 25
+src/com/shashi/utility/JavaMailUtil.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rb' could be declared final
+src/com/shashi/utility/JavaMailUtil.java:29:	ShortVariable:	ShortVariable: Avoid variables with short names like rb
+src/com/shashi/utility/JavaMailUtil.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'emailId' could be declared final
+src/com/shashi/utility/JavaMailUtil.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'passWord' could be declared final
+src/com/shashi/utility/JavaMailUtil.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'session' could be declared final
+src/com/shashi/utility/JavaMailUtil.java:46:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'message' could be declared final
+src/com/shashi/utility/JavaMailUtil.java:50:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/utility/JavaMailUtil.java:54:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'myAccountEmail' is not assigned and could be declared final
+src/com/shashi/utility/JavaMailUtil.java:54:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'recipientEmail' is not assigned and could be declared final
+src/com/shashi/utility/JavaMailUtil.java:54:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'session' is not assigned and could be declared final
+src/com/shashi/utility/JavaMailUtil.java:58:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'message' could be declared final
+src/com/shashi/utility/JavaMailUtil.java:64:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/com/shashi/utility/JavaMailUtil.java:66:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/shashi/utility/JavaMailUtil.java:67:	GuardLogStatement:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/com/shashi/utility/JavaMailUtil.java:73:	CommentRequired:	CommentRequired: Protected method constructor comments are required
+src/com/shashi/utility/JavaMailUtil.java:73:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'htmlTextMessage' is not assigned and could be declared final
+src/com/shashi/utility/JavaMailUtil.java:73:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'recipient' is not assigned and could be declared final
+src/com/shashi/utility/JavaMailUtil.java:73:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'subject' is not assigned and could be declared final
+src/com/shashi/utility/JavaMailUtil.java:75:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/utility/JavaMailUtil.java:76:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'properties' could be declared final
+src/com/shashi/utility/JavaMailUtil.java:77:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'host' could be declared final
+src/com/shashi/utility/JavaMailUtil.java:84:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rb' could be declared final
+src/com/shashi/utility/JavaMailUtil.java:84:	ShortVariable:	ShortVariable: Avoid variables with short names like rb
+src/com/shashi/utility/JavaMailUtil.java:86:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'emailId' could be declared final
+src/com/shashi/utility/JavaMailUtil.java:87:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'passWord' could be declared final
+src/com/shashi/utility/JavaMailUtil.java:92:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'session' could be declared final
+src/com/shashi/utility/JavaMailUtil.java:101:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'message' could be declared final
+src/com/shashi/utility/JavaMailUtil.java:105:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/utility/JavaMailUtil.java:109:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'myAccountEmail' is not assigned and could be declared final
+src/com/shashi/utility/JavaMailUtil.java:109:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'recipientEmail' is not assigned and could be declared final
+src/com/shashi/utility/JavaMailUtil.java:109:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'session' is not assigned and could be declared final
+src/com/shashi/utility/JavaMailUtil.java:109:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'subject' is not assigned and could be declared final
+src/com/shashi/utility/JavaMailUtil.java:110:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'htmlTextMessage' is not assigned and could be declared final
+src/com/shashi/utility/JavaMailUtil.java:114:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'message' could be declared final
+src/com/shashi/utility/JavaMailUtil.java:120:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/com/shashi/utility/JavaMailUtil.java:122:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/shashi/utility/JavaMailUtil.java:123:	GuardLogStatement:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/com/shashi/utility/MailMessage.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/utility/MailMessage.java:5:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/com/shashi/utility/MailMessage.java:6:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/utility/MailMessage.java:6:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'emailId' is not assigned and could be declared final
+src/com/shashi/utility/MailMessage.java:6:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/com/shashi/utility/MailMessage.java:7:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'recipient' could be declared final
+src/com/shashi/utility/MailMessage.java:8:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'subject' could be declared final
+src/com/shashi/utility/MailMessage.java:9:	AddEmptyString:	AddEmptyString: Do not add empty strings
+src/com/shashi/utility/MailMessage.java:9:	AddEmptyString:	AddEmptyString: Do not add empty strings
+src/com/shashi/utility/MailMessage.java:9:	AddEmptyString:	AddEmptyString: Do not add empty strings
+src/com/shashi/utility/MailMessage.java:9:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "<html>" appears 4 times in this file; the first occurrence is on line 9
+src/com/shashi/utility/MailMessage.java:9:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'htmlTextMessage' could be declared final
+src/com/shashi/utility/MailMessage.java:19:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "</html>" appears 4 times in this file; the first occurrence is on line 19
+src/com/shashi/utility/MailMessage.java:24:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/utility/MailMessage.java:28:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/utility/MailMessage.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/com/shashi/utility/MailMessage.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'recipientEmail' is not assigned and could be declared final
+src/com/shashi/utility/MailMessage.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'transAmount' is not assigned and could be declared final
+src/com/shashi/utility/MailMessage.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'transId' is not assigned and could be declared final
+src/com/shashi/utility/MailMessage.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'recipient' could be declared final
+src/com/shashi/utility/MailMessage.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'subject' could be declared final
+src/com/shashi/utility/MailMessage.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'htmlTextMessage' could be declared final
+src/com/shashi/utility/MailMessage.java:32:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "      <br/><br/>" appears 6 times in this file; the first occurrence is on line 32
+src/com/shashi/utility/MailMessage.java:35:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "      <br/>" appears 9 times in this file; the first occurrence is on line 35
+src/com/shashi/utility/MailMessage.java:46:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/utility/MailMessage.java:50:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/utility/MailMessage.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/com/shashi/utility/MailMessage.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'recipientEmail' is not assigned and could be declared final
+src/com/shashi/utility/MailMessage.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'transAmount' is not assigned and could be declared final
+src/com/shashi/utility/MailMessage.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'transId' is not assigned and could be declared final
+src/com/shashi/utility/MailMessage.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'recipient' could be declared final
+src/com/shashi/utility/MailMessage.java:52:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'subject' could be declared final
+src/com/shashi/utility/MailMessage.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'htmlTextMessage' could be declared final
+src/com/shashi/utility/MailMessage.java:68:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/utility/MailMessage.java:72:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/utility/MailMessage.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/com/shashi/utility/MailMessage.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodId' is not assigned and could be declared final
+src/com/shashi/utility/MailMessage.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'prodName' is not assigned and could be declared final
+src/com/shashi/utility/MailMessage.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'recipientEmail' is not assigned and could be declared final
+src/com/shashi/utility/MailMessage.java:72:	UseObjectForClearerAPI:	UseObjectForClearerAPI: Rather than using a lot of String arguments, consider using a container object for those values.
+src/com/shashi/utility/MailMessage.java:73:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'recipient' could be declared final
+src/com/shashi/utility/MailMessage.java:74:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'subject' could be declared final
+src/com/shashi/utility/MailMessage.java:75:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'htmlTextMessage' could be declared final
+src/com/shashi/utility/MailMessage.java:95:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/utility/MailMessage.java:99:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/utility/MailMessage.java:99:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'htmlTextMessage' is not assigned and could be declared final
+src/com/shashi/utility/MailMessage.java:99:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'subject' is not assigned and could be declared final
+src/com/shashi/utility/MailMessage.java:99:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'toEmailId' is not assigned and could be declared final
+src/com/shashi/utility/MailMessage.java:103:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/utility/MailMessage.java:104:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/com/shashi/utility/TestMail.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/utility/TestMail.java:5:	TestClassWithoutTestCases:	TestClassWithoutTestCases: The class 'TestMail' might be a test class, but it contains no test cases.
+src/com/shashi/utility/TestMail.java:5:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/com/shashi/utility/TestMail.java:6:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/utility/TestMail.java:8:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'recipient' could be declared final
+src/com/shashi/utility/TestMail.java:9:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'subject' could be declared final
+src/com/shashi/utility/TestMail.java:10:	AddEmptyString:	AddEmptyString: Do not add empty strings
+src/com/shashi/utility/TestMail.java:10:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'htmlTextMessage' could be declared final
+src/com/shashi/utility/TestMail.java:23:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/utility/TestMail.java:26:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/utility/TestMail.java:27:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.

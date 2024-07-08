@@ -1,0 +1,380 @@
+Hotel-Management-Project-Java-master/Main.java:10:	CommentRequired:	CommentRequired: Class comments are required
+Hotel-Management-Project-Java-master/Main.java:10:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+Hotel-Management-Project-Java-master/Main.java:10:	NoPackage:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+Hotel-Management-Project-Java-master/Main.java:10:	ShortClassName:	ShortClassName: Avoid short class names like Food
+Hotel-Management-Project-Java-master/Main.java:12:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'itemno'
+Hotel-Management-Project-Java-master/Main.java:12:	CommentRequired:	CommentRequired: Field comments are required
+Hotel-Management-Project-Java-master/Main.java:13:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'quantity'
+Hotel-Management-Project-Java-master/Main.java:13:	CommentRequired:	CommentRequired: Field comments are required
+Hotel-Management-Project-Java-master/Main.java:14:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'price'
+Hotel-Management-Project-Java-master/Main.java:14:	CommentRequired:	CommentRequired: Field comments are required
+Hotel-Management-Project-Java-master/Main.java:16:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on constructor 'Food(int, int)'
+Hotel-Management-Project-Java-master/Main.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'itemno' is not assigned and could be declared final
+Hotel-Management-Project-Java-master/Main.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+Hotel-Management-Project-Java-master/Main.java:20:	SwitchStmtsShouldHaveDefault:	SwitchStmtsShouldHaveDefault: Switch statements should be exhaustive, add a default case (or missing enum branches)
+Hotel-Management-Project-Java-master/Main.java:33:	CommentRequired:	CommentRequired: Class comments are required
+Hotel-Management-Project-Java-master/Main.java:33:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+Hotel-Management-Project-Java-master/Main.java:35:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'name'
+Hotel-Management-Project-Java-master/Main.java:35:	CommentRequired:	CommentRequired: Field comments are required
+Hotel-Management-Project-Java-master/Main.java:36:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'contact'
+Hotel-Management-Project-Java-master/Main.java:36:	CommentRequired:	CommentRequired: Field comments are required
+Hotel-Management-Project-Java-master/Main.java:37:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'gender'
+Hotel-Management-Project-Java-master/Main.java:37:	CommentRequired:	CommentRequired: Field comments are required
+Hotel-Management-Project-Java-master/Main.java:38:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'food'
+Hotel-Management-Project-Java-master/Main.java:38:	CommentRequired:	CommentRequired: Field comments are required
+Hotel-Management-Project-Java-master/Main.java:38:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+Hotel-Management-Project-Java-master/Main.java:41:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on constructor 'Singleroom()'
+Hotel-Management-Project-Java-master/Main.java:45:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on constructor 'Singleroom(String, String, String)'
+Hotel-Management-Project-Java-master/Main.java:45:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'contact' is not assigned and could be declared final
+Hotel-Management-Project-Java-master/Main.java:45:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'gender' is not assigned and could be declared final
+Hotel-Management-Project-Java-master/Main.java:45:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+Hotel-Management-Project-Java-master/Main.java:52:	CommentRequired:	CommentRequired: Class comments are required
+Hotel-Management-Project-Java-master/Main.java:52:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+Hotel-Management-Project-Java-master/Main.java:54:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'name2'
+Hotel-Management-Project-Java-master/Main.java:54:	CommentRequired:	CommentRequired: Field comments are required
+Hotel-Management-Project-Java-master/Main.java:55:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'contact2'
+Hotel-Management-Project-Java-master/Main.java:55:	CommentRequired:	CommentRequired: Field comments are required
+Hotel-Management-Project-Java-master/Main.java:56:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'gender2'
+Hotel-Management-Project-Java-master/Main.java:56:	CommentRequired:	CommentRequired: Field comments are required
+Hotel-Management-Project-Java-master/Main.java:58:	CallSuperInConstructor:	CallSuperInConstructor: It is a good practice to call super() in a constructor
+Hotel-Management-Project-Java-master/Main.java:58:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on constructor 'Doubleroom()'
+Hotel-Management-Project-Java-master/Main.java:63:	CallSuperInConstructor:	CallSuperInConstructor: It is a good practice to call super() in a constructor
+Hotel-Management-Project-Java-master/Main.java:63:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on constructor 'Doubleroom(String, String, String, String, String, String)'
+Hotel-Management-Project-Java-master/Main.java:63:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'contact' is not assigned and could be declared final
+Hotel-Management-Project-Java-master/Main.java:63:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'contact2' is not assigned and could be declared final
+Hotel-Management-Project-Java-master/Main.java:63:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'gender' is not assigned and could be declared final
+Hotel-Management-Project-Java-master/Main.java:63:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'gender2' is not assigned and could be declared final
+Hotel-Management-Project-Java-master/Main.java:63:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+Hotel-Management-Project-Java-master/Main.java:63:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name2' is not assigned and could be declared final
+Hotel-Management-Project-Java-master/Main.java:73:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+Hotel-Management-Project-Java-master/Main.java:73:	CommentRequired:	CommentRequired: Class comments are required
+Hotel-Management-Project-Java-master/Main.java:73:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+Hotel-Management-Project-Java-master/Main.java:82:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+Hotel-Management-Project-Java-master/Main.java:82:	ClassNamingConventions:	ClassNamingConventions: The class name 'holder' doesn't match '[A-Z][a-zA-Z0-9]*'
+Hotel-Management-Project-Java-master/Main.java:82:	CommentRequired:	CommentRequired: Class comments are required
+Hotel-Management-Project-Java-master/Main.java:82:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+Hotel-Management-Project-Java-master/Main.java:84:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'luxury_doublerrom'
+Hotel-Management-Project-Java-master/Main.java:84:	CommentRequired:	CommentRequired: Field comments are required
+Hotel-Management-Project-Java-master/Main.java:84:	FieldNamingConventions:	FieldNamingConventions: The field name 'luxury_doublerrom' doesn't match '[a-z][a-zA-Z0-9]*'
+Hotel-Management-Project-Java-master/Main.java:85:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'deluxe_doublerrom'
+Hotel-Management-Project-Java-master/Main.java:85:	CommentRequired:	CommentRequired: Field comments are required
+Hotel-Management-Project-Java-master/Main.java:85:	FieldNamingConventions:	FieldNamingConventions: The field name 'deluxe_doublerrom' doesn't match '[a-z][a-zA-Z0-9]*'
+Hotel-Management-Project-Java-master/Main.java:86:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'luxury_singleerrom'
+Hotel-Management-Project-Java-master/Main.java:86:	CommentRequired:	CommentRequired: Field comments are required
+Hotel-Management-Project-Java-master/Main.java:86:	FieldNamingConventions:	FieldNamingConventions: The field name 'luxury_singleerrom' doesn't match '[a-z][a-zA-Z0-9]*'
+Hotel-Management-Project-Java-master/Main.java:86:	LongVariable:	LongVariable: Avoid excessively long variable names like luxury_singleerrom
+Hotel-Management-Project-Java-master/Main.java:87:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'deluxe_singleerrom'
+Hotel-Management-Project-Java-master/Main.java:87:	CommentRequired:	CommentRequired: Field comments are required
+Hotel-Management-Project-Java-master/Main.java:87:	FieldNamingConventions:	FieldNamingConventions: The field name 'deluxe_singleerrom' doesn't match '[a-z][a-zA-Z0-9]*'
+Hotel-Management-Project-Java-master/Main.java:87:	LongVariable:	LongVariable: Avoid excessively long variable names like deluxe_singleerrom
+Hotel-Management-Project-Java-master/Main.java:90:	CommentRequired:	CommentRequired: Class comments are required
+Hotel-Management-Project-Java-master/Main.java:90:	CyclomaticComplexity:	CyclomaticComplexity: The class 'Hotel' has a total cyclomatic complexity of 84 (highest 25).
+Hotel-Management-Project-Java-master/Main.java:90:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+Hotel-Management-Project-Java-master/Main.java:92:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'hotel_ob'
+Hotel-Management-Project-Java-master/Main.java:92:	CommentRequired:	CommentRequired: Field comments are required
+Hotel-Management-Project-Java-master/Main.java:92:	FieldNamingConventions:	FieldNamingConventions: The static field name 'hotel_ob' doesn't match '[a-z][a-zA-Z0-9]*'
+Hotel-Management-Project-Java-master/Main.java:92:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+Hotel-Management-Project-Java-master/Main.java:93:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'sc'
+Hotel-Management-Project-Java-master/Main.java:93:	CommentRequired:	CommentRequired: Field comments are required
+Hotel-Management-Project-Java-master/Main.java:93:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+Hotel-Management-Project-Java-master/Main.java:93:	ShortVariable:	ShortVariable: Avoid variables with short names like sc
+Hotel-Management-Project-Java-master/Main.java:94:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'CustDetails(int, int)'
+Hotel-Management-Project-Java-master/Main.java:94:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'i' is not assigned and could be declared final
+Hotel-Management-Project-Java-master/Main.java:94:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rn' is not assigned and could be declared final
+Hotel-Management-Project-Java-master/Main.java:94:	MethodNamingConventions:	MethodNamingConventions: The static method name 'CustDetails' doesn't match '[a-z][a-zA-Z0-9]*'
+Hotel-Management-Project-Java-master/Main.java:94:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+Hotel-Management-Project-Java-master/Main.java:94:	ShortVariable:	ShortVariable: Avoid variables with short names like rn
+Hotel-Management-Project-Java-master/Main.java:96:	OneDeclarationPerLine:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+Hotel-Management-Project-Java-master/Main.java:97:	OneDeclarationPerLine:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+Hotel-Management-Project-Java-master/Main.java:99:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:101:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:103:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:105:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+Hotel-Management-Project-Java-master/Main.java:107:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:109:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:111:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:116:	LawOfDemeter:	LawOfDemeter: Access to field `luxury_doublerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:118:	LawOfDemeter:	LawOfDemeter: Access to field `deluxe_doublerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:120:	LawOfDemeter:	LawOfDemeter: Access to field `luxury_singleerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:122:	LawOfDemeter:	LawOfDemeter: Access to field `deluxe_singleerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:124:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:129:	CognitiveComplexity:	CognitiveComplexity: The method 'bookroom(int)' has a cognitive complexity of 37, current threshold is 15
+Hotel-Management-Project-Java-master/Main.java:129:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'bookroom(int)'
+Hotel-Management-Project-Java-master/Main.java:129:	CyclomaticComplexity:	CyclomaticComplexity: The method 'bookroom(int)' has a cyclomatic complexity of 25.
+Hotel-Management-Project-Java-master/Main.java:129:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'i' is not assigned and could be declared final
+Hotel-Management-Project-Java-master/Main.java:129:	NcssCount:	NcssCount: The method 'bookroom(int)' has a NCSS line count of 65.
+Hotel-Management-Project-Java-master/Main.java:129:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+Hotel-Management-Project-Java-master/Main.java:131:	ShortVariable:	ShortVariable: Avoid variables with short names like j
+Hotel-Management-Project-Java-master/Main.java:132:	ShortVariable:	ShortVariable: Avoid variables with short names like rn
+Hotel-Management-Project-Java-master/Main.java:133:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:134:	SwitchDensity:	SwitchDensity: A high ratio of statements to labels in a switch statement.  Consider refactoring.
+Hotel-Management-Project-Java-master/Main.java:136:	LawOfDemeter:	LawOfDemeter: Access to field `luxury_doublerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:138:	LawOfDemeter:	LawOfDemeter: Access to field `luxury_doublerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:140:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:143:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "\nEnter room number: " appears 4 times in this file; the first occurrence is on line 143
+Hotel-Management-Project-Java-master/Main.java:143:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:147:	LawOfDemeter:	LawOfDemeter: Access to field `luxury_doublerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:148:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:151:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+Hotel-Management-Project-Java-master/Main.java:151:	ExceptionAsFlowControl:	ExceptionAsFlowControl: Exception thrown at line 148 is caught in this block.
+Hotel-Management-Project-Java-master/Main.java:153:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Invalid Option" appears 5 times in this file; the first occurrence is on line 153
+Hotel-Management-Project-Java-master/Main.java:153:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:154:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+Hotel-Management-Project-Java-master/Main.java:158:	LawOfDemeter:	LawOfDemeter: Access to field `deluxe_doublerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:160:	LawOfDemeter:	LawOfDemeter: Access to field `deluxe_doublerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:162:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:165:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:169:	LawOfDemeter:	LawOfDemeter: Access to field `deluxe_doublerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:170:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:173:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+Hotel-Management-Project-Java-master/Main.java:173:	ExceptionAsFlowControl:	ExceptionAsFlowControl: Exception thrown at line 170 is caught in this block.
+Hotel-Management-Project-Java-master/Main.java:175:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:176:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+Hotel-Management-Project-Java-master/Main.java:180:	LawOfDemeter:	LawOfDemeter: Access to field `luxury_singleerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:182:	LawOfDemeter:	LawOfDemeter: Access to field `luxury_singleerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:184:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:187:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:191:	LawOfDemeter:	LawOfDemeter: Access to field `luxury_singleerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:192:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:195:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+Hotel-Management-Project-Java-master/Main.java:195:	ExceptionAsFlowControl:	ExceptionAsFlowControl: Exception thrown at line 192 is caught in this block.
+Hotel-Management-Project-Java-master/Main.java:197:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:198:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+Hotel-Management-Project-Java-master/Main.java:202:	LawOfDemeter:	LawOfDemeter: Access to field `deluxe_singleerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:204:	LawOfDemeter:	LawOfDemeter: Access to field `deluxe_singleerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:206:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:209:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:213:	LawOfDemeter:	LawOfDemeter: Access to field `deluxe_singleerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:214:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:217:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+Hotel-Management-Project-Java-master/Main.java:217:	ExceptionAsFlowControl:	ExceptionAsFlowControl: Exception thrown at line 214 is caught in this block.
+Hotel-Management-Project-Java-master/Main.java:219:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:224:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:227:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:230:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'features(int)'
+Hotel-Management-Project-Java-master/Main.java:230:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'i' is not assigned and could be declared final
+Hotel-Management-Project-Java-master/Main.java:230:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+Hotel-Management-Project-Java-master/Main.java:233:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:235:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:237:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:239:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:242:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:247:	CognitiveComplexity:	CognitiveComplexity: The method 'availability(int)' has a cognitive complexity of 21, current threshold is 15
+Hotel-Management-Project-Java-master/Main.java:247:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'availability(int)'
+Hotel-Management-Project-Java-master/Main.java:247:	CyclomaticComplexity:	CyclomaticComplexity: The method 'availability(int)' has a cyclomatic complexity of 13.
+Hotel-Management-Project-Java-master/Main.java:247:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'i' is not assigned and could be declared final
+Hotel-Management-Project-Java-master/Main.java:247:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+Hotel-Management-Project-Java-master/Main.java:249:	OneDeclarationPerLine:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+Hotel-Management-Project-Java-master/Main.java:249:	ShortVariable:	ShortVariable: Avoid variables with short names like j
+Hotel-Management-Project-Java-master/Main.java:254:	LawOfDemeter:	LawOfDemeter: Access to field `luxury_doublerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:255:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:259:	LawOfDemeter:	LawOfDemeter: Access to field `deluxe_doublerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:261:	LawOfDemeter:	LawOfDemeter: Access to field `deluxe_doublerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:262:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:266:	LawOfDemeter:	LawOfDemeter: Access to field `luxury_singleerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:268:	LawOfDemeter:	LawOfDemeter: Access to field `luxury_singleerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:269:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:273:	LawOfDemeter:	LawOfDemeter: Access to field `deluxe_singleerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:275:	LawOfDemeter:	LawOfDemeter: Access to field `deluxe_singleerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:276:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:280:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:283:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:286:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'bill(int, int)'
+Hotel-Management-Project-Java-master/Main.java:286:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rn' is not assigned and could be declared final
+Hotel-Management-Project-Java-master/Main.java:286:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rtype' is not assigned and could be declared final
+Hotel-Management-Project-Java-master/Main.java:286:	ShortVariable:	ShortVariable: Avoid variables with short names like rn
+Hotel-Management-Project-Java-master/Main.java:289:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'list' could be declared final
+Hotel-Management-Project-Java-master/Main.java:290:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:291:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:292:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:294:	SwitchDensity:	SwitchDensity: A high ratio of statements to labels in a switch statement.  Consider refactoring.
+Hotel-Management-Project-Java-master/Main.java:298:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:299:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:300:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:301:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "===============" appears 4 times in this file; the first occurrence is on line 301
+Hotel-Management-Project-Java-master/Main.java:301:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:302:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Item   Quantity    Price" appears 4 times in this file; the first occurrence is on line 302
+Hotel-Management-Project-Java-master/Main.java:302:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:303:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "-------------------------" appears 4 times in this file; the first occurrence is on line 303
+Hotel-Management-Project-Java-master/Main.java:303:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:304:	LawOfDemeter:	LawOfDemeter: Access to field `luxury_doublerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:304:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'obb' could be declared final
+Hotel-Management-Project-Java-master/Main.java:307:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "%-10s%-10s%-10s%n" appears 4 times in this file; the first occurrence is on line 307
+Hotel-Management-Project-Java-master/Main.java:307:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'format' could be declared final
+Hotel-Management-Project-Java-master/Main.java:308:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:313:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:314:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:315:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:316:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:317:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:318:	LawOfDemeter:	LawOfDemeter: Access to field `deluxe_doublerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:318:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'obb' could be declared final
+Hotel-Management-Project-Java-master/Main.java:321:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'format' could be declared final
+Hotel-Management-Project-Java-master/Main.java:322:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:326:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:327:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:328:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:329:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:330:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:331:	LawOfDemeter:	LawOfDemeter: Access to field `luxury_singleerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:331:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'obb' could be declared final
+Hotel-Management-Project-Java-master/Main.java:334:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'format' could be declared final
+Hotel-Management-Project-Java-master/Main.java:335:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:339:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:340:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:341:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:342:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:343:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:344:	LawOfDemeter:	LawOfDemeter: Access to field `deluxe_singleerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:344:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'obb' could be declared final
+Hotel-Management-Project-Java-master/Main.java:347:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'format' could be declared final
+Hotel-Management-Project-Java-master/Main.java:348:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:352:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:354:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:357:	CognitiveComplexity:	CognitiveComplexity: The method 'deallocate(int, int)' has a cognitive complexity of 25, current threshold is 15
+Hotel-Management-Project-Java-master/Main.java:357:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'deallocate(int, int)'
+Hotel-Management-Project-Java-master/Main.java:357:	CyclomaticComplexity:	CyclomaticComplexity: The method 'deallocate(int, int)' has a cyclomatic complexity of 17.
+Hotel-Management-Project-Java-master/Main.java:357:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rn' is not assigned and could be declared final
+Hotel-Management-Project-Java-master/Main.java:357:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rtype' is not assigned and could be declared final
+Hotel-Management-Project-Java-master/Main.java:357:	ShortVariable:	ShortVariable: Avoid variables with short names like rn
+Hotel-Management-Project-Java-master/Main.java:359:	ShortVariable:	ShortVariable: Avoid variables with short names like j
+Hotel-Management-Project-Java-master/Main.java:359:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'j'.
+Hotel-Management-Project-Java-master/Main.java:360:	ShortVariable:	ShortVariable: Avoid variables with short names like w
+Hotel-Management-Project-Java-master/Main.java:361:	SwitchDensity:	SwitchDensity: A high ratio of statements to labels in a switch statement.  Consider refactoring.
+Hotel-Management-Project-Java-master/Main.java:363:	LawOfDemeter:	LawOfDemeter: Access to field `luxury_doublerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:364:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Room used by " appears 4 times in this file; the first occurrence is on line 364
+Hotel-Management-Project-Java-master/Main.java:364:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:364:	LawOfDemeter:	LawOfDemeter: Access to field `luxury_doublerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:364:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:367:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Empty Already" appears 4 times in this file; the first occurrence is on line 367
+Hotel-Management-Project-Java-master/Main.java:367:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:368:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+Hotel-Management-Project-Java-master/Main.java:370:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:375:	LawOfDemeter:	LawOfDemeter: Access to field `luxury_doublerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:375:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+Hotel-Management-Project-Java-master/Main.java:376:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Deallocated succesfully" appears 4 times in this file; the first occurrence is on line 376
+Hotel-Management-Project-Java-master/Main.java:376:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:381:	LawOfDemeter:	LawOfDemeter: Access to field `deluxe_doublerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:382:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:382:	LawOfDemeter:	LawOfDemeter: Access to field `deluxe_doublerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:382:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:385:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:386:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+Hotel-Management-Project-Java-master/Main.java:388:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:393:	LawOfDemeter:	LawOfDemeter: Access to field `deluxe_doublerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:393:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+Hotel-Management-Project-Java-master/Main.java:394:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:399:	LawOfDemeter:	LawOfDemeter: Access to field `luxury_singleerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:400:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:400:	LawOfDemeter:	LawOfDemeter: Access to field `luxury_singleerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:400:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:403:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:404:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+Hotel-Management-Project-Java-master/Main.java:406:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:411:	LawOfDemeter:	LawOfDemeter: Access to field `luxury_singleerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:411:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+Hotel-Management-Project-Java-master/Main.java:412:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:417:	LawOfDemeter:	LawOfDemeter: Access to field `deluxe_singleerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:418:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:418:	LawOfDemeter:	LawOfDemeter: Access to field `deluxe_singleerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:418:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:421:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:424:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:429:	LawOfDemeter:	LawOfDemeter: Access to field `deluxe_singleerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:429:	NullAssignment:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+Hotel-Management-Project-Java-master/Main.java:430:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:434:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:439:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'order(int, int)'
+Hotel-Management-Project-Java-master/Main.java:439:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rn' is not assigned and could be declared final
+Hotel-Management-Project-Java-master/Main.java:439:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rtype' is not assigned and could be declared final
+Hotel-Management-Project-Java-master/Main.java:439:	ShortVariable:	ShortVariable: Avoid variables with short names like rn
+Hotel-Management-Project-Java-master/Main.java:441:	OneDeclarationPerLine:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+Hotel-Management-Project-Java-master/Main.java:441:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+Hotel-Management-Project-Java-master/Main.java:441:	ShortVariable:	ShortVariable: Avoid variables with short names like q
+Hotel-Management-Project-Java-master/Main.java:444:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:448:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:451:	SwitchStmtsShouldHaveDefault:	SwitchStmtsShouldHaveDefault: Switch statements should be exhaustive, add a default case (or missing enum branches)
+Hotel-Management-Project-Java-master/Main.java:452:	LawOfDemeter:	LawOfDemeter: Access to field `luxury_doublerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:454:	LawOfDemeter:	LawOfDemeter: Access to field `deluxe_doublerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:456:	LawOfDemeter:	LawOfDemeter: Access to field `luxury_singleerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:458:	LawOfDemeter:	LawOfDemeter: Access to field `deluxe_singleerrom` on foreign value `hotel_ob` (degree 1)
+Hotel-Management-Project-Java-master/Main.java:461:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:465:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+Hotel-Management-Project-Java-master/Main.java:465:	AvoidCatchingNPE:	AvoidCatchingNPE: Avoid catching NullPointerException; consider removing the cause of the NPE.
+Hotel-Management-Project-Java-master/Main.java:467:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:469:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+Hotel-Management-Project-Java-master/Main.java:471:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:477:	ClassNamingConventions:	ClassNamingConventions: The class name 'write' doesn't match '[A-Z][a-zA-Z0-9]*'
+Hotel-Management-Project-Java-master/Main.java:477:	CommentRequired:	CommentRequired: Class comments are required
+Hotel-Management-Project-Java-master/Main.java:479:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'hotel_ob'
+Hotel-Management-Project-Java-master/Main.java:479:	CommentRequired:	CommentRequired: Field comments are required
+Hotel-Management-Project-Java-master/Main.java:479:	FieldNamingConventions:	FieldNamingConventions: The field name 'hotel_ob' doesn't match '[a-z][a-zA-Z0-9]*'
+Hotel-Management-Project-Java-master/Main.java:480:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on constructor 'write(holder)'
+Hotel-Management-Project-Java-master/Main.java:480:	FormalParameterNamingConventions:	FormalParameterNamingConventions: The method parameter name 'hotel_ob' doesn't match '[a-z][a-zA-Z0-9]*'
+Hotel-Management-Project-Java-master/Main.java:480:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'hotel_ob' is not assigned and could be declared final
+Hotel-Management-Project-Java-master/Main.java:487:	AvoidFileStream:	AvoidFileStream: Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+Hotel-Management-Project-Java-master/Main.java:487:	CloseResource:	CloseResource: Ensure that resources like this FileOutputStream object are closed after use
+Hotel-Management-Project-Java-master/Main.java:487:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'fout' could be declared final
+Hotel-Management-Project-Java-master/Main.java:488:	CloseResource:	CloseResource: Ensure that resources like this ObjectOutputStream object are closed after use
+Hotel-Management-Project-Java-master/Main.java:488:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'oos' could be declared final
+Hotel-Management-Project-Java-master/Main.java:491:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+Hotel-Management-Project-Java-master/Main.java:493:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:500:	CommentRequired:	CommentRequired: Class comments are required
+Hotel-Management-Project-Java-master/Main.java:500:	ShortClassName:	ShortClassName: Avoid short class names like Main
+Hotel-Management-Project-Java-master/Main.java:500:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+Hotel-Management-Project-Java-master/Main.java:501:	CognitiveComplexity:	CognitiveComplexity: The method 'main(String[])' has a cognitive complexity of 26, current threshold is 15
+Hotel-Management-Project-Java-master/Main.java:501:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+Hotel-Management-Project-Java-master/Main.java:501:	CyclomaticComplexity:	CyclomaticComplexity: The method 'main(String[])' has a cyclomatic complexity of 25.
+Hotel-Management-Project-Java-master/Main.java:501:	NcssCount:	NcssCount: The method 'main(String[])' has a NCSS line count of 81.
+Hotel-Management-Project-Java-master/Main.java:505:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'f' could be declared final
+Hotel-Management-Project-Java-master/Main.java:505:	ShortVariable:	ShortVariable: Avoid variables with short names like f
+Hotel-Management-Project-Java-master/Main.java:508:	AvoidFileStream:	AvoidFileStream: Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+Hotel-Management-Project-Java-master/Main.java:508:	CloseResource:	CloseResource: Ensure that resources like this FileInputStream object are closed after use
+Hotel-Management-Project-Java-master/Main.java:508:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'fin' could be declared final
+Hotel-Management-Project-Java-master/Main.java:509:	CloseResource:	CloseResource: Ensure that resources like this ObjectInputStream object are closed after use
+Hotel-Management-Project-Java-master/Main.java:509:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ois' could be declared final
+Hotel-Management-Project-Java-master/Main.java:512:	CloseResource:	CloseResource: Ensure that resources like this Scanner object are closed after use
+Hotel-Management-Project-Java-master/Main.java:512:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sc' could be declared final
+Hotel-Management-Project-Java-master/Main.java:512:	ShortVariable:	ShortVariable: Avoid variables with short names like sc
+Hotel-Management-Project-Java-master/Main.java:513:	OneDeclarationPerLine:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+Hotel-Management-Project-Java-master/Main.java:513:	ShortVariable:	ShortVariable: Avoid variables with short names like ch
+Hotel-Management-Project-Java-master/Main.java:518:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:520:	SwitchStmtsShouldHaveDefault:	SwitchStmtsShouldHaveDefault: Switch statements should be exhaustive, add a default case (or missing enum branches)
+Hotel-Management-Project-Java-master/Main.java:521:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:525:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:529:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:534:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:536:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+Hotel-Management-Project-Java-master/Main.java:537:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Room doesn\'t exist" appears 4 times in this file; the first occurrence is on line 537
+Hotel-Management-Project-Java-master/Main.java:537:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:537:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:538:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+Hotel-Management-Project-Java-master/Main.java:539:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:540:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+Hotel-Management-Project-Java-master/Main.java:541:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:542:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+Hotel-Management-Project-Java-master/Main.java:543:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:545:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:547:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:547:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:550:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:552:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+Hotel-Management-Project-Java-master/Main.java:553:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:553:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:554:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+Hotel-Management-Project-Java-master/Main.java:555:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:556:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+Hotel-Management-Project-Java-master/Main.java:557:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:558:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+Hotel-Management-Project-Java-master/Main.java:559:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:561:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:563:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+Hotel-Management-Project-Java-master/Main.java:563:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:569:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:573:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:574:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+Hotel-Management-Project-Java-master/Main.java:580:	DoNotUseThreads:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+Hotel-Management-Project-Java-master/Main.java:580:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+Hotel-Management-Project-Java-master/Main.java:580:	ShortVariable:	ShortVariable: Avoid variables with short names like t
+Hotel-Management-Project-Java-master/Main.java:583:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+Hotel-Management-Project-Java-master/Main.java:585:	SystemPrintln:	SystemPrintln: Usage of System.out/err

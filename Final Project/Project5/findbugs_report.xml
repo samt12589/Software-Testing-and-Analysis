@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.0.1-dev-20150306-5afe4d1" sequence="1" timestamp="1691433722314" analysisTimestamp="1691433717499" release="">
+  <Project projectName="shopping-cart">
+    <Jar>C:\Users\rajat\Enterprise_workspace\shopping-cart\target\classes</Jar>
+    <AuxClasspathEntry>C:\Users\rajat\Enterprise_workspace\shopping-cart\target\classes</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\rajat\.m2\repository\com\mysql\mysql-connector-j\8.0.33\mysql-connector-j-8.0.33.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\rajat\.m2\repository\com\google\protobuf\protobuf-java\3.21.9\protobuf-java-3.21.9.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\rajat\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\rajat\.m2\repository\jakarta\mail\jakarta.mail-api\2.1.1\jakarta.mail-api-2.1.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\rajat\.m2\repository\jakarta\activation\jakarta.activation-api\2.1.1\jakarta.activation-api-2.1.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\rajat\.m2\repository\com\sun\mail\jakarta.mail\2.0.1\jakarta.mail-2.0.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\rajat\.m2\repository\com\sun\activation\jakarta.activation\2.0.1\jakarta.activation-2.0.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\rajat\.m2\repository\javax\xml\ws\jaxws-api\2.3.1\jaxws-api-2.3.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\rajat\.m2\repository\javax\xml\bind\jaxb-api\2.3.1\jaxb-api-2.3.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\rajat\.m2\repository\javax\activation\javax.activation-api\1.2.0\javax.activation-api-1.2.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\rajat\.m2\repository\javax\xml\soap\javax.xml.soap-api\1.4.0\javax.xml.soap-api-1.4.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\rajat\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\rajat\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar</AuxClasspathEntry>
+    <SrcDir>C:\Users\rajat\Enterprise_workspace\shopping-cart\src</SrcDir>
+    <Cloud id="edu.umd.cs.findbugs.cloud.doNothingCloud" online="false"></Cloud>
+  </Project>
+  <BugInstance type="EI_EXPOSE_REP" priority="2" rank="18" abbrev="EI" category="MALICIOUS_CODE" first="1">
+    <Class classname="com.shashi.beans.OrderDetails">
+      <SourceLine classname="com.shashi.beans.OrderDetails" sourcefile="OrderDetails.java" sourcepath="com/shashi/beans/OrderDetails.java"/>
+    </Class>
+    <Method classname="com.shashi.beans.OrderDetails" name="getTime" signature="()Ljava/sql/Timestamp;" isStatic="false">
+      <SourceLine classname="com.shashi.beans.OrderDetails" start="55" end="55" startBytecode="0" endBytecode="46" sourcefile="OrderDetails.java" sourcepath="com/shashi/beans/OrderDetails.java"/>
+    </Method>
+    <Field classname="com.shashi.beans.OrderDetails" name="time" signature="Ljava/sql/Timestamp;" isStatic="false">
+      <SourceLine classname="com.shashi.beans.OrderDetails" sourcefile="OrderDetails.java" sourcepath="com/shashi/beans/OrderDetails.java"/>
+    </Field>
+    <SourceLine classname="com.shashi.beans.OrderDetails" start="55" end="55" startBytecode="4" endBytecode="4" sourcefile="OrderDetails.java" sourcepath="com/shashi/beans/OrderDetails.java"/>
+    <SourceLine classname="com.shashi.beans.OrderDetails" start="55" end="55" startBytecode="4" endBytecode="4" sourcefile="OrderDetails.java" sourcepath="com/shashi/beans/OrderDetails.java"/>
+  </BugInstance>
+  <BugInstance type="EI_EXPOSE_REP2" priority="2" rank="18" abbrev="EI2" category="MALICIOUS_CODE" first="1">
+    <Class classname="com.shashi.beans.OrderDetails">
+      <SourceLine classname="com.shashi.beans.OrderDetails" sourcefile="OrderDetails.java" sourcepath="com/shashi/beans/OrderDetails.java"/>
+    </Class>
+    <Method classname="com.shashi.beans.OrderDetails" name="setTime" signature="(Ljava/sql/Timestamp;)V" isStatic="false">
+      <SourceLine classname="com.shashi.beans.OrderDetails" start="59" end="60" startBytecode="0" endBytecode="61" sourcefile="OrderDetails.java" sourcepath="com/shashi/beans/OrderDetails.java"/>
+    </Method>
+    <Field classname="com.shashi.beans.OrderDetails" name="time" signature="Ljava/sql/Timestamp;" isStatic="false">
+      <SourceLine classname="com.shashi.beans.OrderDetails" sourcefile="OrderDetails.java" sourcepath="com/shashi/beans/OrderDetails.java"/>
+    </Field>
+    <LocalVariable name="time" register="1" pc="2" role="LOCAL_VARIABLE_NAMED"/>
+    <SourceLine classname="com.shashi.beans.OrderDetails" start="59" end="59" startBytecode="2" endBytecode="2" sourcefile="OrderDetails.java" sourcepath="com/shashi/beans/OrderDetails.java"/>
+    <SourceLine classname="com.shashi.beans.OrderDetails" start="59" end="59" startBytecode="2" endBytecode="2" sourcefile="OrderDetails.java" sourcepath="com/shashi/beans/OrderDetails.java"/>
+  </BugInstance>
+  <BugInstance type="EI_EXPOSE_REP" priority="2" rank="18" abbrev="EI" category="MALICIOUS_CODE" first="1">
+    <Class classname="com.shashi.beans.TransactionBean">
+      <SourceLine classname="com.shashi.beans.TransactionBean" sourcefile="TransactionBean.java" sourcepath="com/shashi/beans/TransactionBean.java"/>
+    </Class>
+    <Method classname="com.shashi.beans.TransactionBean" name="getTransDateTime" signature="()Ljava/sql/Timestamp;" isStatic="false">
+      <SourceLine classname="com.shashi.beans.TransactionBean" start="99" end="99" startBytecode="0" endBytecode="46" sourcefile="TransactionBean.java" sourcepath="com/shashi/beans/TransactionBean.java"/>
+    </Method>
+    <Field classname="com.shashi.beans.TransactionBean" name="transDateTime" signature="Ljava/sql/Timestamp;" isStatic="false">
+      <SourceLine classname="com.shashi.beans.TransactionBean" sourcefile="TransactionBean.java" sourcepath="com/shashi/beans/TransactionBean.java"/>
+    </Field>
+    <SourceLine classname="com.shashi.beans.TransactionBean" start="99" end="99" startBytecode="4" endBytecode="4" sourcefile="TransactionBean.java" sourcepath="com/shashi/beans/TransactionBean.java"/>
+    <SourceLine classname="com.shashi.beans.TransactionBean" start="99" end="99" startBytecode="4" endBytecode="4" sourcefile="TransactionBean.java" sourcepath="com/shashi/beans/TransactionBean.java"/>
+  </BugInstance>
+  <BugInstance type="EI_EXPOSE_REP2" priority="2" rank="18" abbrev="EI2" category="MALICIOUS_CODE" first="1">
+    <Class classname="com.shashi.beans.TransactionBean">
+      <SourceLine classname="com.shashi.beans.TransactionBean" sourcefile="TransactionBean.java" sourcepath="com/shashi/beans/TransactionBean.java"/>
+    </Class>
+    <Method classname="com.shashi.beans.TransactionBean" name="&lt;init&gt;" signature="(Ljava/lang/String;Ljava/lang/String;Ljava/sql/Timestamp;D)V" isStatic="false">
+      <SourceLine classname="com.shashi.beans.TransactionBean" start="74" end="80" startBytecode="0" endBytecode="127" sourcefile="TransactionBean.java" sourcepath="com/shashi/beans/TransactionBean.java"/>
+    </Method>
+    <Field classname="com.shashi.beans.TransactionBean" name="transDateTime" signature="Ljava/sql/Timestamp;" isStatic="false">
+      <SourceLine classname="com.shashi.beans.TransactionBean" sourcefile="TransactionBean.java" sourcepath="com/shashi/beans/TransactionBean.java"/>
+    </Field>
+    <LocalVariable name="transDateTime" register="3" pc="16" role="LOCAL_VARIABLE_NAMED"/>
+    <SourceLine classname="com.shashi.beans.TransactionBean" start="77" end="77" startBytecode="16" endBytecode="16" sourcefile="TransactionBean.java" sourcepath="com/shashi/beans/TransactionBean.java"/>
+    <SourceLine classname="com.shashi.beans.TransactionBean" start="77" end="77" startBytecode="16" endBytecode="16" sourcefile="TransactionBean.java" sourcepath="com/shashi/beans/TransactionBean.java"/>
+  </BugInstance>
+  <BugInstance type="EI_EXPOSE_REP2" priority="2" rank="18" abbrev="EI2" category="MALICIOUS_CODE" first="1">
+    <Class classname="com.shashi.beans.TransactionBean">
+      <SourceLine classname="com.shashi.beans.TransactionBean" sourcefile="TransactionBean.java" sourcepath="com/shashi/beans/TransactionBean.java"/>
+    </Class>
+    <Method classname="com.shashi.beans.TransactionBean" name="&lt;init&gt;" signature="(Ljava/lang/String;Ljava/sql/Timestamp;D)V" isStatic="false">
+      <SourceLine classname="com.shashi.beans.TransactionBean" start="66" end="71" startBytecode="0" endBytecode="118" sourcefile="TransactionBean.java" sourcepath="com/shashi/beans/TransactionBean.java"/>
+    </Method>
+    <Field classname="com.shashi.beans.TransactionBean" name="transDateTime" signature="Ljava/sql/Timestamp;" isStatic="false">
+      <SourceLine classname="com.shashi.beans.TransactionBean" sourcefile="TransactionBean.java" sourcepath="com/shashi/beans/TransactionBean.java"/>
+    </Field>
+    <LocalVariable name="transDateTime" register="2" pc="11" role="LOCAL_VARIABLE_NAMED"/>
+    <SourceLine classname="com.shashi.beans.TransactionBean" start="68" end="68" startBytecode="11" endBytecode="11" sourcefile="TransactionBean.java" sourcepath="com/shashi/beans/TransactionBean.java"/>
+    <SourceLine classname="com.shashi.beans.TransactionBean" start="68" end="68" startBytecode="11" endBytecode="11" sourcefile="TransactionBean.java" sourcepath="com/shashi/beans/TransactionBean.java"/>
+  </BugInstance>
+  <BugInstance type="EI_EXPOSE_REP2" priority="2" rank="18" abbrev="EI2" category="MALICIOUS_CODE" first="1">
+    <Class classname="com.shashi.beans.TransactionBean">
+      <SourceLine classname="com.shashi.beans.TransactionBean" sourcefile="TransactionBean.java" sourcepath="com/shashi/beans/TransactionBean.java"/>
+    </Class>
+    <Method classname="com.shashi.beans.TransactionBean" name="setTransDateTime" signature="(Ljava/sql/Timestamp;)V" isStatic="false">
+      <SourceLine classname="com.shashi.beans.TransactionBean" start="103" end="104" startBytecode="0" endBytecode="61" sourcefile="TransactionBean.java" sourcepath="com/shashi/beans/TransactionBean.java"/>
+    </Method>
+    <Field classname="com.shashi.beans.TransactionBean" name="transDateTime" signature="Ljava/sql/Timestamp;" isStatic="false">
+      <SourceLine classname="com.shashi.beans.TransactionBean" sourcefile="TransactionBean.java" sourcepath="com/shashi/beans/TransactionBean.java"/>
+    </Field>
+    <LocalVariable name="transDateTime" register="1" pc="2" role="LOCAL_VARIABLE_NAMED"/>
+    <SourceLine classname="com.shashi.beans.TransactionBean" start="103" end="103" startBytecode="2" endBytecode="2" sourcefile="TransactionBean.java" sourcepath="com/shashi/beans/TransactionBean.java"/>
+    <SourceLine classname="com.shashi.beans.TransactionBean" start="103" end="103" startBytecode="2" endBytecode="2" sourcefile="TransactionBean.java" sourcepath="com/shashi/beans/TransactionBean.java"/>
+  </BugInstance>
+  <BugInstance type="OBL_UNSATISFIED_OBLIGATION" priority="2" rank="20" abbrev="OBL" category="EXPERIMENTAL" first="1">
+    <Class classname="com.shashi.service.impl.CartServiceImpl">
+      <SourceLine classname="com.shashi.service.impl.CartServiceImpl" sourcefile="CartServiceImpl.java" sourcepath="com/shashi/service/impl/CartServiceImpl.java"/>
+    </Class>
+    <Method classname="com.shashi.service.impl.CartServiceImpl" name="removeAProduct" signature="(Ljava/lang/String;Ljava/lang/String;)Z" isStatic="false">
+      <SourceLine classname="com.shashi.service.impl.CartServiceImpl" start="229" end="256" startBytecode="0" endBytecode="318" sourcefile="CartServiceImpl.java" sourcepath="com/shashi/service/impl/CartServiceImpl.java"/>
+    </Method>
+    <Class classname="java.sql.Statement" role="CLASS_REFTYPE">
+      <SourceLine classname="java.sql.Statement"/>
+    </Class>
+    <Int value="1" role="INT_OBLIGATIONS_REMAINING"/>
+    <SourceLine classname="com.shashi.service.impl.CartServiceImpl" start="238" end="238" startBytecode="17" endBytecode="17" sourcefile="CartServiceImpl.java" sourcepath="com/shashi/service/impl/CartServiceImpl.java" role="SOURCE_LINE_OBLIGATION_CREATED"/>
+    <SourceLine classname="com.shashi.service.impl.CartServiceImpl" start="239" end="239" startBytecode="24" endBytecode="24" sourcefile="CartServiceImpl.java" sourcepath="com/shashi/service/impl/CartServiceImpl.java" role="SOURCE_LINE_PATH_CONTINUES"/>
+    <SourceLine classname="com.shashi.service.impl.CartServiceImpl" start="240" end="240" startBytecode="33" endBytecode="33" sourcefile="CartServiceImpl.java" sourcepath="com/shashi/service/impl/CartServiceImpl.java" role="SOURCE_LINE_PATH_CONTINUES"/>
+    <SourceLine classname="com.shashi.service.impl.CartServiceImpl" start="242" end="242" startBytecode="42" endBytecode="42" sourcefile="CartServiceImpl.java" sourcepath="com/shashi/service/impl/CartServiceImpl.java" role="SOURCE_LINE_PATH_CONTINUES"/>
+    <SourceLine classname="com.shashi.service.impl.CartServiceImpl" start="244" end="244" startBytecode="51" endBytecode="51" sourcefile="CartServiceImpl.java" sourcepath="com/shashi/service/impl/CartServiceImpl.java" role="SOURCE_LINE_PATH_CONTINUES"/>
+    <SourceLine classname="com.shashi.service.impl.CartServiceImpl" start="252" end="252" startBytecode="70" endBytecode="70" sourcefile="CartServiceImpl.java" sourcepath="com/shashi/service/impl/CartServiceImpl.java" role="SOURCE_LINE_PATH_CONTINUES"/>
+    <SourceLine classname="com.shashi.service.impl.CartServiceImpl" start="253" end="253" startBytecode="75" endBytecode="75" sourcefile="CartServiceImpl.java" sourcepath="com/shashi/service/impl/CartServiceImpl.java" role="SOURCE_LINE_PATH_CONTINUES"/>
+    <SourceLine classname="com.shashi.service.impl.CartServiceImpl" start="254" end="254" startBytecode="80" endBytecode="80" sourcefile="CartServiceImpl.java" sourcepath="com/shashi/service/impl/CartServiceImpl.java" role="SOURCE_LINE_PATH_CONTINUES"/>
+    <SourceLine classname="com.shashi.service.impl.CartServiceImpl" start="256" end="256" startBytecode="85" endBytecode="85" sourcefile="CartServiceImpl.java" sourcepath="com/shashi/service/impl/CartServiceImpl.java" role="SOURCE_LINE_PATH_CONTINUES"/>
+    <String value="{Statement x 1}" role="STRING_REMAINING_OBLIGATIONS"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.shashi.service.impl.CartServiceImpl">
+      <SourceLine classname="com.shashi.service.impl.CartServiceImpl" sourcefile="CartServiceImpl.java" sourcepath="com/shashi/service/impl/CartServiceImpl.java"/>
+    </Class>
+    <Method classname="com.shashi.service.impl.CartServiceImpl" name="getProductCount" signature="(Ljava/lang/String;Ljava/lang/String;)I" isStatic="false">
+      <SourceLine classname="com.shashi.service.impl.CartServiceImpl" start="337" end="357" startBytecode="0" endBytecode="38" sourcefile="CartServiceImpl.java" sourcepath="com/shashi/service/impl/CartServiceImpl.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/PreparedStatement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.PreparedStatement"/>
+    </Type>
+    <SourceLine classname="com.shashi.service.impl.CartServiceImpl" start="345" end="345" startBytecode="18" endBytecode="18" sourcefile="CartServiceImpl.java" sourcepath="com/shashi/service/impl/CartServiceImpl.java"/>
+    <SourceLine classname="com.shashi.service.impl.CartServiceImpl" start="345" end="345" startBytecode="18" endBytecode="18" sourcefile="CartServiceImpl.java" sourcepath="com/shashi/service/impl/CartServiceImpl.java"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.shashi.service.impl.DemandServiceImpl">
+      <SourceLine classname="com.shashi.service.impl.DemandServiceImpl" sourcefile="DemandServiceImpl.java" sourcepath="com/shashi/service/impl/DemandServiceImpl.java"/>
+    </Class>
+    <Method classname="com.shashi.service.impl.DemandServiceImpl" name="haveDemanded" signature="(Ljava/lang/String;)Ljava/util/List;" isStatic="false">
+      <SourceLine classname="com.shashi.service.impl.DemandServiceImpl" start="124" end="150" startBytecode="0" endBytecode="47" sourcefile="DemandServiceImpl.java" sourcepath="com/shashi/service/impl/DemandServiceImpl.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/PreparedStatement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.PreparedStatement"/>
+    </Type>
+    <SourceLine classname="com.shashi.service.impl.DemandServiceImpl" start="132" end="132" startBytecode="21" endBytecode="21" sourcefile="DemandServiceImpl.java" sourcepath="com/shashi/service/impl/DemandServiceImpl.java"/>
+    <SourceLine classname="com.shashi.service.impl.DemandServiceImpl" start="132" end="132" startBytecode="21" endBytecode="21" sourcefile="DemandServiceImpl.java" sourcepath="com/shashi/service/impl/DemandServiceImpl.java"/>
+  </BugInstance>
+  <BugInstance type="DLS_DEAD_LOCAL_STORE" priority="2" rank="17" abbrev="DLS" category="STYLE" first="1">
+    <Class classname="com.shashi.service.impl.OrderServiceImpl">
+      <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+    </Class>
+    <Method classname="com.shashi.service.impl.OrderServiceImpl" name="paymentSuccess" signature="(Ljava/lang/String;D)Ljava/lang/String;" isStatic="false">
+      <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" start="22" end="72" startBytecode="0" endBytecode="116" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+    </Method>
+    <LocalVariable name="cartItems" register="5" pc="13" role="LOCAL_VARIABLE_NAMED"/>
+    <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" start="24" end="24" startBytecode="11" endBytecode="11" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+    <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" start="24" end="24" startBytecode="11" endBytecode="11" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.DEAD_OBJECT_STORE" value="true"/>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.KILLED_BY_SUBSEQUENT_STORE" value="true"/>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.LOCAL_NAME" value="cartItems"/>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.METHOD_RESULT" value="true"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.shashi.service.impl.OrderServiceImpl">
+      <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+    </Class>
+    <Method classname="com.shashi.service.impl.OrderServiceImpl" name="addOrder" signature="(Lcom/shashi/beans/OrderBean;)Z" isStatic="false">
+      <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" start="77" end="102" startBytecode="0" endBytecode="49" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/PreparedStatement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.PreparedStatement"/>
+    </Type>
+    <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" start="84" end="84" startBytecode="12" endBytecode="12" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+    <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" start="84" end="84" startBytecode="12" endBytecode="12" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.shashi.service.impl.OrderServiceImpl">
+      <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+    </Class>
+    <Method classname="com.shashi.service.impl.OrderServiceImpl" name="addTransaction" signature="(Lcom/shashi/beans/TransactionBean;)Z" isStatic="false">
+      <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" start="107" end="131" startBytecode="0" endBytecode="42" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/PreparedStatement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.PreparedStatement"/>
+    </Type>
+    <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" start="114" end="114" startBytecode="12" endBytecode="12" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+    <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" start="114" end="114" startBytecode="12" endBytecode="12" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.shashi.service.impl.OrderServiceImpl">
+      <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+    </Class>
+    <Method classname="com.shashi.service.impl.OrderServiceImpl" name="getAllOrderDetails" signature="(Ljava/lang/String;)Ljava/util/List;" isStatic="false">
+      <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" start="233" end="267" startBytecode="0" endBytecode="78" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/PreparedStatement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.PreparedStatement"/>
+    </Type>
+    <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" start="242" end="242" startBytecode="22" endBytecode="22" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+    <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" start="242" end="242" startBytecode="22" endBytecode="22" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.shashi.service.impl.OrderServiceImpl">
+      <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+    </Class>
+    <Method classname="com.shashi.service.impl.OrderServiceImpl" name="getAllOrders" signature="()Ljava/util/List;" isStatic="false">
+      <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" start="168" end="195" startBytecode="0" endBytecode="50" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/PreparedStatement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.PreparedStatement"/>
+    </Type>
+    <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" start="177" end="177" startBytecode="20" endBytecode="20" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+    <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" start="177" end="177" startBytecode="20" endBytecode="20" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.shashi.service.impl.OrderServiceImpl">
+      <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+    </Class>
+    <Method classname="com.shashi.service.impl.OrderServiceImpl" name="getOrdersByUserId" signature="(Ljava/lang/String;)Ljava/util/List;" isStatic="false">
+      <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" start="200" end="228" startBytecode="0" endBytecode="54" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/PreparedStatement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.PreparedStatement"/>
+    </Type>
+    <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" start="209" end="209" startBytecode="22" endBytecode="22" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+    <SourceLine classname="com.shashi.service.impl.OrderServiceImpl" start="209" end="209" startBytecode="22" endBytecode="22" sourcefile="OrderServiceImpl.java" sourcepath="com/shashi/service/impl/OrderServiceImpl.java"/>
+  </BugInstance>
+  <BugInstance type="OBL_UNSATISFIED_OBLIGATION" priority="2" rank="20" abbrev="OBL" category="EXPERIMENTAL" first="1">
+    <Class classname="com.shashi.service.impl.ProductServiceImpl">
+      <SourceLine classname="com.shashi.service.impl.ProductServiceImpl" sourcefile="ProductServiceImpl.java" sourcepath="com/shashi/service/impl/ProductServiceImpl.java"/>
+    </Class>
+    <Method classname="com.shashi.service.impl.ProductServiceImpl" name="sellNProduct" signature="(Ljava/lang/String;I)Z" isStatic="false">
+      <SourceLine classname="com.shashi.service.impl.ProductServiceImpl" start="477" end="503" startBytecode="0" endBytecode="288" sourcefile="ProductServiceImpl.java" sourcepath="com/shashi/service/impl/ProductServiceImpl.java"/>
+    </Method>
+    <Class classname="java.sql.Statement" role="CLASS_REFTYPE">
+      <SourceLine classname="java.sql.Statement"/>
+    </Class>
+    <Int value="1" role="INT_OBLIGATIONS_REMAINING"/>
+    <SourceLine classname="com.shashi.service.impl.ProductServiceImpl" start="485" end="485" startBytecode="15" endBytecode="15" sourcefile="ProductServiceImpl.java" sourcepath="com/shashi/service/impl/ProductServiceImpl.java" role="SOURCE_LINE_OBLIGATION_CREATED"/>
+    <SourceLine classname="com.shashi.service.impl.ProductServiceImpl" start="487" end="487" startBytecode="22" endBytecode="22" sourcefile="ProductServiceImpl.java" sourcepath="com/shashi/service/impl/ProductServiceImpl.java" role="SOURCE_LINE_PATH_CONTINUES"/>
+    <SourceLine classname="com.shashi.service.impl.ProductServiceImpl" start="489" end="489" startBytecode="31" endBytecode="31" sourcefile="ProductServiceImpl.java" sourcepath="com/shashi/service/impl/ProductServiceImpl.java" role="SOURCE_LINE_PATH_CONTINUES"/>
+    <SourceLine classname="com.shashi.service.impl.ProductServiceImpl" start="491" end="491" startBytecode="40" endBytecode="40" sourcefile="ProductServiceImpl.java" sourcepath="com/shashi/service/impl/ProductServiceImpl.java" role="SOURCE_LINE_PATH_CONTINUES"/>
+    <SourceLine classname="com.shashi.service.impl.ProductServiceImpl" start="493" end="493" startBytecode="49" endBytecode="49" sourcefile="ProductServiceImpl.java" sourcepath="com/shashi/service/impl/ProductServiceImpl.java" role="SOURCE_LINE_PATH_CONTINUES"/>
+    <SourceLine classname="com.shashi.service.impl.ProductServiceImpl" start="500" end="500" startBytecode="68" endBytecode="68" sourcefile="ProductServiceImpl.java" sourcepath="com/shashi/service/impl/ProductServiceImpl.java" role="SOURCE_LINE_PATH_CONTINUES"/>
+    <SourceLine classname="com.shashi.service.impl.ProductServiceImpl" start="501" end="501" startBytecode="73" endBytecode="73" sourcefile="ProductServiceImpl.java" sourcepath="com/shashi/service/impl/ProductServiceImpl.java" role="SOURCE_LINE_PATH_CONTINUES"/>
+    <SourceLine classname="com.shashi.service.impl.ProductServiceImpl" start="503" end="503" startBytecode="78" endBytecode="78" sourcefile="ProductServiceImpl.java" sourcepath="com/shashi/service/impl/ProductServiceImpl.java" role="SOURCE_LINE_PATH_CONTINUES"/>
+    <String value="{Statement x 1}" role="STRING_REMAINING_OBLIGATIONS"/>
+  </BugInstance>
+  <BugInstance type="SBSC_USE_STRINGBUFFER_CONCATENATION" priority="2" rank="18" abbrev="SBSC" category="PERFORMANCE" first="1">
+    <Class classname="com.shashi.service.impl.ProductServiceImpl">
+      <SourceLine classname="com.shashi.service.impl.ProductServiceImpl" sourcefile="ProductServiceImpl.java" sourcepath="com/shashi/service/impl/ProductServiceImpl.java"/>
+    </Class>
+    <Method classname="com.shashi.service.impl.ProductServiceImpl" name="updateProductWithoutImage" signature="(Ljava/lang/String;Lcom/shashi/beans/ProductBean;)Ljava/lang/String;" isStatic="false">
+      <SourceLine classname="com.shashi.service.impl.ProductServiceImpl" start="383" end="442" startBytecode="0" endBytecode="875" sourcefile="ProductServiceImpl.java" sourcepath="com/shashi/service/impl/ProductServiceImpl.java"/>
+    </Method>
+    <SourceLine classname="com.shashi.service.impl.ProductServiceImpl" start="426" end="426" startBytecode="272" endBytecode="272" sourcefile="ProductServiceImpl.java" sourcepath="com/shashi/service/impl/ProductServiceImpl.java"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.shashi.service.impl.TransServiceImpl">
+      <SourceLine classname="com.shashi.service.impl.TransServiceImpl" sourcefile="TransServiceImpl.java" sourcepath="com/shashi/service/impl/TransServiceImpl.java"/>
+    </Class>
+    <Method classname="com.shashi.service.impl.TransServiceImpl" name="getUserId" signature="(Ljava/lang/String;)Ljava/lang/String;" isStatic="false">
+      <SourceLine classname="com.shashi.service.impl.TransServiceImpl" start="15" end="36" startBytecode="0" endBytecode="31" sourcefile="TransServiceImpl.java" sourcepath="com/shashi/service/impl/TransServiceImpl.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/PreparedStatement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.PreparedStatement"/>
+    </Type>
+    <SourceLine classname="com.shashi.service.impl.TransServiceImpl" start="23" end="23" startBytecode="16" endBytecode="16" sourcefile="TransServiceImpl.java" sourcepath="com/shashi/service/impl/TransServiceImpl.java"/>
+    <SourceLine classname="com.shashi.service.impl.TransServiceImpl" start="23" end="23" startBytecode="16" endBytecode="16" sourcefile="TransServiceImpl.java" sourcepath="com/shashi/service/impl/TransServiceImpl.java"/>
+  </BugInstance>
+  <BugInstance type="NP_NULL_ON_SOME_PATH" priority="2" rank="8" abbrev="NP" category="CORRECTNESS" first="1">
+    <Class classname="com.shashi.service.impl.UserServiceImpl">
+      <SourceLine classname="com.shashi.service.impl.UserServiceImpl" sourcefile="UserServiceImpl.java" sourcepath="com/shashi/service/impl/UserServiceImpl.java"/>
+    </Class>
+    <Method classname="com.shashi.service.impl.UserServiceImpl" name="registerUser" signature="(Lcom/shashi/beans/UserBean;)Ljava/lang/String;" isStatic="false">
+      <SourceLine classname="com.shashi.service.impl.UserServiceImpl" start="30" end="70" startBytecode="0" endBytecode="457" sourcefile="UserServiceImpl.java" sourcepath="com/shashi/service/impl/UserServiceImpl.java"/>
+    </Method>
+    <LocalVariable name="conn" register="4" pc="44" role="LOCAL_VARIABLE_VALUE_OF"/>
+    <SourceLine classname="com.shashi.service.impl.UserServiceImpl" start="46" end="46" startBytecode="46" endBytecode="46" sourcefile="UserServiceImpl.java" sourcepath="com/shashi/service/impl/UserServiceImpl.java" role="SOURCE_LINE_DEREF"/>
+    <SourceLine classname="com.shashi.service.impl.UserServiceImpl" start="40" end="40" startBytecode="31" endBytecode="31" sourcefile="UserServiceImpl.java" sourcepath="com/shashi/service/impl/UserServiceImpl.java" role="SOURCE_LINE_KNOWN_NULL"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.shashi.service.impl.UserServiceImpl">
+      <SourceLine classname="com.shashi.service.impl.UserServiceImpl" sourcefile="UserServiceImpl.java" sourcepath="com/shashi/service/impl/UserServiceImpl.java"/>
+    </Class>
+    <Method classname="com.shashi.service.impl.UserServiceImpl" name="getFName" signature="(Ljava/lang/String;)Ljava/lang/String;" isStatic="false">
+      <SourceLine classname="com.shashi.service.impl.UserServiceImpl" start="177" end="202" startBytecode="0" endBytecode="37" sourcefile="UserServiceImpl.java" sourcepath="com/shashi/service/impl/UserServiceImpl.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/PreparedStatement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.PreparedStatement"/>
+    </Type>
+    <SourceLine classname="com.shashi.service.impl.UserServiceImpl" start="185" end="185" startBytecode="16" endBytecode="16" sourcefile="UserServiceImpl.java" sourcepath="com/shashi/service/impl/UserServiceImpl.java"/>
+    <SourceLine classname="com.shashi.service.impl.UserServiceImpl" start="185" end="185" startBytecode="16" endBytecode="16" sourcefile="UserServiceImpl.java" sourcepath="com/shashi/service/impl/UserServiceImpl.java"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.shashi.service.impl.UserServiceImpl">
+      <SourceLine classname="com.shashi.service.impl.UserServiceImpl" sourcefile="UserServiceImpl.java" sourcepath="com/shashi/service/impl/UserServiceImpl.java"/>
+    </Class>
+    <Method classname="com.shashi.service.impl.UserServiceImpl" name="getUserAddr" signature="(Ljava/lang/String;)Ljava/lang/String;" isStatic="false">
+      <SourceLine classname="com.shashi.service.impl.UserServiceImpl" start="207" end="228" startBytecode="0" endBytecode="31" sourcefile="UserServiceImpl.java" sourcepath="com/shashi/service/impl/UserServiceImpl.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/PreparedStatement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.PreparedStatement"/>
+    </Type>
+    <SourceLine classname="com.shashi.service.impl.UserServiceImpl" start="214" end="214" startBytecode="17" endBytecode="17" sourcefile="UserServiceImpl.java" sourcepath="com/shashi/service/impl/UserServiceImpl.java"/>
+    <SourceLine classname="com.shashi.service.impl.UserServiceImpl" start="214" end="214" startBytecode="17" endBytecode="17" sourcefile="UserServiceImpl.java" sourcepath="com/shashi/service/impl/UserServiceImpl.java"/>
+  </BugInstance>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Sun, 6 Aug 2023 15:28:37 -0400" total_classes="39" referenced_classes="66" total_bugs="21" total_size="1841" num_packages="6" java_version="17.0.7" vm_version="17.0.7+7" cpu_seconds="6.80" clock_seconds="60.25" peak_mbytes="833.21" alloc_mbytes="2048.00" gc_seconds="0.03" priority_2="21">
+    <PackageStats package="com.shashi.beans" total_bugs="6" total_types="7" total_size="330" priority_2="6">
+      <ClassStats class="com.shashi.beans.CartBean" sourceFile="CartBean.java" interface="false" size="28" bugs="0"/>
+      <ClassStats class="com.shashi.beans.DemandBean" sourceFile="DemandBean.java" interface="false" size="28" bugs="0"/>
+      <ClassStats class="com.shashi.beans.OrderBean" sourceFile="OrderBean.java" interface="false" size="50" bugs="0"/>
+      <ClassStats class="com.shashi.beans.OrderDetails" sourceFile="OrderDetails.java" interface="false" size="52" bugs="2" priority_2="2"/>
+      <ClassStats class="com.shashi.beans.ProductBean" sourceFile="ProductBean.java" interface="false" size="56" bugs="0"/>
+      <ClassStats class="com.shashi.beans.TransactionBean" sourceFile="TransactionBean.java" interface="false" size="67" bugs="4" priority_2="4"/>
+      <ClassStats class="com.shashi.beans.UserBean" sourceFile="UserBean.java" interface="false" size="49" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.shashi.constants" total_bugs="0" total_types="1" total_size="8">
+      <ClassStats class="com.shashi.constants.IUserConstants" sourceFile="IUserConstants.java" interface="true" size="8" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.shashi.service" total_bugs="0" total_types="6" total_size="47">
+      <ClassStats class="com.shashi.service.CartService" sourceFile="CartService.java" interface="true" size="8" bugs="0"/>
+      <ClassStats class="com.shashi.service.DemandService" sourceFile="DemandService.java" interface="true" size="5" bugs="0"/>
+      <ClassStats class="com.shashi.service.OrderService" sourceFile="OrderService.java" interface="true" size="9" bugs="0"/>
+      <ClassStats class="com.shashi.service.ProductService" sourceFile="ProductService.java" interface="true" size="15" bugs="0"/>
+      <ClassStats class="com.shashi.service.TransService" sourceFile="TransService.java" interface="true" size="2" bugs="0"/>
+      <ClassStats class="com.shashi.service.UserService" sourceFile="UserService.java" interface="true" size="8" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.shashi.service.impl" total_bugs="15" total_types="6" total_size="853" priority_2="15">
+      <ClassStats class="com.shashi.service.impl.CartServiceImpl" sourceFile="CartServiceImpl.java" interface="false" size="206" bugs="2" priority_2="2"/>
+      <ClassStats class="com.shashi.service.impl.DemandServiceImpl" sourceFile="DemandServiceImpl.java" interface="false" size="75" bugs="1" priority_2="1"/>
+      <ClassStats class="com.shashi.service.impl.OrderServiceImpl" sourceFile="OrderServiceImpl.java" interface="false" size="148" bugs="6" priority_2="6"/>
+      <ClassStats class="com.shashi.service.impl.ProductServiceImpl" sourceFile="ProductServiceImpl.java" interface="false" size="289" bugs="2" priority_2="2"/>
+      <ClassStats class="com.shashi.service.impl.TransServiceImpl" sourceFile="TransServiceImpl.java" interface="false" size="16" bugs="1" priority_2="1"/>
+      <ClassStats class="com.shashi.service.impl.UserServiceImpl" sourceFile="UserServiceImpl.java" interface="false" size="119" bugs="3" priority_2="3"/>
+    </PackageStats>
+    <PackageStats package="com.shashi.srv" total_bugs="0" total_types="12" total_size="377">
+      <ClassStats class="com.shashi.srv.AddProductSrv" sourceFile="AddProductSrv.java" interface="false" size="31" bugs="0"/>
+      <ClassStats class="com.shashi.srv.AddtoCart" sourceFile="AddtoCart.java" interface="false" size="56" bugs="0"/>
+      <ClassStats class="com.shashi.srv.FansMessage" sourceFile="FansMessage.java" interface="false" size="28" bugs="0"/>
+      <ClassStats class="com.shashi.srv.LoginSrv" sourceFile="LoginSrv.java" interface="false" size="41" bugs="0"/>
+      <ClassStats class="com.shashi.srv.LogoutSrv" sourceFile="LogoutSrv.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="com.shashi.srv.OrderServlet" sourceFile="OrderServlet.java" interface="false" size="21" bugs="0"/>
+      <ClassStats class="com.shashi.srv.RegisterSrv" sourceFile="RegisterSrv.java" interface="false" size="26" bugs="0"/>
+      <ClassStats class="com.shashi.srv.RemoveProductSrv" sourceFile="RemoveProductSrv.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="com.shashi.srv.ShipmentServlet" sourceFile="ShipmentServlet.java" interface="false" size="30" bugs="0"/>
+      <ClassStats class="com.shashi.srv.ShowImage" sourceFile="ShowImage.java" interface="false" size="22" bugs="0"/>
+      <ClassStats class="com.shashi.srv.UpdateProductSrv" sourceFile="UpdateProductSrv.java" interface="false" size="38" bugs="0"/>
+      <ClassStats class="com.shashi.srv.UpdateToCart" sourceFile="UpdateToCart.java" interface="false" size="42" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.shashi.utility" total_bugs="0" total_types="7" total_size="226">
+      <ClassStats class="com.shashi.utility.DBUtil" sourceFile="DBUtil.java" interface="false" size="37" bugs="0"/>
+      <ClassStats class="com.shashi.utility.IDUtil" sourceFile="IDUtil.java" interface="false" size="15" bugs="0"/>
+      <ClassStats class="com.shashi.utility.JavaMailUtil" sourceFile="JavaMailUtil.java" interface="false" size="61" bugs="0"/>
+      <ClassStats class="com.shashi.utility.JavaMailUtil$1" sourceFile="JavaMailUtil.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="com.shashi.utility.JavaMailUtil$2" sourceFile="JavaMailUtil.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="com.shashi.utility.MailMessage" sourceFile="MailMessage.java" interface="false" size="86" bugs="0"/>
+      <ClassStats class="com.shashi.utility.TestMail" sourceFile="TestMail.java" interface="false" size="13" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="de.tobject.findbugs.builder.FindBugs2Eclipse" totalMilliseconds="361" invocations="2" avgMicrosecondsPerInvocation="180559" maxMicrosecondsPerInvocation="244499" standardDeviationMircosecondsPerInvocation="63940"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="102" invocations="198" avgMicrosecondsPerInvocation="518" maxMicrosecondsPerInvocation="9363" standardDeviationMircosecondsPerInvocation="1083"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="82" invocations="188" avgMicrosecondsPerInvocation="436" maxMicrosecondsPerInvocation="3763" standardDeviationMircosecondsPerInvocation="654"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="80" invocations="196" avgMicrosecondsPerInvocation="410" maxMicrosecondsPerInvocation="6790" standardDeviationMircosecondsPerInvocation="745"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="76" invocations="125" avgMicrosecondsPerInvocation="615" maxMicrosecondsPerInvocation="6141" standardDeviationMircosecondsPerInvocation="886"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="64" invocations="198" avgMicrosecondsPerInvocation="324" maxMicrosecondsPerInvocation="17064" standardDeviationMircosecondsPerInvocation="1241"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindOpenStream" totalMilliseconds="62" invocations="39" avgMicrosecondsPerInvocation="1597" maxMicrosecondsPerInvocation="11591" standardDeviationMircosecondsPerInvocation="2738"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="56" invocations="192" avgMicrosecondsPerInvocation="294" maxMicrosecondsPerInvocation="3534" standardDeviationMircosecondsPerInvocation="500"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="52" invocations="198" avgMicrosecondsPerInvocation="265" maxMicrosecondsPerInvocation="7744" standardDeviationMircosecondsPerInvocation="640"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="52" invocations="66" avgMicrosecondsPerInvocation="788" maxMicrosecondsPerInvocation="11836" standardDeviationMircosecondsPerInvocation="1687"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="51" invocations="66" avgMicrosecondsPerInvocation="775" maxMicrosecondsPerInvocation="12637" standardDeviationMircosecondsPerInvocation="1770"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="48" invocations="239" avgMicrosecondsPerInvocation="202" maxMicrosecondsPerInvocation="30968" standardDeviationMircosecondsPerInvocation="2003"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="45" invocations="337" avgMicrosecondsPerInvocation="136" maxMicrosecondsPerInvocation="11413" standardDeviationMircosecondsPerInvocation="655"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="36" invocations="229" avgMicrosecondsPerInvocation="157" maxMicrosecondsPerInvocation="3772" standardDeviationMircosecondsPerInvocation="459"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="30" invocations="342" avgMicrosecondsPerInvocation="89" maxMicrosecondsPerInvocation="9707" standardDeviationMircosecondsPerInvocation="523"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="25" invocations="113" avgMicrosecondsPerInvocation="224" maxMicrosecondsPerInvocation="9675" standardDeviationMircosecondsPerInvocation="982"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="23" invocations="66" avgMicrosecondsPerInvocation="355" maxMicrosecondsPerInvocation="5148" standardDeviationMircosecondsPerInvocation="730"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.obl.ObligationAnalysis" totalMilliseconds="20" invocations="76" avgMicrosecondsPerInvocation="270" maxMicrosecondsPerInvocation="1736" standardDeviationMircosecondsPerInvocation="379"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="19" invocations="198" avgMicrosecondsPerInvocation="98" maxMicrosecondsPerInvocation="2044" standardDeviationMircosecondsPerInvocation="187"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.LoadOfKnownNullValue" totalMilliseconds="19" invocations="39" avgMicrosecondsPerInvocation="488" maxMicrosecondsPerInvocation="3742" standardDeviationMircosecondsPerInvocation="729"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.StreamResourceTracker" totalMilliseconds="16" invocations="61" avgMicrosecondsPerInvocation="272" maxMicrosecondsPerInvocation="1298" standardDeviationMircosecondsPerInvocation="216"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildStringPassthruGraph" totalMilliseconds="16" invocations="66" avgMicrosecondsPerInvocation="246" maxMicrosecondsPerInvocation="3083" standardDeviationMircosecondsPerInvocation="540"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.TypeQualifierNullnessAnnotationDatabase" totalMilliseconds="16" invocations="3168" avgMicrosecondsPerInvocation="5" maxMicrosecondsPerInvocation="2044" standardDeviationMircosecondsPerInvocation="40"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindDeadLocalStores" totalMilliseconds="15" invocations="39" avgMicrosecondsPerInvocation="408" maxMicrosecondsPerInvocation="2297" standardDeviationMircosecondsPerInvocation="642"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="15" invocations="66" avgMicrosecondsPerInvocation="235" maxMicrosecondsPerInvocation="2512" standardDeviationMircosecondsPerInvocation="333"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.SerializableIdiom" totalMilliseconds="13" invocations="39" avgMicrosecondsPerInvocation="353" maxMicrosecondsPerInvocation="7706" standardDeviationMircosecondsPerInvocation="1196"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CheckRelaxingNullnessAnnotation" totalMilliseconds="13" invocations="39" avgMicrosecondsPerInvocation="339" maxMicrosecondsPerInvocation="6999" standardDeviationMircosecondsPerInvocation="1121"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.DumbMethods" totalMilliseconds="12" invocations="39" avgMicrosecondsPerInvocation="329" maxMicrosecondsPerInvocation="2956" standardDeviationMircosecondsPerInvocation="498"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History>
+    <AppVersion sequence="0" timestamp="1691433722311" release="" codeSize="0" numClasses="0"/>
+  </History>
+</BugCollection>

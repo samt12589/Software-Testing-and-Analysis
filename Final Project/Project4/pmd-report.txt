@@ -1,0 +1,1063 @@
+src/com/shashi/beans/AdminBean.java:5:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/beans/AdminBean.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/beans/AdminBean.java:5:	DataClass:	DataClass: The class 'AdminBean' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=12, WMC=12)
+src/com/shashi/beans/AdminBean.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/AdminBean.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/AdminBean.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/AdminBean.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/AdminBean.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/AdminBean.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/AdminBean.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'pWord' is not assigned and could be declared final
+src/com/shashi/beans/AdminBean.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'fName' is not assigned and could be declared final
+src/com/shashi/beans/AdminBean.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'lName' is not assigned and could be declared final
+src/com/shashi/beans/AdminBean.java:41:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'addR' is not assigned and could be declared final
+src/com/shashi/beans/AdminBean.java:49:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'mailId' is not assigned and could be declared final
+src/com/shashi/beans/AdminBean.java:57:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'phNo' is not assigned and could be declared final
+src/com/shashi/beans/BookingDetails.java:5:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/beans/BookingDetails.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/beans/BookingDetails.java:5:	DataClass:	DataClass: The class 'BookingDetails' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=14, WMC=14)
+src/com/shashi/beans/BookingDetails.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/BookingDetails.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/BookingDetails.java:11:	FieldNamingConventions:	FieldNamingConventions: The field name 'tr_no' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/BookingDetails.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/BookingDetails.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/BookingDetails.java:13:	FieldNamingConventions:	FieldNamingConventions: The field name 'from_stn' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/BookingDetails.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/BookingDetails.java:14:	FieldNamingConventions:	FieldNamingConventions: The field name 'to_stn' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/BookingDetails.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/BookingDetails.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/BookingDetails.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'mailId' is not assigned and could be declared final
+src/com/shashi/beans/BookingDetails.java:26:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'getTr_no' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/BookingDetails.java:30:	FormalParameterNamingConventions:	FormalParameterNamingConventions: The method parameter name 'tr_no' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/BookingDetails.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'tr_no' is not assigned and could be declared final
+src/com/shashi/beans/BookingDetails.java:30:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'setTr_no' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/BookingDetails.java:38:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'date' is not assigned and could be declared final
+src/com/shashi/beans/BookingDetails.java:42:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'getFrom_stn' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/BookingDetails.java:46:	FormalParameterNamingConventions:	FormalParameterNamingConventions: The method parameter name 'from_stn' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/BookingDetails.java:46:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'from_stn' is not assigned and could be declared final
+src/com/shashi/beans/BookingDetails.java:46:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'setFrom_stn' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/BookingDetails.java:50:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'getTo_stn' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/BookingDetails.java:54:	FormalParameterNamingConventions:	FormalParameterNamingConventions: The method parameter name 'to_stn' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/BookingDetails.java:54:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'to_stn' is not assigned and could be declared final
+src/com/shashi/beans/BookingDetails.java:54:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'setTo_stn' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/BookingDetails.java:62:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'seats' is not assigned and could be declared final
+src/com/shashi/beans/BookingDetails.java:70:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'amount' is not assigned and could be declared final
+src/com/shashi/beans/HistoryBean.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/beans/HistoryBean.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/beans/HistoryBean.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/HistoryBean.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'transId' is not assigned and could be declared final
+src/com/shashi/beans/TrainBean.java:5:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/beans/TrainBean.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/beans/TrainBean.java:5:	DataClass:	DataClass: The class 'TrainBean' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=12, WMC=12)
+src/com/shashi/beans/TrainBean.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/TrainBean.java:12:	FieldNamingConventions:	FieldNamingConventions: The field name 'tr_no' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/TrainBean.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/TrainBean.java:13:	FieldNamingConventions:	FieldNamingConventions: The field name 'tr_name' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/TrainBean.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/TrainBean.java:14:	FieldNamingConventions:	FieldNamingConventions: The field name 'from_stn' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/TrainBean.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/TrainBean.java:15:	FieldNamingConventions:	FieldNamingConventions: The field name 'to_stn' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/TrainBean.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/TrainBean.java:17:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/TrainBean.java:19:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'getTr_no' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/TrainBean.java:23:	FormalParameterNamingConventions:	FormalParameterNamingConventions: The method parameter name 'tr_no' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/TrainBean.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'tr_no' is not assigned and could be declared final
+src/com/shashi/beans/TrainBean.java:23:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'setTr_no' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/TrainBean.java:27:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'getTr_name' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/TrainBean.java:31:	FormalParameterNamingConventions:	FormalParameterNamingConventions: The method parameter name 'tr_name' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/TrainBean.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'tr_name' is not assigned and could be declared final
+src/com/shashi/beans/TrainBean.java:31:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'setTr_name' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/TrainBean.java:35:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'getFrom_stn' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/TrainBean.java:39:	FormalParameterNamingConventions:	FormalParameterNamingConventions: The method parameter name 'from_stn' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/TrainBean.java:39:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'from_stn' is not assigned and could be declared final
+src/com/shashi/beans/TrainBean.java:39:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'setFrom_stn' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/TrainBean.java:43:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'getTo_stn' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/TrainBean.java:47:	FormalParameterNamingConventions:	FormalParameterNamingConventions: The method parameter name 'to_stn' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/TrainBean.java:47:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'to_stn' is not assigned and could be declared final
+src/com/shashi/beans/TrainBean.java:47:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'setTo_stn' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/beans/TrainBean.java:55:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'seats' is not assigned and could be declared final
+src/com/shashi/beans/TrainBean.java:63:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'fare' is not assigned and could be declared final
+src/com/shashi/beans/TrainException.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/beans/TrainException.java:7:	DataClass:	DataClass: The class 'TrainException' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=9)
+src/com/shashi/beans/TrainException.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/TrainException.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/TrainException.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/TrainException.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/beans/TrainException.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'errorCodes' is not assigned and could be declared final
+src/com/shashi/beans/TrainException.java:22:	ConstructorCallsOverridableMethod:	ConstructorCallsOverridableMethod: Overridable method called during object construction: TrainException.setErrorCode(String) 
+src/com/shashi/beans/TrainException.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/beans/TrainException.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'errorMessage' is not assigned and could be declared final
+src/com/shashi/beans/TrainException.java:28:	ConstructorCallsOverridableMethod:	ConstructorCallsOverridableMethod: Overridable method called during object construction: TrainException.setStatusCode(int) 
+src/com/shashi/beans/TrainException.java:32:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/beans/TrainException.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'errorCode' is not assigned and could be declared final
+src/com/shashi/beans/TrainException.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'errorMessage' is not assigned and could be declared final
+src/com/shashi/beans/TrainException.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'statusCode' is not assigned and could be declared final
+src/com/shashi/beans/TrainException.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'errorCode' is not assigned and could be declared final
+src/com/shashi/beans/TrainException.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'errorMessage' is not assigned and could be declared final
+src/com/shashi/beans/TrainException.java:59:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'statusCode' is not assigned and could be declared final
+src/com/shashi/beans/UserBean.java:5:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/beans/UserBean.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/beans/UserBean.java:5:	DataClass:	DataClass: The class 'UserBean' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=12, WMC=12)
+src/com/shashi/beans/UserBean.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/UserBean.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/UserBean.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/UserBean.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/UserBean.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/UserBean.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/beans/UserBean.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'pWord' is not assigned and could be declared final
+src/com/shashi/beans/UserBean.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'fName' is not assigned and could be declared final
+src/com/shashi/beans/UserBean.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'lName' is not assigned and could be declared final
+src/com/shashi/beans/UserBean.java:42:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'addR' is not assigned and could be declared final
+src/com/shashi/beans/UserBean.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'mailId' is not assigned and could be declared final
+src/com/shashi/beans/UserBean.java:58:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'phNo' is not assigned and could be declared final
+src/com/shashi/constant/ResponseCode.java:6:	CommentRequired:	CommentRequired: Enum comments are required
+src/com/shashi/constant/ResponseCode.java:16:	LongVariable:	LongVariable: Avoid excessively long variable names like INTERNAL_SERVER_ERROR
+src/com/shashi/constant/ResponseCode.java:17:	LongVariable:	LongVariable: Avoid excessively long variable names like DATABASE_CONNECTION_FAILURE
+src/com/shashi/constant/ResponseCode.java:19:	LongVariable:	LongVariable: Avoid excessively long variable names like METHOD_NOT_ALLOWED
+src/com/shashi/constant/ResponseCode.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/constant/ResponseCode.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/constant/ResponseCode.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'code' is not assigned and could be declared final
+src/com/shashi/constant/ResponseCode.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/com/shashi/constant/ResponseCode.java:40:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/constant/ResponseCode.java:40:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'statusCode' is not assigned and could be declared final
+src/com/shashi/constant/ResponseCode.java:41:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary qualifier 'ResponseCode': 'values' is already in scope
+src/com/shashi/constant/UserRole.java:3:	CommentRequired:	CommentRequired: Enum comments are required
+src/com/shashi/service/BookingService.java:8:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/service/BookingService.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/BookingService.java:10:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllBookingsByCustomerId': the method is declared in an interface type
+src/com/shashi/service/BookingService.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/BookingService.java:12:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'createHistory': the method is declared in an interface type
+src/com/shashi/service/TrainService.java:8:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/service/TrainService.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/TrainService.java:10:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addTrain': the method is declared in an interface type
+src/com/shashi/service/TrainService.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/TrainService.java:12:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deleteTrainById': the method is declared in an interface type
+src/com/shashi/service/TrainService.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/TrainService.java:14:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateTrain': the method is declared in an interface type
+src/com/shashi/service/TrainService.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/TrainService.java:16:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getTrainById': the method is declared in an interface type
+src/com/shashi/service/TrainService.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/TrainService.java:18:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllTrains': the method is declared in an interface type
+src/com/shashi/service/TrainService.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/TrainService.java:20:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getTrainsBetweenStations': the method is declared in an interface type
+src/com/shashi/service/UserService.java:8:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/service/UserService.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/UserService.java:10:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getUserByEmailId': the method is declared in an interface type
+src/com/shashi/service/UserService.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/UserService.java:12:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllUsers': the method is declared in an interface type
+src/com/shashi/service/UserService.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/UserService.java:14:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateUser': the method is declared in an interface type
+src/com/shashi/service/UserService.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/UserService.java:16:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deleteUser': the method is declared in an interface type
+src/com/shashi/service/UserService.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/UserService.java:18:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'registerUser': the method is declared in an interface type
+src/com/shashi/service/UserService.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/UserService.java:20:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'loginUser': the method is declared in an interface type
+src/com/shashi/service/impl/BookingServiceImpl.java:17:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/service/impl/BookingServiceImpl.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/service/impl/BookingServiceImpl.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'customerEmailId' is not assigned and could be declared final
+src/com/shashi/service/impl/BookingServiceImpl.java:21:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'transactions' is never used (overwritten on line 28)
+src/com/shashi/service/impl/BookingServiceImpl.java:22:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+src/com/shashi/service/impl/BookingServiceImpl.java:24:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/BookingServiceImpl.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/BookingServiceImpl.java:25:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/BookingServiceImpl.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+src/com/shashi/service/impl/BookingServiceImpl.java:25:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/BookingServiceImpl.java:27:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/BookingServiceImpl.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rs' could be declared final
+src/com/shashi/service/impl/BookingServiceImpl.java:27:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/BookingServiceImpl.java:28:	UseDiamondOperator:	UseDiamondOperator: Explicit type arguments can be replaced by a diamond: `new ArrayList<>()`
+src/com/shashi/service/impl/BookingServiceImpl.java:30:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/shashi/service/impl/BookingServiceImpl.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'transaction' could be declared final
+src/com/shashi/service/impl/BookingServiceImpl.java:44:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/service/impl/BookingServiceImpl.java:45:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/service/impl/BookingServiceImpl.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'details' is not assigned and could be declared final
+src/com/shashi/service/impl/BookingServiceImpl.java:52:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'history' is never used (overwritten on line 68)
+src/com/shashi/service/impl/BookingServiceImpl.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+src/com/shashi/service/impl/BookingServiceImpl.java:55:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/BookingServiceImpl.java:55:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/BookingServiceImpl.java:56:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/BookingServiceImpl.java:56:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+src/com/shashi/service/impl/BookingServiceImpl.java:56:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/BookingServiceImpl.java:57:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'transactionId' could be declared final
+src/com/shashi/service/impl/BookingServiceImpl.java:66:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'response' could be declared final
+src/com/shashi/service/impl/BookingServiceImpl.java:68:	UnnecessaryCast:	UnnecessaryCast: Unnecessary cast (HistoryBean)
+src/com/shashi/service/impl/BookingServiceImpl.java:75:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/service/impl/BookingServiceImpl.java:76:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/service/impl/TrainServiceImpl.java:16:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/service/impl/TrainServiceImpl.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/service/impl/TrainServiceImpl.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'train' is not assigned and could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:23:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/TrainServiceImpl.java:23:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:24:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/TrainServiceImpl.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:24:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/TrainServiceImpl.java:31:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/TrainServiceImpl.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rs' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:31:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/TrainServiceImpl.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'trainNo' is not assigned and could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:45:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:47:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/TrainServiceImpl.java:47:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:48:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/TrainServiceImpl.java:48:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:48:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/TrainServiceImpl.java:50:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'response' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:62:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'train' is not assigned and could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:64:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:66:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/TrainServiceImpl.java:66:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:67:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/TrainServiceImpl.java:67:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:67:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/TrainServiceImpl.java:74:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/TrainServiceImpl.java:74:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rs' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:74:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/TrainServiceImpl.java:86:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'trainNo' is not assigned and could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:88:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:90:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/TrainServiceImpl.java:90:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:91:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/TrainServiceImpl.java:91:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:91:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/TrainServiceImpl.java:93:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/TrainServiceImpl.java:93:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rs' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:93:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/TrainServiceImpl.java:105:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/service/impl/TrainServiceImpl.java:106:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/service/impl/TrainServiceImpl.java:113:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'trains' is never used (overwritten on line 119)
+src/com/shashi/service/impl/TrainServiceImpl.java:114:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:116:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/TrainServiceImpl.java:116:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:117:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/TrainServiceImpl.java:117:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:117:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/TrainServiceImpl.java:118:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/TrainServiceImpl.java:118:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rs' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:118:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/TrainServiceImpl.java:119:	UseDiamondOperator:	UseDiamondOperator: Explicit type arguments can be replaced by a diamond: `new ArrayList<>()`
+src/com/shashi/service/impl/TrainServiceImpl.java:121:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/shashi/service/impl/TrainServiceImpl.java:121:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'train' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:133:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/service/impl/TrainServiceImpl.java:134:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/service/impl/TrainServiceImpl.java:140:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'fromStation' is not assigned and could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:140:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'toStation' is not assigned and could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:141:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'trains' is never used (overwritten on line 150)
+src/com/shashi/service/impl/TrainServiceImpl.java:142:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:145:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/TrainServiceImpl.java:145:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:146:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/TrainServiceImpl.java:146:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:146:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/TrainServiceImpl.java:149:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/TrainServiceImpl.java:149:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rs' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:149:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/TrainServiceImpl.java:150:	UseDiamondOperator:	UseDiamondOperator: Explicit type arguments can be replaced by a diamond: `new ArrayList<>()`
+src/com/shashi/service/impl/TrainServiceImpl.java:152:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/shashi/service/impl/TrainServiceImpl.java:152:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'train' could be declared final
+src/com/shashi/service/impl/TrainServiceImpl.java:164:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/service/impl/TrainServiceImpl.java:165:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/service/impl/UserServiceImpl.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/service/impl/UserServiceImpl.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/service/impl/UserServiceImpl.java:19:	FieldNamingConventions:	FieldNamingConventions: The final field name 'TABLE_NAME' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/service/impl/UserServiceImpl.java:21:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/service/impl/UserServiceImpl.java:23:	AvoidReassigningParameters:	AvoidReassigningParameters: Avoid reassigning parameters such as 'userRole'
+src/com/shashi/service/impl/UserServiceImpl.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'customerEmailId' is not assigned and could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:30:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'customer' is never used (overwritten on line 38)
+src/com/shashi/service/impl/UserServiceImpl.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:33:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:34:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:34:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/UserServiceImpl.java:36:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:36:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rs' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:36:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/UserServiceImpl.java:49:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/service/impl/UserServiceImpl.java:50:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/service/impl/UserServiceImpl.java:57:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'customers' is never used (overwritten on line 63)
+src/com/shashi/service/impl/UserServiceImpl.java:58:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:60:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:60:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:61:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:61:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:61:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/UserServiceImpl.java:62:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:62:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rs' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:62:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/UserServiceImpl.java:63:	UseDiamondOperator:	UseDiamondOperator: Explicit type arguments can be replaced by a diamond: `new ArrayList<>()`
+src/com/shashi/service/impl/UserServiceImpl.java:65:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/shashi/service/impl/UserServiceImpl.java:65:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'customer' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:79:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/service/impl/UserServiceImpl.java:80:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/service/impl/UserServiceImpl.java:86:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'customer' is not assigned and could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:88:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:90:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:90:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:91:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:91:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:91:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/UserServiceImpl.java:97:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'response' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:103:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal " : " appears 4 times in this file; the first occurrence is on line 103
+src/com/shashi/service/impl/UserServiceImpl.java:109:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'customer' is not assigned and could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:111:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:113:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:113:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:114:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:114:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:114:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/UserServiceImpl.java:117:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'response' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:129:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'customer' is not assigned and could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:131:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:133:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:133:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:134:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:134:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:134:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/UserServiceImpl.java:141:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:141:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rs' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:141:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/UserServiceImpl.java:147:	UseLocaleWithCaseConversions:	UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/shashi/service/impl/UserServiceImpl.java:148:	UseStringBufferForStringAppends:	UseStringBufferForStringAppends: Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+src/com/shashi/service/impl/UserServiceImpl.java:150:	UseStringBufferForStringAppends:	UseStringBufferForStringAppends: Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+src/com/shashi/service/impl/UserServiceImpl.java:157:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:157:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'username' is not assigned and could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:158:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'customer' is never used (overwritten on line 167)
+src/com/shashi/service/impl/UserServiceImpl.java:159:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:161:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:161:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:162:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:162:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:162:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/com/shashi/service/impl/UserServiceImpl.java:165:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/com/shashi/service/impl/UserServiceImpl.java:165:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rs' could be declared final
+src/com/shashi/service/impl/UserServiceImpl.java:165:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/com/shashi/service/impl/UserServiceImpl.java:179:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/service/impl/UserServiceImpl.java:180:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/servlets/AddTrainFwd.java:17:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/AddTrainFwd.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/AddTrainFwd.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/AddTrainFwd.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/AddTrainFwd.java:26:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/AddTrainFwd.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/AddTrainFwd.java:29:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/AdminAddTrain.java:22:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/AdminAddTrain.java:22:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/AdminAddTrain.java:29:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/servlets/AdminAddTrain.java:29:	ImmutableField:	ImmutableField: Field 'trainService' may be declared final
+src/com/shashi/servlets/AdminAddTrain.java:38:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/AdminAddTrain.java:38:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/AdminAddTrain.java:38:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/AdminAddTrain.java:40:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/AdminAddTrain.java:40:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/AdminAddTrain.java:40:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/AdminAddTrain.java:40:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/AdminAddTrain.java:43:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'train' could be declared final
+src/com/shashi/servlets/AdminAddTrain.java:45:	UseLocaleWithCaseConversions:	UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/shashi/servlets/AdminAddTrain.java:46:	UseLocaleWithCaseConversions:	UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/shashi/servlets/AdminAddTrain.java:47:	UseLocaleWithCaseConversions:	UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/shashi/servlets/AdminAddTrain.java:50:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'message' could be declared final
+src/com/shashi/servlets/AdminAddTrain.java:52:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/AdminAddTrain.java:52:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/AdminAddTrain.java:56:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/AdminAddTrain.java:56:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/AdminAddTrain.java:60:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/shashi/servlets/AdminAddTrain.java:61:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/servlets/AdminCancleTrain.java:21:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/AdminCancleTrain.java:21:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/AdminCancleTrain.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/servlets/AdminCancleTrain.java:27:	ImmutableField:	ImmutableField: Field 'trainService' may be declared final
+src/com/shashi/servlets/AdminCancleTrain.java:36:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/AdminCancleTrain.java:36:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/AdminCancleTrain.java:36:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/AdminCancleTrain.java:38:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/AdminCancleTrain.java:38:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/AdminCancleTrain.java:38:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/AdminCancleTrain.java:38:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/AdminCancleTrain.java:41:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'trainNo' could be declared final
+src/com/shashi/servlets/AdminCancleTrain.java:42:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'message' could be declared final
+src/com/shashi/servlets/AdminCancleTrain.java:44:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/AdminCancleTrain.java:44:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/AdminCancleTrain.java:49:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/AdminCancleTrain.java:49:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/AdminCancleTrain.java:53:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/shashi/servlets/AdminCancleTrain.java:54:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/servlets/AdminCancleTrainFwd.java:16:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/AdminCancleTrainFwd.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/AdminCancleTrainFwd.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/AdminCancleTrainFwd.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/AdminCancleTrainFwd.java:29:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/AdminCancleTrainFwd.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/AdminCancleTrainFwd.java:32:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/AdminLogin.java:19:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/AdminLogin.java:19:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/AdminLogin.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/AdminLogin.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/AdminLogin.java:28:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/AdminLogin.java:29:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/AdminLogin.java:29:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/AdminLogin.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/AdminLogin.java:29:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/AdminLogin.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'uName' could be declared final
+src/com/shashi/servlets/AdminLogin.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pWord' could be declared final
+src/com/shashi/servlets/AdminLogin.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'message' could be declared final
+src/com/shashi/servlets/AdminLogin.java:35:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/com/shashi/servlets/AdminLogin.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/AdminLogin.java:37:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/AdminLogin.java:43:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/AdminLogin.java:43:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/AdminLogin.java:48:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/shashi/servlets/AdminLogin.java:49:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/servlets/AdminLogoutServlet.java:18:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/AdminLogoutServlet.java:18:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/AdminLogoutServlet.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/AdminLogoutServlet.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/AdminLogoutServlet.java:27:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/AdminLogoutServlet.java:29:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/AdminLogoutServlet.java:29:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/AdminLogoutServlet.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/AdminLogoutServlet.java:29:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/AdminLogoutServlet.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/AdminLogoutServlet.java:32:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/AdminLogoutServlet.java:36:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/AdminLogoutServlet.java:36:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/AdminSearchTrain.java:22:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/AdminSearchTrain.java:22:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/AdminSearchTrain.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/servlets/AdminSearchTrain.java:24:	ImmutableField:	ImmutableField: Field 'trainService' may be declared final
+src/com/shashi/servlets/AdminSearchTrain.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/AdminSearchTrain.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/AdminSearchTrain.java:33:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/AdminSearchTrain.java:35:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/AdminSearchTrain.java:35:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/AdminSearchTrain.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/AdminSearchTrain.java:35:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/AdminSearchTrain.java:38:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'trainNo' could be declared final
+src/com/shashi/servlets/AdminSearchTrain.java:39:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'train' could be declared final
+src/com/shashi/servlets/AdminSearchTrain.java:41:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/AdminSearchTrain.java:41:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/AdminSearchTrain.java:45:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "</td></tr>" appears 5 times in this file; the first occurrence is on line 45
+src/com/shashi/servlets/AdminSearchTrain.java:52:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/AdminSearchTrain.java:52:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/AdminSearchTrain.java:56:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/shashi/servlets/AdminSearchTrain.java:57:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/servlets/AdminSearchTrainFwd.java:17:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/AdminSearchTrainFwd.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/AdminSearchTrainFwd.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/AdminSearchTrainFwd.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/AdminSearchTrainFwd.java:26:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/AdminSearchTrainFwd.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/AdminSearchTrainFwd.java:29:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/AdminTrainUpdate.java:20:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/AdminTrainUpdate.java:20:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/AdminTrainUpdate.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/servlets/AdminTrainUpdate.java:22:	ImmutableField:	ImmutableField: Field 'trainService' may be declared final
+src/com/shashi/servlets/AdminTrainUpdate.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/AdminTrainUpdate.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/AdminTrainUpdate.java:31:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/AdminTrainUpdate.java:33:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/AdminTrainUpdate.java:33:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/AdminTrainUpdate.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/AdminTrainUpdate.java:33:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/AdminTrainUpdate.java:36:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'trainNo' could be declared final
+src/com/shashi/servlets/AdminTrainUpdate.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'train' could be declared final
+src/com/shashi/servlets/AdminTrainUpdate.java:39:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/AdminTrainUpdate.java:39:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/AdminTrainUpdate.java:44:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "\'></td></tr>" appears 6 times in this file; the first occurrence is on line 44
+src/com/shashi/servlets/AdminTrainUpdate.java:57:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/AdminTrainUpdate.java:57:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/AdminTrainUpdate.java:61:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/shashi/servlets/AdminTrainUpdate.java:62:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/servlets/AdminTrainUpdate.java:68:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/AdminTrainUpdate.java:68:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/AdminTrainUpdate.java:68:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/AdminTrainUpdateFwd.java:14:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/AdminTrainUpdateFwd.java:14:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/AdminTrainUpdateFwd.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/AdminTrainUpdateFwd.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/AdminTrainUpdateFwd.java:23:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/AdminTrainUpdateFwd.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/AdminTrainUpdateFwd.java:26:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/AdminViewLinkFwd.java:22:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/AdminViewLinkFwd.java:22:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/AdminViewLinkFwd.java:24:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'trainService'
+src/com/shashi/servlets/AdminViewLinkFwd.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/servlets/AdminViewLinkFwd.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/AdminViewLinkFwd.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/AdminViewLinkFwd.java:33:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/AdminViewLinkFwd.java:35:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/AdminViewLinkFwd.java:35:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/AdminViewLinkFwd.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/AdminViewLinkFwd.java:35:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/AdminViewLinkFwd.java:38:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'trainNo' could be declared final
+src/com/shashi/servlets/AdminViewLinkFwd.java:39:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'train' could be declared final
+src/com/shashi/servlets/AdminViewLinkFwd.java:41:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/AdminViewLinkFwd.java:41:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/AdminViewLinkFwd.java:45:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "</td></tr>" appears 5 times in this file; the first occurrence is on line 45
+src/com/shashi/servlets/AdminViewLinkFwd.java:52:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/AdminViewLinkFwd.java:52:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/AdminViewLinkFwd.java:57:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/shashi/servlets/AdminViewLinkFwd.java:58:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/servlets/AdminViewTrainFwd.java:23:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/AdminViewTrainFwd.java:23:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/AdminViewTrainFwd.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/servlets/AdminViewTrainFwd.java:25:	ImmutableField:	ImmutableField: Field 'trainService' may be declared final
+src/com/shashi/servlets/AdminViewTrainFwd.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/AdminViewTrainFwd.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/AdminViewTrainFwd.java:27:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/AdminViewTrainFwd.java:29:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/AdminViewTrainFwd.java:29:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/AdminViewTrainFwd.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/AdminViewTrainFwd.java:29:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/AdminViewTrainFwd.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'trains' could be declared final
+src/com/shashi/servlets/AdminViewTrainFwd.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/AdminViewTrainFwd.java:34:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/AdminViewTrainFwd.java:40:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'train' could be declared final
+src/com/shashi/servlets/AdminViewTrainFwd.java:42:	AddEmptyString:	AddEmptyString: Do not add empty strings
+src/com/shashi/servlets/AdminViewTrainFwd.java:42:	AddEmptyString:	AddEmptyString: Do not add empty strings
+src/com/shashi/servlets/AdminViewTrainFwd.java:44:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "</td>" appears 4 times in this file; the first occurrence is on line 44
+src/com/shashi/servlets/AdminViewTrainFwd.java:44:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "<td>" appears 5 times in this file; the first occurrence is on line 44
+src/com/shashi/servlets/AdminViewTrainFwd.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/AdminViewTrainFwd.java:51:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/AdminViewTrainFwd.java:55:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/shashi/servlets/AdminViewTrainFwd.java:56:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/servlets/BookTrainByRef.java:19:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/BookTrainByRef.java:19:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/BookTrainByRef.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/BookTrainByRef.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/BookTrainByRef.java:20:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/BookTrainByRef.java:21:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/BookTrainByRef.java:21:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/BookTrainByRef.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/BookTrainByRef.java:21:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/BookTrainByRef.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'emailId' could be declared final
+src/com/shashi/servlets/BookTrainByRef.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'trainNo' could be declared final
+src/com/shashi/servlets/BookTrainByRef.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'seat' could be declared final
+src/com/shashi/servlets/BookTrainByRef.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'fromStn' could be declared final
+src/com/shashi/servlets/BookTrainByRef.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'toStn' could be declared final
+src/com/shashi/servlets/BookTrainByRef.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/BookTrainByRef.java:30:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/BookTrainFwd.java:16:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/BookTrainFwd.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/BookTrainFwd.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/BookTrainFwd.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/BookTrainFwd.java:22:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/BookTrainFwd.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/BookTrainFwd.java:26:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/BookTrainPayment.java:17:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/BookTrainPayment.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/BookTrainPayment.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/BookTrainPayment.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/BookTrainPayment.java:23:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/BookTrainPayment.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'seat' could be declared final
+src/com/shashi/servlets/BookTrainPayment.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'trainNo' could be declared final
+src/com/shashi/servlets/BookTrainPayment.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'journeyDate' could be declared final
+src/com/shashi/servlets/BookTrainPayment.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'seatClass' could be declared final
+src/com/shashi/servlets/BookTrainPayment.java:31:	LawOfDemeter:	LawOfDemeter: Call to `getServletContext` on foreign value `req` (degree 1)
+src/com/shashi/servlets/BookTrainPayment.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sct' could be declared final
+src/com/shashi/servlets/BookTrainPayment.java:36:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/BookTrainPayment.java:36:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/BookTrains.java:29:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/BookTrains.java:29:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/BookTrains.java:31:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/servlets/BookTrains.java:31:	ImmutableField:	ImmutableField: Field 'trainService' may be declared final
+src/com/shashi/servlets/BookTrains.java:32:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/servlets/BookTrains.java:32:	ImmutableField:	ImmutableField: Field 'bookingService' may be declared final
+src/com/shashi/servlets/BookTrains.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/BookTrains.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/BookTrains.java:34:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/BookTrains.java:35:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/BookTrains.java:35:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/BookTrains.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/BookTrains.java:35:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/BookTrains.java:39:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/BookTrains.java:39:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/BookTrains.java:42:	LawOfDemeter:	LawOfDemeter: Call to `getServletContext` on foreign value `req` (degree 1)
+src/com/shashi/servlets/BookTrains.java:42:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sct' could be declared final
+src/com/shashi/servlets/BookTrains.java:45:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `sct` (degree 2)
+src/com/shashi/servlets/BookTrains.java:45:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'seat' could be declared final
+src/com/shashi/servlets/BookTrains.java:46:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `sct` (degree 2)
+src/com/shashi/servlets/BookTrains.java:46:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'trainNo' could be declared final
+src/com/shashi/servlets/BookTrains.java:47:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `sct` (degree 2)
+src/com/shashi/servlets/BookTrains.java:47:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'journeyDate' could be declared final
+src/com/shashi/servlets/BookTrains.java:48:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `sct` (degree 2)
+src/com/shashi/servlets/BookTrains.java:48:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'seatClass' could be declared final
+src/com/shashi/servlets/BookTrains.java:50:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userMailId' could be declared final
+src/com/shashi/servlets/BookTrains.java:52:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'inputFormat' could be declared final
+src/com/shashi/servlets/BookTrains.java:52:	SimpleDateFormatNeedsLocale:	SimpleDateFormatNeedsLocale: When instantiating a SimpleDateFormat object, specify a Locale
+src/com/shashi/servlets/BookTrains.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'outputFormat' could be declared final
+src/com/shashi/servlets/BookTrains.java:53:	SimpleDateFormatNeedsLocale:	SimpleDateFormatNeedsLocale: When instantiating a SimpleDateFormat object, specify a Locale
+src/com/shashi/servlets/BookTrains.java:55:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'date' is never used (overwritten on line 57)
+src/com/shashi/servlets/BookTrains.java:59:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'train' could be declared final
+src/com/shashi/servlets/BookTrains.java:70:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'responseCode' could be declared final
+src/com/shashi/servlets/BookTrains.java:73:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bookingDetails' could be declared final
+src/com/shashi/servlets/BookTrains.java:74:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'totalAmount' could be declared final
+src/com/shashi/servlets/BookTrains.java:83:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'transaction' could be declared final
+src/com/shashi/servlets/BookTrains.java:110:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/shashi/servlets/BookTrains.java:111:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/servlets/ChangeUserPassword.java:20:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/ChangeUserPassword.java:20:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/ChangeUserPassword.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/ChangeUserPassword.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/ChangeUserPassword.java:21:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/ChangeUserPassword.java:23:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/ChangeUserPassword.java:23:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/ChangeUserPassword.java:23:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/ChangeUserPassword.java:23:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/ChangeUserPassword.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/ChangeUserPassword.java:26:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/ChangeUserPwd.java:23:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/ChangeUserPwd.java:23:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/ChangeUserPwd.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/servlets/ChangeUserPwd.java:24:	ImmutableField:	ImmutableField: Field 'userService' may be declared final
+src/com/shashi/servlets/ChangeUserPwd.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/ChangeUserPwd.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/ChangeUserPwd.java:26:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/ChangeUserPwd.java:28:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/ChangeUserPwd.java:28:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/ChangeUserPwd.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/ChangeUserPwd.java:28:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/ChangeUserPwd.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'currentUser' could be declared final
+src/com/shashi/servlets/ChangeUserPwd.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'u_Name' could be declared final
+src/com/shashi/servlets/ChangeUserPwd.java:32:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'u_Name' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/shashi/servlets/ChangeUserPwd.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'oldPWord' could be declared final
+src/com/shashi/servlets/ChangeUserPwd.java:33:	UnnecessaryCast:	UnnecessaryCast: Unnecessary cast (String)
+src/com/shashi/servlets/ChangeUserPwd.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'newPWord' could be declared final
+src/com/shashi/servlets/ChangeUserPwd.java:38:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'message' could be declared final
+src/com/shashi/servlets/ChangeUserPwd.java:39:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/com/shashi/servlets/ChangeUserPwd.java:40:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/ChangeUserPwd.java:40:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/ChangeUserPwd.java:46:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/ChangeUserPwd.java:46:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/ChangeUserPwd.java:56:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/ChangeUserPwd.java:56:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/ChangeUserPwd.java:64:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/ChangeUserPwd.java:64:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/ChangeUserPwd.java:72:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/shashi/servlets/ChangeUserPwd.java:73:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/servlets/EditUserProfile.java:19:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/EditUserProfile.java:19:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/EditUserProfile.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/EditUserProfile.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/EditUserProfile.java:20:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/EditUserProfile.java:22:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/EditUserProfile.java:22:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/EditUserProfile.java:22:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/EditUserProfile.java:22:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/EditUserProfile.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ub' could be declared final
+src/com/shashi/servlets/EditUserProfile.java:25:	ShortVariable:	ShortVariable: Avoid variables with short names like ub
+src/com/shashi/servlets/EditUserProfile.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/EditUserProfile.java:26:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/EditUserProfile.java:37:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "\'></td></tr>" appears 5 times in this file; the first occurrence is on line 37
+src/com/shashi/servlets/ErrorHandlerServlet.java:16:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/ErrorHandlerServlet.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/ErrorHandlerServlet.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/ErrorHandlerServlet.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/ErrorHandlerServlet.java:23:	MissingOverride:	MissingOverride: The method 'service(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/ErrorHandlerServlet.java:24:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/ErrorHandlerServlet.java:24:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/ErrorHandlerServlet.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/ErrorHandlerServlet.java:24:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/ErrorHandlerServlet.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'throwable' could be declared final
+src/com/shashi/servlets/ErrorHandlerServlet.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'servletName' could be declared final
+src/com/shashi/servlets/ErrorHandlerServlet.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'requestUri' could be declared final
+src/com/shashi/servlets/ErrorHandlerServlet.java:36:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/servlets/ErrorHandlerServlet.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'errorCodes' could be declared final
+src/com/shashi/servlets/ErrorHandlerServlet.java:43:	SimplifyConditional:	SimplifyConditional: No need to check for null before an instanceof
+src/com/shashi/servlets/ErrorHandlerServlet.java:44:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'trainException' could be declared final
+src/com/shashi/servlets/ErrorHandlerServlet.java:49:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/servlets/ErrorHandlerServlet.java:56:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/servlets/ErrorHandlerServlet.java:57:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/servlets/ErrorHandlerServlet.java:58:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/servlets/ErrorHandlerServlet.java:59:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/servlets/ErrorHandlerServlet.java:60:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/servlets/ErrorHandlerServlet.java:61:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/servlets/ErrorHandlerServlet.java:62:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/servlets/ErrorHandlerServlet.java:64:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/com/shashi/servlets/ErrorHandlerServlet.java:65:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/ErrorHandlerServlet.java:65:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/ErrorHandlerServlet.java:70:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/ErrorHandlerServlet.java:70:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/FareEnq.java:23:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/FareEnq.java:23:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/FareEnq.java:24:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'trainService'
+src/com/shashi/servlets/FareEnq.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/servlets/FareEnq.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/FareEnq.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/FareEnq.java:26:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/FareEnq.java:28:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/FareEnq.java:28:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/FareEnq.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/FareEnq.java:28:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/FareEnq.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'fromStation' could be declared final
+src/com/shashi/servlets/FareEnq.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'toStation' could be declared final
+src/com/shashi/servlets/FareEnq.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'trains' could be declared final
+src/com/shashi/servlets/FareEnq.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/FareEnq.java:37:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/FareEnq.java:43:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'train' could be declared final
+src/com/shashi/servlets/FareEnq.java:44:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'hr' could be declared final
+src/com/shashi/servlets/FareEnq.java:44:	ShortVariable:	ShortVariable: Avoid variables with short names like hr
+src/com/shashi/servlets/FareEnq.java:45:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'min' could be declared final
+src/com/shashi/servlets/FareEnq.java:46:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'time' could be declared final
+src/com/shashi/servlets/FareEnq.java:48:	AddEmptyString:	AddEmptyString: Do not add empty strings
+src/com/shashi/servlets/FareEnq.java:48:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "</td>" appears 6 times in this file; the first occurrence is on line 48
+src/com/shashi/servlets/FareEnq.java:48:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "<td>" appears 6 times in this file; the first occurrence is on line 48
+src/com/shashi/servlets/FareEnq.java:57:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/FareEnq.java:57:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/FareEnq.java:62:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/shashi/servlets/FareEnq.java:63:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/servlets/FareEnqFwd.java:17:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/FareEnqFwd.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/FareEnqFwd.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/FareEnqFwd.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/FareEnqFwd.java:18:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/FareEnqFwd.java:23:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/FareEnqFwd.java:23:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/TicketBookingHistory.java:23:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/TicketBookingHistory.java:23:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/TicketBookingHistory.java:25:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'bookingService'
+src/com/shashi/servlets/TicketBookingHistory.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/servlets/TicketBookingHistory.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/TicketBookingHistory.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/TicketBookingHistory.java:27:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/TicketBookingHistory.java:29:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/TicketBookingHistory.java:29:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/TicketBookingHistory.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/TicketBookingHistory.java:29:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/TicketBookingHistory.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'customerId' could be declared final
+src/com/shashi/servlets/TicketBookingHistory.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'details' could be declared final
+src/com/shashi/servlets/TicketBookingHistory.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/TicketBookingHistory.java:35:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/TicketBookingHistory.java:41:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'trans' could be declared final
+src/com/shashi/servlets/TicketBookingHistory.java:43:	AddEmptyString:	AddEmptyString: Do not add empty strings
+src/com/shashi/servlets/TicketBookingHistory.java:43:	AddEmptyString:	AddEmptyString: Do not add empty strings
+src/com/shashi/servlets/TicketBookingHistory.java:43:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "</td>" appears 6 times in this file; the first occurrence is on line 43
+src/com/shashi/servlets/TicketBookingHistory.java:43:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "<td>" appears 6 times in this file; the first occurrence is on line 43
+src/com/shashi/servlets/TicketBookingHistory.java:50:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/TicketBookingHistory.java:50:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/TicketBookingHistory.java:54:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/shashi/servlets/TicketBookingHistory.java:55:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/servlets/TrainBwStn.java:23:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/TrainBwStn.java:23:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/TrainBwStn.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/servlets/TrainBwStn.java:24:	ImmutableField:	ImmutableField: Field 'trainService' may be declared final
+src/com/shashi/servlets/TrainBwStn.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/TrainBwStn.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/TrainBwStn.java:26:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/TrainBwStn.java:28:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/TrainBwStn.java:28:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/TrainBwStn.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/TrainBwStn.java:28:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/TrainBwStn.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'fromStation' could be declared final
+src/com/shashi/servlets/TrainBwStn.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'toStation' could be declared final
+src/com/shashi/servlets/TrainBwStn.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'trains' could be declared final
+src/com/shashi/servlets/TrainBwStn.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/TrainBwStn.java:35:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/TrainBwStn.java:41:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'train' could be declared final
+src/com/shashi/servlets/TrainBwStn.java:42:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'hr' could be declared final
+src/com/shashi/servlets/TrainBwStn.java:42:	ShortVariable:	ShortVariable: Avoid variables with short names like hr
+src/com/shashi/servlets/TrainBwStn.java:43:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'min' could be declared final
+src/com/shashi/servlets/TrainBwStn.java:44:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'time' could be declared final
+src/com/shashi/servlets/TrainBwStn.java:46:	AddEmptyString:	AddEmptyString: Do not add empty strings
+src/com/shashi/servlets/TrainBwStn.java:46:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "</td>" appears 6 times in this file; the first occurrence is on line 46
+src/com/shashi/servlets/TrainBwStn.java:46:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "<td>" appears 6 times in this file; the first occurrence is on line 46
+src/com/shashi/servlets/TrainBwStn.java:55:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/TrainBwStn.java:55:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/TrainBwStn.java:60:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/shashi/servlets/TrainBwStn.java:61:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/servlets/TrainBwStnFwd.java:17:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/TrainBwStnFwd.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/TrainBwStnFwd.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/TrainBwStnFwd.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/TrainBwStnFwd.java:18:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/TrainBwStnFwd.java:23:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/TrainBwStnFwd.java:23:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/UpdateTrainSchedule.java:20:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/UpdateTrainSchedule.java:20:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/UpdateTrainSchedule.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/servlets/UpdateTrainSchedule.java:22:	ImmutableField:	ImmutableField: Field 'trainService' may be declared final
+src/com/shashi/servlets/UpdateTrainSchedule.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/UpdateTrainSchedule.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/UpdateTrainSchedule.java:24:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/UpdateTrainSchedule.java:26:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/UpdateTrainSchedule.java:26:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/UpdateTrainSchedule.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/UpdateTrainSchedule.java:26:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/UpdateTrainSchedule.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'train' could be declared final
+src/com/shashi/servlets/UpdateTrainSchedule.java:38:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'message' could be declared final
+src/com/shashi/servlets/UpdateTrainSchedule.java:39:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/com/shashi/servlets/UpdateTrainSchedule.java:40:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/UpdateTrainSchedule.java:40:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/UpdateTrainSchedule.java:44:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/UpdateTrainSchedule.java:44:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/UpdateTrainSchedule.java:48:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/shashi/servlets/UpdateTrainSchedule.java:49:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/servlets/UpdateUserProfile.java:22:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/UpdateUserProfile.java:22:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/UpdateUserProfile.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/servlets/UpdateUserProfile.java:23:	ImmutableField:	ImmutableField: Field 'userService' may be declared final
+src/com/shashi/servlets/UpdateUserProfile.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/UpdateUserProfile.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/UpdateUserProfile.java:25:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/UpdateUserProfile.java:27:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/UpdateUserProfile.java:27:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/UpdateUserProfile.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/UpdateUserProfile.java:27:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/UpdateUserProfile.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ub' could be declared final
+src/com/shashi/servlets/UpdateUserProfile.java:31:	ShortVariable:	ShortVariable: Avoid variables with short names like ub
+src/com/shashi/servlets/UpdateUserProfile.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'fName' could be declared final
+src/com/shashi/servlets/UpdateUserProfile.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'lName' could be declared final
+src/com/shashi/servlets/UpdateUserProfile.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'addR' could be declared final
+src/com/shashi/servlets/UpdateUserProfile.java:36:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'phNo' could be declared final
+src/com/shashi/servlets/UpdateUserProfile.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mailId' could be declared final
+src/com/shashi/servlets/UpdateUserProfile.java:46:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'message' could be declared final
+src/com/shashi/servlets/UpdateUserProfile.java:47:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/com/shashi/servlets/UpdateUserProfile.java:49:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/UpdateUserProfile.java:49:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/UpdateUserProfile.java:58:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/UpdateUserProfile.java:58:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/UpdateUserProfile.java:65:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/shashi/servlets/UpdateUserProfile.java:66:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/servlets/UserAvailFwd.java:17:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/UserAvailFwd.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/UserAvailFwd.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/UserAvailFwd.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/UserAvailFwd.java:18:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/UserAvailFwd.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/UserAvailFwd.java:21:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/UserAvailServlet.java:22:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/UserAvailServlet.java:22:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/UserAvailServlet.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/servlets/UserAvailServlet.java:23:	ImmutableField:	ImmutableField: Field 'trainService' may be declared final
+src/com/shashi/servlets/UserAvailServlet.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/UserAvailServlet.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/UserAvailServlet.java:25:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/UserAvailServlet.java:27:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/UserAvailServlet.java:27:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/UserAvailServlet.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/UserAvailServlet.java:27:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/UserAvailServlet.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'trainNo' could be declared final
+src/com/shashi/servlets/UserAvailServlet.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'train' could be declared final
+src/com/shashi/servlets/UserAvailServlet.java:36:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/UserAvailServlet.java:36:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/UserAvailServlet.java:44:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "</td></tr>" appears 5 times in this file; the first occurrence is on line 44
+src/com/shashi/servlets/UserAvailServlet.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/UserAvailServlet.java:51:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/UserAvailServlet.java:56:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/shashi/servlets/UserAvailServlet.java:57:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/servlets/UserHome.java:18:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/UserHome.java:18:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/UserHome.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/UserHome.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/UserHome.java:19:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/UserHome.java:21:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/UserHome.java:21:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/UserHome.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/UserHome.java:21:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/UserHome.java:23:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/UserHome.java:23:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/UserLoginServlet.java:18:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/UserLoginServlet.java:18:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/UserLoginServlet.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/UserLoginServlet.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/UserLoginServlet.java:24:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/UserLoginServlet.java:25:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/UserLoginServlet.java:25:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/UserLoginServlet.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/UserLoginServlet.java:25:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/UserLoginServlet.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'uName' could be declared final
+src/com/shashi/servlets/UserLoginServlet.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pWord' could be declared final
+src/com/shashi/servlets/UserLoginServlet.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'responseMsg' could be declared final
+src/com/shashi/servlets/UserLoginServlet.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/UserLoginServlet.java:32:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/UserLoginServlet.java:42:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/UserLoginServlet.java:42:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/UserLogoutServlet.java:18:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/UserLogoutServlet.java:18:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/UserLogoutServlet.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/UserLogoutServlet.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/UserLogoutServlet.java:19:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/UserLogoutServlet.java:21:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/UserLogoutServlet.java:21:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/UserLogoutServlet.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/UserLogoutServlet.java:21:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/UserLogoutServlet.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/UserLogoutServlet.java:25:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/UserLogoutServlet.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/UserLogoutServlet.java:29:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/UserProfile.java:18:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/UserProfile.java:18:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/UserProfile.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/UserProfile.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/UserProfile.java:19:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/UserProfile.java:21:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/UserProfile.java:21:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/UserProfile.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/UserProfile.java:21:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/UserProfile.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/UserProfile.java:25:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/UserRegServlet.java:21:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/UserRegServlet.java:21:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/UserRegServlet.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/servlets/UserRegServlet.java:23:	ImmutableField:	ImmutableField: Field 'userService' may be declared final
+src/com/shashi/servlets/UserRegServlet.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/UserRegServlet.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/UserRegServlet.java:25:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/UserRegServlet.java:27:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/UserRegServlet.java:27:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/UserRegServlet.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/UserRegServlet.java:27:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/UserRegServlet.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/com/shashi/servlets/UserRegServlet.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'message' could be declared final
+src/com/shashi/servlets/UserRegServlet.java:38:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/com/shashi/servlets/UserRegServlet.java:39:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/UserRegServlet.java:39:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/UserRegServlet.java:44:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/UserRegServlet.java:44:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/UserRegServlet.java:50:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/shashi/servlets/UserRegServlet.java:51:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/servlets/UserSearchFwd.java:17:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/UserSearchFwd.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/UserSearchFwd.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/UserSearchFwd.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/UserSearchFwd.java:18:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/UserSearchFwd.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/UserSearchFwd.java:21:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/UserSearchTrain.java:22:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/UserSearchTrain.java:22:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/UserSearchTrain.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/servlets/UserSearchTrain.java:23:	ImmutableField:	ImmutableField: Field 'trainService' may be declared final
+src/com/shashi/servlets/UserSearchTrain.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/UserSearchTrain.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/UserSearchTrain.java:25:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/UserSearchTrain.java:27:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/UserSearchTrain.java:27:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/UserSearchTrain.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/UserSearchTrain.java:27:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/UserSearchTrain.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'trainNo' could be declared final
+src/com/shashi/servlets/UserSearchTrain.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'train' could be declared final
+src/com/shashi/servlets/UserSearchTrain.java:36:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/UserSearchTrain.java:36:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/UserSearchTrain.java:40:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "</td></tr>" appears 5 times in this file; the first occurrence is on line 40
+src/com/shashi/servlets/UserSearchTrain.java:47:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/UserSearchTrain.java:47:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/UserSearchTrain.java:51:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/shashi/servlets/UserSearchTrain.java:52:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/servlets/UserViewLinkGet.java:22:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/UserViewLinkGet.java:22:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/UserViewLinkGet.java:23:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'trainService'
+src/com/shashi/servlets/UserViewLinkGet.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/servlets/UserViewLinkGet.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/UserViewLinkGet.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/UserViewLinkGet.java:25:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/UserViewLinkGet.java:27:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/UserViewLinkGet.java:27:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/UserViewLinkGet.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/UserViewLinkGet.java:27:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/UserViewLinkGet.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'trainNo' could be declared final
+src/com/shashi/servlets/UserViewLinkGet.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'train' could be declared final
+src/com/shashi/servlets/UserViewLinkGet.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/UserViewLinkGet.java:33:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/UserViewLinkGet.java:37:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "</td></tr>" appears 5 times in this file; the first occurrence is on line 37
+src/com/shashi/servlets/UserViewLinkGet.java:44:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/UserViewLinkGet.java:44:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/UserViewLinkGet.java:49:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/shashi/servlets/UserViewLinkGet.java:50:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/servlets/UserViewTrainFwd.java:23:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/UserViewTrainFwd.java:23:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/UserViewTrainFwd.java:25:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'trainService'
+src/com/shashi/servlets/UserViewTrainFwd.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/servlets/UserViewTrainFwd.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/UserViewTrainFwd.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/UserViewTrainFwd.java:27:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/UserViewTrainFwd.java:29:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/UserViewTrainFwd.java:29:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/UserViewTrainFwd.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/UserViewTrainFwd.java:29:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/UserViewTrainFwd.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'trains' could be declared final
+src/com/shashi/servlets/UserViewTrainFwd.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/UserViewTrainFwd.java:34:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/UserViewTrainFwd.java:40:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'train' could be declared final
+src/com/shashi/servlets/UserViewTrainFwd.java:41:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'hr' could be declared final
+src/com/shashi/servlets/UserViewTrainFwd.java:41:	ShortVariable:	ShortVariable: Avoid variables with short names like hr
+src/com/shashi/servlets/UserViewTrainFwd.java:42:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'min' could be declared final
+src/com/shashi/servlets/UserViewTrainFwd.java:43:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'time' could be declared final
+src/com/shashi/servlets/UserViewTrainFwd.java:44:	AddEmptyString:	AddEmptyString: Do not add empty strings
+src/com/shashi/servlets/UserViewTrainFwd.java:44:	AddEmptyString:	AddEmptyString: Do not add empty strings
+src/com/shashi/servlets/UserViewTrainFwd.java:46:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "</td>" appears 5 times in this file; the first occurrence is on line 46
+src/com/shashi/servlets/UserViewTrainFwd.java:46:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "<td>" appears 6 times in this file; the first occurrence is on line 46
+src/com/shashi/servlets/UserViewTrainFwd.java:54:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/UserViewTrainFwd.java:54:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/UserViewTrainFwd.java:58:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/shashi/servlets/UserViewTrainFwd.java:59:	PreserveStackTrace:	PreserveStackTrace: Thrown exception does not preserve the stack trace of exception 'e' on all code paths
+src/com/shashi/servlets/ViewUserProfile.java:19:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/shashi/servlets/ViewUserProfile.java:19:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/servlets/ViewUserProfile.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/servlets/ViewUserProfile.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/com/shashi/servlets/ViewUserProfile.java:20:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/com/shashi/servlets/ViewUserProfile.java:22:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/com/shashi/servlets/ViewUserProfile.java:22:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/com/shashi/servlets/ViewUserProfile.java:22:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/com/shashi/servlets/ViewUserProfile.java:22:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/com/shashi/servlets/ViewUserProfile.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ub' could be declared final
+src/com/shashi/servlets/ViewUserProfile.java:26:	ShortVariable:	ShortVariable: Avoid variables with short names like ub
+src/com/shashi/servlets/ViewUserProfile.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/com/shashi/servlets/ViewUserProfile.java:27:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/com/shashi/servlets/ViewUserProfile.java:36:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "</td></tr>" appears 6 times in this file; the first occurrence is on line 36
+src/com/shashi/utility/DBUtil.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/utility/DBUtil.java:11:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/com/shashi/utility/DBUtil.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/com/shashi/utility/DBUtil.java:16:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rb' could be declared final
+src/com/shashi/utility/DBUtil.java:16:	ShortVariable:	ShortVariable: Avoid variables with short names like rb
+src/com/shashi/utility/DBUtil.java:21:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/utility/DBUtil.java:25:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/utility/DBUtil.java:26:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/utility/DBUtil.java:27:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/utility/DBUtil.java:30:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/com/shashi/utility/DBUtil.java:33:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/shashi/utility/DBUtil.java:37:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/utility/DBUtil.java:39:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/com/shashi/utility/TrainUtil.java:18:	CommentRequired:	CommentRequired: Class comments are required
+src/com/shashi/utility/TrainUtil.java:18:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/com/shashi/utility/TrainUtil.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/utility/TrainUtil.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'key' is not assigned and could be declared final
+src/com/shashi/utility/TrainUtil.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/utility/TrainUtil.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cookies' could be declared final
+src/com/shashi/utility/TrainUtil.java:23:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/com/shashi/utility/TrainUtil.java:28:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/utility/TrainUtil.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/utility/TrainUtil.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/utility/TrainUtil.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userRole' is not assigned and could be declared final
+src/com/shashi/utility/TrainUtil.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/com/shashi/utility/TrainUtil.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'username' is not assigned and could be declared final
+src/com/shashi/utility/TrainUtil.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userService' could be declared final
+src/com/shashi/utility/TrainUtil.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/com/shashi/utility/TrainUtil.java:36:	LawOfDemeter:	LawOfDemeter: Call to `getServletContext` on foreign value `request` (degree 1)
+src/com/shashi/utility/TrainUtil.java:39:	LawOfDemeter:	LawOfDemeter: Call to `getSession` on foreign value `request` (degree 1)
+src/com/shashi/utility/TrainUtil.java:40:	LawOfDemeter:	LawOfDemeter: Call to `getSession` on foreign value `request` (degree 1)
+src/com/shashi/utility/TrainUtil.java:43:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "sessionIdFor" appears 4 times in this file; the first occurrence is on line 43
+src/com/shashi/utility/TrainUtil.java:43:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cookie' could be declared final
+src/com/shashi/utility/TrainUtil.java:61:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/utility/TrainUtil.java:61:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/utility/TrainUtil.java:61:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userRole' is not assigned and could be declared final
+src/com/shashi/utility/TrainUtil.java:62:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sessionId' could be declared final
+src/com/shashi/utility/TrainUtil.java:66:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/utility/TrainUtil.java:66:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/com/shashi/utility/TrainUtil.java:66:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userRole' is not assigned and could be declared final
+src/com/shashi/utility/TrainUtil.java:72:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/utility/TrainUtil.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/com/shashi/utility/TrainUtil.java:75:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cookie' could be declared final
+src/com/shashi/utility/TrainUtil.java:78:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cookie2' could be declared final
+src/com/shashi/utility/TrainUtil.java:87:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/utility/TrainUtil.java:87:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/utility/TrainUtil.java:88:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `req.getSession()` (degree 2)
+src/com/shashi/utility/TrainUtil.java:88:	LawOfDemeter:	LawOfDemeter: Call to `getSession` on foreign value `req` (degree 1)
+src/com/shashi/utility/TrainUtil.java:91:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/utility/TrainUtil.java:91:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/utility/TrainUtil.java:92:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `req.getSession()` (degree 2)
+src/com/shashi/utility/TrainUtil.java:92:	LawOfDemeter:	LawOfDemeter: Call to `getSession` on foreign value `req` (degree 1)
+src/com/shashi/utility/TrainUtil.java:95:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/com/shashi/utility/TrainUtil.java:95:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/com/shashi/utility/TrainUtil.java:96:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `req.getServletContext()` (degree 2)
+src/com/shashi/utility/TrainUtil.java:96:	LawOfDemeter:	LawOfDemeter: Call to `getServletContext` on foreign value `req` (degree 1)

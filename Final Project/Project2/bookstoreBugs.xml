@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.0.1-dev-20150306-5afe4d1" sequence="1" timestamp="1691440243766" analysisTimestamp="1691440242889" release="">
+  <Project projectName="onlinebookstore">
+    <Jar>C:\Users\Saksham Kumar\Downloads\onlinebookstore-master\target\test-classes</Jar>
+    <Jar>C:\Users\Saksham Kumar\Downloads\onlinebookstore-master\target\classes</Jar>
+    <AuxClasspathEntry>C:\Users\Saksham Kumar\Downloads\onlinebookstore-master\target\classes</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Saksham Kumar\Downloads\onlinebookstore-master\target\test-classes</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Saksham Kumar\.m2\repository\org\postgresql\postgresql\42.3.7\postgresql-42.3.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Saksham Kumar\.m2\repository\org\checkerframework\checker-qual\3.5.0\checker-qual-3.5.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Saksham Kumar\.m2\repository\mysql\mysql-connector-java\8.0.28\mysql-connector-java-8.0.28.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Saksham Kumar\.m2\repository\com\google\protobuf\protobuf-java\3.11.4\protobuf-java-3.11.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Saksham Kumar\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar</AuxClasspathEntry>
+    <SrcDir>\onlinebookstore\src\test\java</SrcDir>
+    <SrcDir>C:\Users\Saksham Kumar\Downloads\onlinebookstore-master\src\main\resources</SrcDir>
+    <SrcDir>C:\Users\Saksham Kumar\Downloads\onlinebookstore-master\src\main\java</SrcDir>
+    <Cloud id="edu.umd.cs.findbugs.cloud.doNothingCloud" online="false"></Cloud>
+  </Project>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.bittercode.service.impl.BookServiceImpl">
+      <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+    </Class>
+    <Method classname="com.bittercode.service.impl.BookServiceImpl" name="addBook" signature="(Lcom/bittercode/model/Book;)Ljava/lang/String;" isStatic="false">
+      <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" start="109" end="126" startBytecode="0" endBytecode="60" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/PreparedStatement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.PreparedStatement"/>
+    </Type>
+    <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" start="112" end="112" startBytecode="14" endBytecode="14" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+    <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" start="112" end="112" startBytecode="14" endBytecode="14" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.bittercode.service.impl.BookServiceImpl">
+      <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+    </Class>
+    <Method classname="com.bittercode.service.impl.BookServiceImpl" name="deleteBookById" signature="(Ljava/lang/String;)Ljava/lang/String;" isStatic="false">
+      <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" start="91" end="104" startBytecode="0" endBytecode="39" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/PreparedStatement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.PreparedStatement"/>
+    </Type>
+    <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" start="94" end="94" startBytecode="14" endBytecode="14" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+    <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" start="94" end="94" startBytecode="14" endBytecode="14" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.bittercode.service.impl.BookServiceImpl">
+      <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+    </Class>
+    <Method classname="com.bittercode.service.impl.BookServiceImpl" name="getAllBooks" signature="()Ljava/util/List;" isStatic="false">
+      <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" start="66" end="86" startBytecode="0" endBytecode="54" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/PreparedStatement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.PreparedStatement"/>
+    </Type>
+    <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" start="70" end="70" startBytecode="15" endBytecode="15" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+    <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" start="70" end="70" startBytecode="15" endBytecode="15" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.bittercode.service.impl.BookServiceImpl">
+      <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+    </Class>
+    <Method classname="com.bittercode.service.impl.BookServiceImpl" name="getBookById" signature="(Ljava/lang/String;)Lcom/bittercode/model/Book;" isStatic="false">
+      <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" start="42" end="61" startBytecode="0" endBytecode="52" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/PreparedStatement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.PreparedStatement"/>
+    </Type>
+    <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" start="45" end="45" startBytecode="9" endBytecode="9" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+    <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" start="45" end="45" startBytecode="9" endBytecode="9" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.bittercode.service.impl.BookServiceImpl">
+      <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+    </Class>
+    <Method classname="com.bittercode.service.impl.BookServiceImpl" name="getBooksByCommaSeperatedBookIds" signature="(Ljava/lang/String;)Ljava/util/List;" isStatic="false">
+      <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" start="148" end="170" startBytecode="0" endBytecode="64" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/PreparedStatement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.PreparedStatement"/>
+    </Type>
+    <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" start="154" end="154" startBytecode="38" endBytecode="38" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+    <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" start="154" end="154" startBytecode="38" endBytecode="38" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.bittercode.service.impl.BookServiceImpl">
+      <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+    </Class>
+    <Method classname="com.bittercode.service.impl.BookServiceImpl" name="updateBook" signature="(Lcom/bittercode/model/Book;)Ljava/lang/String;" isStatic="false">
+      <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" start="175" end="190" startBytecode="0" endBytecode="57" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/PreparedStatement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.PreparedStatement"/>
+    </Type>
+    <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" start="178" end="178" startBytecode="14" endBytecode="14" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+    <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" start="178" end="178" startBytecode="14" endBytecode="14" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.bittercode.service.impl.BookServiceImpl">
+      <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+    </Class>
+    <Method classname="com.bittercode.service.impl.BookServiceImpl" name="updateBookQtyById" signature="(Ljava/lang/String;I)Ljava/lang/String;" isStatic="false">
+      <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" start="131" end="143" startBytecode="0" endBytecode="40" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/PreparedStatement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.PreparedStatement"/>
+    </Type>
+    <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" start="134" end="134" startBytecode="16" endBytecode="16" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+    <SourceLine classname="com.bittercode.service.impl.BookServiceImpl" start="134" end="134" startBytecode="16" endBytecode="16" sourcefile="BookServiceImpl.java" sourcepath="com/bittercode/service/impl/BookServiceImpl.java"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.bittercode.service.impl.UserServiceImpl">
+      <SourceLine classname="com.bittercode.service.impl.UserServiceImpl" sourcefile="UserServiceImpl.java" sourcepath="com/bittercode/service/impl/UserServiceImpl.java"/>
+    </Class>
+    <Method classname="com.bittercode.service.impl.UserServiceImpl" name="login" signature="(Lcom/bittercode/model/UserRole;Ljava/lang/String;Ljava/lang/String;Ljavax/servlet/http/HttpSession;)Lcom/bittercode/model/User;" isStatic="false">
+      <SourceLine classname="com.bittercode.service.impl.UserServiceImpl" start="29" end="51" startBytecode="0" endBytecode="71" sourcefile="UserServiceImpl.java" sourcepath="com/bittercode/service/impl/UserServiceImpl.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/PreparedStatement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.PreparedStatement"/>
+    </Type>
+    <SourceLine classname="com.bittercode.service.impl.UserServiceImpl" start="34" end="34" startBytecode="31" endBytecode="31" sourcefile="UserServiceImpl.java" sourcepath="com/bittercode/service/impl/UserServiceImpl.java"/>
+    <SourceLine classname="com.bittercode.service.impl.UserServiceImpl" start="34" end="34" startBytecode="31" endBytecode="31" sourcefile="UserServiceImpl.java" sourcepath="com/bittercode/service/impl/UserServiceImpl.java"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.bittercode.service.impl.UserServiceImpl">
+      <SourceLine classname="com.bittercode.service.impl.UserServiceImpl" sourcefile="UserServiceImpl.java" sourcepath="com/bittercode/service/impl/UserServiceImpl.java"/>
+    </Class>
+    <Method classname="com.bittercode.service.impl.UserServiceImpl" name="register" signature="(Lcom/bittercode/model/UserRole;Lcom/bittercode/model/User;)Ljava/lang/String;" isStatic="false">
+      <SourceLine classname="com.bittercode.service.impl.UserServiceImpl" start="71" end="95" startBytecode="0" endBytecode="89" sourcefile="UserServiceImpl.java" sourcepath="com/bittercode/service/impl/UserServiceImpl.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/PreparedStatement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.PreparedStatement"/>
+    </Type>
+    <SourceLine classname="com.bittercode.service.impl.UserServiceImpl" start="74" end="74" startBytecode="16" endBytecode="16" sourcefile="UserServiceImpl.java" sourcepath="com/bittercode/service/impl/UserServiceImpl.java"/>
+    <SourceLine classname="com.bittercode.service.impl.UserServiceImpl" start="74" end="74" startBytecode="16" endBytecode="16" sourcefile="UserServiceImpl.java" sourcepath="com/bittercode/service/impl/UserServiceImpl.java"/>
+  </BugInstance>
+  <BugInstance type="RCN_REDUNDANT_NULLCHECK_OF_NONNULL_VALUE" priority="2" rank="18" abbrev="RCN" category="STYLE" first="1">
+    <Class classname="servlets.ErrorHandlerServlet">
+      <SourceLine classname="servlets.ErrorHandlerServlet" sourcefile="ErrorHandlerServlet.java" sourcepath="servlets/ErrorHandlerServlet.java"/>
+    </Class>
+    <Method classname="servlets.ErrorHandlerServlet" name="service" signature="(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V" isStatic="false">
+      <SourceLine classname="servlets.ErrorHandlerServlet" start="21" end="80" startBytecode="0" endBytecode="890" sourcefile="ErrorHandlerServlet.java" sourcepath="servlets/ErrorHandlerServlet.java"/>
+    </Method>
+    <LocalVariable name="throwable" register="4" pc="158" role="LOCAL_VARIABLE_VALUE_OF"/>
+    <Method classname="javax.servlet.http.HttpServletRequest" name="getAttribute" signature="(Ljava/lang/String;)Ljava/lang/Object;" isStatic="false" role="METHOD_RETURN_VALUE_OF">
+      <SourceLine classname="javax.servlet.http.HttpServletRequest" sourcefile="HttpServletRequest.java" sourcepath="javax/servlet/http/HttpServletRequest.java"/>
+    </Method>
+    <SourceLine classname="servlets.ErrorHandlerServlet" start="42" end="42" startBytecode="160" endBytecode="160" sourcefile="ErrorHandlerServlet.java" sourcepath="servlets/ErrorHandlerServlet.java" role="SOURCE_REDUNDANT_NULL_CHECK"/>
+    <SourceLine classname="servlets.ErrorHandlerServlet" start="42" end="42" startBytecode="160" endBytecode="160" sourcefile="ErrorHandlerServlet.java" sourcepath="servlets/ErrorHandlerServlet.java" role="SOURCE_REDUNDANT_NULL_CHECK"/>
+  </BugInstance>
+  <BugInstance type="NP_NULL_ON_SOME_PATH" priority="2" rank="8" abbrev="NP" category="CORRECTNESS" first="1">
+    <Class classname="servlets.ProcessPaymentServlet">
+      <SourceLine classname="servlets.ProcessPaymentServlet" sourcefile="ProcessPaymentServlet.java" sourcepath="servlets/ProcessPaymentServlet.java"/>
+    </Class>
+    <Method classname="servlets.ProcessPaymentServlet" name="service" signature="(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V" isStatic="false">
+      <SourceLine classname="servlets.ProcessPaymentServlet" start="28" end="70" startBytecode="0" endBytecode="784" sourcefile="ProcessPaymentServlet.java" sourcepath="servlets/ProcessPaymentServlet.java"/>
+    </Method>
+    <LocalVariable name="cartItems" register="6" pc="108" role="LOCAL_VARIABLE_VALUE_OF"/>
+    <SourceLine classname="servlets.ProcessPaymentServlet" start="48" end="48" startBytecode="132" endBytecode="132" sourcefile="ProcessPaymentServlet.java" sourcepath="servlets/ProcessPaymentServlet.java" role="SOURCE_LINE_DEREF"/>
+    <SourceLine classname="servlets.ProcessPaymentServlet" start="45" end="45" startBytecode="101" endBytecode="101" sourcefile="ProcessPaymentServlet.java" sourcepath="servlets/ProcessPaymentServlet.java" role="SOURCE_LINE_NULL_VALUE"/>
+    <SourceLine classname="servlets.ProcessPaymentServlet" start="46" end="46" startBytecode="113" endBytecode="113" sourcefile="ProcessPaymentServlet.java" sourcepath="servlets/ProcessPaymentServlet.java" role="SOURCE_LINE_KNOWN_NULL"/>
+  </BugInstance>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Tue, 1 Aug 2023 23:22:09 -0400" total_classes="34" referenced_classes="48" total_bugs="11" total_size="1208" num_packages="7" java_version="15.0.1" vm_version="15.0.1+9-18" cpu_seconds="6.31" clock_seconds="14.09" peak_mbytes="534.19" alloc_mbytes="2048.00" gc_seconds="0.03" priority_2="11">
+    <PackageStats package="com.bittercode.constant" total_bugs="0" total_types="2" total_size="42">
+      <ClassStats class="com.bittercode.constant.BookStoreConstants" sourceFile="BookStoreConstants.java" interface="true" size="2" bugs="0"/>
+      <ClassStats class="com.bittercode.constant.ResponseCode" sourceFile="ResponseCode.java" interface="false" size="40" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.bittercode.constant.db" total_bugs="0" total_types="2" total_size="17">
+      <ClassStats class="com.bittercode.constant.db.BooksDBConstants" sourceFile="BooksDBConstants.java" interface="true" size="7" bugs="0"/>
+      <ClassStats class="com.bittercode.constant.db.UsersDBConstants" sourceFile="UsersDBConstants.java" interface="true" size="10" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.bittercode.model" total_bugs="0" total_types="7" total_size="205">
+      <ClassStats class="com.bittercode.model.Address" sourceFile="Address.java" interface="false" size="45" bugs="0"/>
+      <ClassStats class="com.bittercode.model.Book" sourceFile="Book.java" interface="false" size="42" bugs="0"/>
+      <ClassStats class="com.bittercode.model.Cart" sourceFile="Cart.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="com.bittercode.model.StoreException" sourceFile="StoreException.java" interface="false" size="43" bugs="0"/>
+      <ClassStats class="com.bittercode.model.User" sourceFile="User.java" interface="false" size="45" bugs="0"/>
+      <ClassStats class="com.bittercode.model.UserRole" sourceFile="UserRole.java" interface="false" size="11" bugs="0"/>
+      <ClassStats class="com.bittercode.model.package-info" sourceFile="package-info.java" interface="true" size="1" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.bittercode.service" total_bugs="0" total_types="2" total_size="13">
+      <ClassStats class="com.bittercode.service.BookService" sourceFile="BookService.java" interface="true" size="8" bugs="0"/>
+      <ClassStats class="com.bittercode.service.UserService" sourceFile="UserService.java" interface="true" size="5" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.bittercode.service.impl" total_bugs="9" total_types="2" total_size="167" priority_2="9">
+      <ClassStats class="com.bittercode.service.impl.BookServiceImpl" sourceFile="BookServiceImpl.java" interface="false" size="111" bugs="7" priority_2="7"/>
+      <ClassStats class="com.bittercode.service.impl.UserServiceImpl" sourceFile="UserServiceImpl.java" interface="false" size="56" bugs="2" priority_2="2"/>
+    </PackageStats>
+    <PackageStats package="com.bittercode.util" total_bugs="0" total_types="3" total_size="80">
+      <ClassStats class="com.bittercode.util.DBUtil" sourceFile="DBUtil.java" interface="false" size="15" bugs="0"/>
+      <ClassStats class="com.bittercode.util.DatabaseConfig" sourceFile="DatabaseConfig.java" interface="false" size="25" bugs="0"/>
+      <ClassStats class="com.bittercode.util.StoreUtil" sourceFile="StoreUtil.java" interface="false" size="40" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="servlets" total_bugs="2" total_types="16" total_size="684" priority_2="2">
+      <ClassStats class="servlets.AboutServlet" sourceFile="AboutServlet.java" interface="false" size="21" bugs="0"/>
+      <ClassStats class="servlets.AddBookServlet" sourceFile="AddBookServlet.java" interface="false" size="41" bugs="0"/>
+      <ClassStats class="servlets.BuyBooksServlet" sourceFile="BuyBooksServlet.java" interface="false" size="43" bugs="0"/>
+      <ClassStats class="servlets.CartServlet" sourceFile="CartServlet.java" interface="false" size="62" bugs="0"/>
+      <ClassStats class="servlets.CheckoutServlet" sourceFile="CheckoutServlet.java" interface="false" size="22" bugs="0"/>
+      <ClassStats class="servlets.CustomerLoginServlet" sourceFile="CustomerLoginServlet.java" interface="false" size="25" bugs="0"/>
+      <ClassStats class="servlets.CustomerRegisterServlet" sourceFile="CustomerRegisterServlet.java" interface="false" size="35" bugs="0"/>
+      <ClassStats class="servlets.ErrorHandlerServlet" sourceFile="ErrorHandlerServlet.java" interface="false" size="59" bugs="1" priority_2="1"/>
+      <ClassStats class="servlets.LogoutServlet" sourceFile="LogoutServlet.java" interface="false" size="16" bugs="0"/>
+      <ClassStats class="servlets.ProcessPaymentServlet" sourceFile="ProcessPaymentServlet.java" interface="false" size="69" bugs="1" priority_2="1"/>
+      <ClassStats class="servlets.ReceiptServlet" sourceFile="ReceiptServlet.java" interface="false" size="54" bugs="0"/>
+      <ClassStats class="servlets.RemoveBookServlet" sourceFile="RemoveBookServlet.java" interface="false" size="39" bugs="0"/>
+      <ClassStats class="servlets.SellerLoginServlet" sourceFile="SellerLoginServlet.java" interface="false" size="25" bugs="0"/>
+      <ClassStats class="servlets.StoreBookServlet" sourceFile="StoreBookServlet.java" interface="false" size="42" bugs="0"/>
+      <ClassStats class="servlets.UpdateBookServlet" sourceFile="UpdateBookServlet.java" interface="false" size="57" bugs="0"/>
+      <ClassStats class="servlets.ViewBookServlet" sourceFile="ViewBookServlet.java" interface="false" size="74" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="de.tobject.findbugs.builder.FindBugs2Eclipse" totalMilliseconds="70" invocations="2" avgMicrosecondsPerInvocation="35080" maxMicrosecondsPerInvocation="57524" standardDeviationMircosecondsPerInvocation="22444"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="69" invocations="131" avgMicrosecondsPerInvocation="530" maxMicrosecondsPerInvocation="11845" standardDeviationMircosecondsPerInvocation="1484"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="67" invocations="131" avgMicrosecondsPerInvocation="516" maxMicrosecondsPerInvocation="16242" standardDeviationMircosecondsPerInvocation="1599"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="62" invocations="81" avgMicrosecondsPerInvocation="766" maxMicrosecondsPerInvocation="11045" standardDeviationMircosecondsPerInvocation="1744"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindOpenStream" totalMilliseconds="60" invocations="34" avgMicrosecondsPerInvocation="1789" maxMicrosecondsPerInvocation="9852" standardDeviationMircosecondsPerInvocation="2358"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="52" invocations="131" avgMicrosecondsPerInvocation="402" maxMicrosecondsPerInvocation="4181" standardDeviationMircosecondsPerInvocation="788"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="43" invocations="131" avgMicrosecondsPerInvocation="334" maxMicrosecondsPerInvocation="17341" standardDeviationMircosecondsPerInvocation="1540"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="36" invocations="131" avgMicrosecondsPerInvocation="281" maxMicrosecondsPerInvocation="4916" standardDeviationMircosecondsPerInvocation="614"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="28" invocations="131" avgMicrosecondsPerInvocation="218" maxMicrosecondsPerInvocation="3298" standardDeviationMircosecondsPerInvocation="425"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="20" invocations="250" avgMicrosecondsPerInvocation="82" maxMicrosecondsPerInvocation="533" standardDeviationMircosecondsPerInvocation="50"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="11" invocations="131" avgMicrosecondsPerInvocation="89" maxMicrosecondsPerInvocation="1584" standardDeviationMircosecondsPerInvocation="199"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.LoadOfKnownNullValue" totalMilliseconds="11" invocations="34" avgMicrosecondsPerInvocation="325" maxMicrosecondsPerInvocation="1508" standardDeviationMircosecondsPerInvocation="317"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History>
+    <AppVersion sequence="0" timestamp="1691440243765" release="" codeSize="0" numClasses="0"/>
+  </History>
+</BugCollection>

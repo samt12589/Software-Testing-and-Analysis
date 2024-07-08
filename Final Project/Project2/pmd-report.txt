@@ -1,0 +1,870 @@
+src/main/java/com/bittercode/constant/BookStoreConstants.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/bittercode/constant/BookStoreConstants.java:4:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/constant/BookStoreConstants.java:4:	ConstantsInInterface:	ConstantsInInterface: Using constants in interfaces is a bad practice.
+src/main/java/com/bittercode/constant/BookStoreConstants.java:4:	LongVariable:	LongVariable: Avoid excessively long variable names like CONTENT_TYPE_TEXT_HTML
+src/main/java/com/bittercode/constant/BookStoreConstants.java:4:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifiers 'public static' on field 'CONTENT_TYPE_TEXT_HTML': the field is declared in an interface type
+src/main/java/com/bittercode/constant/ResponseCode.java:6:	CommentRequired:	CommentRequired: Enum comments are required
+src/main/java/com/bittercode/constant/ResponseCode.java:13:	LongVariable:	LongVariable: Avoid excessively long variable names like INTERNAL_SERVER_ERROR
+src/main/java/com/bittercode/constant/ResponseCode.java:14:	LongVariable:	LongVariable: Avoid excessively long variable names like DATABASE_CONNECTION_FAILURE
+src/main/java/com/bittercode/constant/ResponseCode.java:16:	LongVariable:	LongVariable: Avoid excessively long variable names like METHOD_NOT_ALLOWED
+src/main/java/com/bittercode/constant/ResponseCode.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/constant/ResponseCode.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/constant/ResponseCode.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'code' is not assigned and could be declared final
+src/main/java/com/bittercode/constant/ResponseCode.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/bittercode/constant/ResponseCode.java:37:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bittercode/constant/ResponseCode.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'statusCode' is not assigned and could be declared final
+src/main/java/com/bittercode/constant/ResponseCode.java:38:	UnnecessaryFullyQualifiedName:	UnnecessaryFullyQualifiedName: Unnecessary qualifier 'ResponseCode': 'values' is already in scope
+src/main/java/com/bittercode/constant/db/BooksDBConstants.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/bittercode/constant/db/BooksDBConstants.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/constant/db/BooksDBConstants.java:5:	ConstantsInInterface:	ConstantsInInterface: Using constants in interfaces is a bad practice.
+src/main/java/com/bittercode/constant/db/BooksDBConstants.java:5:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifiers 'public static' on field 'TABLE_BOOK': the field is declared in an interface type
+src/main/java/com/bittercode/constant/db/BooksDBConstants.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/constant/db/BooksDBConstants.java:7:	ConstantsInInterface:	ConstantsInInterface: Using constants in interfaces is a bad practice.
+src/main/java/com/bittercode/constant/db/BooksDBConstants.java:7:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifiers 'public static' on field 'COLUMN_NAME': the field is declared in an interface type
+src/main/java/com/bittercode/constant/db/BooksDBConstants.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/constant/db/BooksDBConstants.java:8:	ConstantsInInterface:	ConstantsInInterface: Using constants in interfaces is a bad practice.
+src/main/java/com/bittercode/constant/db/BooksDBConstants.java:8:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifiers 'public static' on field 'COLUMN_BARCODE': the field is declared in an interface type
+src/main/java/com/bittercode/constant/db/BooksDBConstants.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/constant/db/BooksDBConstants.java:9:	ConstantsInInterface:	ConstantsInInterface: Using constants in interfaces is a bad practice.
+src/main/java/com/bittercode/constant/db/BooksDBConstants.java:9:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifiers 'public static' on field 'COLUMN_AUTHOR': the field is declared in an interface type
+src/main/java/com/bittercode/constant/db/BooksDBConstants.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/constant/db/BooksDBConstants.java:10:	ConstantsInInterface:	ConstantsInInterface: Using constants in interfaces is a bad practice.
+src/main/java/com/bittercode/constant/db/BooksDBConstants.java:10:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifiers 'public static' on field 'COLUMN_PRICE': the field is declared in an interface type
+src/main/java/com/bittercode/constant/db/BooksDBConstants.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/constant/db/BooksDBConstants.java:11:	ConstantsInInterface:	ConstantsInInterface: Using constants in interfaces is a bad practice.
+src/main/java/com/bittercode/constant/db/BooksDBConstants.java:11:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifiers 'public static' on field 'COLUMN_QUANTITY': the field is declared in an interface type
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:5:	ConstantsInInterface:	ConstantsInInterface: Using constants in interfaces is a bad practice.
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:5:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifiers 'public static' on field 'TABLE_USERS': the field is declared in an interface type
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:7:	ConstantsInInterface:	ConstantsInInterface: Using constants in interfaces is a bad practice.
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:7:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifiers 'public static' on field 'COLUMN_USERNAME': the field is declared in an interface type
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:8:	ConstantsInInterface:	ConstantsInInterface: Using constants in interfaces is a bad practice.
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:8:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifiers 'public static' on field 'COLUMN_PASSWORD': the field is declared in an interface type
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:9:	ConstantsInInterface:	ConstantsInInterface: Using constants in interfaces is a bad practice.
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:9:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifiers 'public static' on field 'COLUMN_FIRSTNAME': the field is declared in an interface type
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:10:	ConstantsInInterface:	ConstantsInInterface: Using constants in interfaces is a bad practice.
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:10:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifiers 'public static' on field 'COLUMN_LASTNAME': the field is declared in an interface type
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:11:	ConstantsInInterface:	ConstantsInInterface: Using constants in interfaces is a bad practice.
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:11:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifiers 'public static' on field 'COLUMN_ADDRESS': the field is declared in an interface type
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:12:	ConstantsInInterface:	ConstantsInInterface: Using constants in interfaces is a bad practice.
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:12:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifiers 'public static' on field 'COLUMN_PHONE': the field is declared in an interface type
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:13:	ConstantsInInterface:	ConstantsInInterface: Using constants in interfaces is a bad practice.
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifiers 'public static' on field 'COLUMN_MAILID': the field is declared in an interface type
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:14:	ConstantsInInterface:	ConstantsInInterface: Using constants in interfaces is a bad practice.
+src/main/java/com/bittercode/constant/db/UsersDBConstants.java:14:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifiers 'public static' on field 'COLUMN_USERTYPE': the field is declared in an interface type
+src/main/java/com/bittercode/model/Address.java:5:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/bittercode/model/Address.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/bittercode/model/Address.java:5:	DataClass:	DataClass: The class 'Address' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=14, WMC=14)
+src/main/java/com/bittercode/model/Address.java:5:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/com/bittercode/model/Address.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/Address.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/Address.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/Address.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/Address.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/Address.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/Address.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/Address.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'addressLine1' is not assigned and could be declared final
+src/main/java/com/bittercode/model/Address.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'addressLine2' is not assigned and could be declared final
+src/main/java/com/bittercode/model/Address.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'city' is not assigned and could be declared final
+src/main/java/com/bittercode/model/Address.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'state' is not assigned and could be declared final
+src/main/java/com/bittercode/model/Address.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'country' is not assigned and could be declared final
+src/main/java/com/bittercode/model/Address.java:59:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'pinCode' is not assigned and could be declared final
+src/main/java/com/bittercode/model/Address.java:67:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'phone' is not assigned and could be declared final
+src/main/java/com/bittercode/model/Book.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/bittercode/model/Book.java:5:	DataClass:	DataClass: The class 'Book' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=10, WMC=12)
+src/main/java/com/bittercode/model/Book.java:5:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/com/bittercode/model/Book.java:5:	ShortClassName:	ShortClassName: Avoid short class names like Book
+src/main/java/com/bittercode/model/Book.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/Book.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/Book.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/Book.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/Book.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/Book.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bittercode/model/Book.java:13:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'author' is not assigned and could be declared final
+src/main/java/com/bittercode/model/Book.java:13:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'barcode' is not assigned and could be declared final
+src/main/java/com/bittercode/model/Book.java:13:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/main/java/com/bittercode/model/Book.java:13:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/main/java/com/bittercode/model/Book.java:13:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/main/java/com/bittercode/model/Book.java:17:	ConstructorCallsOverridableMethod:	ConstructorCallsOverridableMethod: Overridable method called during object construction: Book.setPrice(double) 
+src/main/java/com/bittercode/model/Book.java:21:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bittercode/model/Book.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'barcode' is not assigned and could be declared final
+src/main/java/com/bittercode/model/Book.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/main/java/com/bittercode/model/Book.java:45:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'author' is not assigned and could be declared final
+src/main/java/com/bittercode/model/Book.java:53:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/main/java/com/bittercode/model/Book.java:61:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/main/java/com/bittercode/model/Cart.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/bittercode/model/Cart.java:5:	DataClass:	DataClass: The class 'Cart' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=5)
+src/main/java/com/bittercode/model/Cart.java:5:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/com/bittercode/model/Cart.java:5:	ShortClassName:	ShortClassName: Avoid short class names like Cart
+src/main/java/com/bittercode/model/Cart.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/Cart.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/Cart.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bittercode/model/Cart.java:10:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'book' is not assigned and could be declared final
+src/main/java/com/bittercode/model/Cart.java:10:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/main/java/com/bittercode/model/Cart.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'book' is not assigned and could be declared final
+src/main/java/com/bittercode/model/Cart.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/main/java/com/bittercode/model/StoreException.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/bittercode/model/StoreException.java:7:	DataClass:	DataClass: The class 'StoreException' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=10)
+src/main/java/com/bittercode/model/StoreException.java:7:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/com/bittercode/model/StoreException.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/StoreException.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/StoreException.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/StoreException.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bittercode/model/StoreException.java:13:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'errorMessage' is not assigned and could be declared final
+src/main/java/com/bittercode/model/StoreException.java:16:	ConstructorCallsOverridableMethod:	ConstructorCallsOverridableMethod: Overridable method called during object construction: StoreException.setStatusCode(int) 
+src/main/java/com/bittercode/model/StoreException.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bittercode/model/StoreException.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'errorCodes' is not assigned and could be declared final
+src/main/java/com/bittercode/model/StoreException.java:24:	ConstructorCallsOverridableMethod:	ConstructorCallsOverridableMethod: Overridable method called during object construction: StoreException.setErrorCode(String) 
+src/main/java/com/bittercode/model/StoreException.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bittercode/model/StoreException.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'errorMessage' is not assigned and could be declared final
+src/main/java/com/bittercode/model/StoreException.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'errroCode' is not assigned and could be declared final
+src/main/java/com/bittercode/model/StoreException.java:34:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bittercode/model/StoreException.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'errorCode' is not assigned and could be declared final
+src/main/java/com/bittercode/model/StoreException.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'errorMessage' is not assigned and could be declared final
+src/main/java/com/bittercode/model/StoreException.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'statusCode' is not assigned and could be declared final
+src/main/java/com/bittercode/model/StoreException.java:45:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'errorCode' is not assigned and could be declared final
+src/main/java/com/bittercode/model/StoreException.java:53:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'errorMessage' is not assigned and could be declared final
+src/main/java/com/bittercode/model/StoreException.java:61:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'statusCode' is not assigned and could be declared final
+src/main/java/com/bittercode/model/User.java:6:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/bittercode/model/User.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/bittercode/model/User.java:6:	DataClass:	DataClass: The class 'User' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=14, WMC=14)
+src/main/java/com/bittercode/model/User.java:6:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/com/bittercode/model/User.java:6:	ShortClassName:	ShortClassName: Avoid short class names like User
+src/main/java/com/bittercode/model/User.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/User.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/User.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/User.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/User.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/User.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/User.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/model/User.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'emailId' is not assigned and could be declared final
+src/main/java/com/bittercode/model/User.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/bittercode/model/User.java:36:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'firstName' is not assigned and could be declared final
+src/main/java/com/bittercode/model/User.java:44:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'lastName' is not assigned and could be declared final
+src/main/java/com/bittercode/model/User.java:52:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'phone' is not assigned and could be declared final
+src/main/java/com/bittercode/model/User.java:60:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'address' is not assigned and could be declared final
+src/main/java/com/bittercode/model/User.java:68:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'roles' is not assigned and could be declared final
+src/main/java/com/bittercode/model/UserRole.java:3:	CommentRequired:	CommentRequired: Enum comments are required
+src/main/java/com/bittercode/service/BookService.java:8:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/bittercode/service/BookService.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bittercode/service/BookService.java:10:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getBookById': the method is declared in an interface type
+src/main/java/com/bittercode/service/BookService.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bittercode/service/BookService.java:12:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllBooks': the method is declared in an interface type
+src/main/java/com/bittercode/service/BookService.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bittercode/service/BookService.java:14:	LongVariable:	LongVariable: Avoid excessively long variable names like commaSeperatedBookIds
+src/main/java/com/bittercode/service/BookService.java:14:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getBooksByCommaSeperatedBookIds': the method is declared in an interface type
+src/main/java/com/bittercode/service/BookService.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bittercode/service/BookService.java:16:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deleteBookById': the method is declared in an interface type
+src/main/java/com/bittercode/service/BookService.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bittercode/service/BookService.java:18:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addBook': the method is declared in an interface type
+src/main/java/com/bittercode/service/BookService.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bittercode/service/BookService.java:20:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateBookQtyById': the method is declared in an interface type
+src/main/java/com/bittercode/service/BookService.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bittercode/service/BookService.java:22:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateBook': the method is declared in an interface type
+src/main/java/com/bittercode/service/UserService.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/bittercode/service/UserService.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bittercode/service/UserService.java:11:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'login': the method is declared in an interface type
+src/main/java/com/bittercode/service/UserService.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bittercode/service/UserService.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'register': the method is declared in an interface type
+src/main/java/com/bittercode/service/UserService.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bittercode/service/UserService.java:15:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'isLoggedIn': the method is declared in an interface type
+src/main/java/com/bittercode/service/UserService.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bittercode/service/UserService.java:17:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'logout': the method is declared in an interface type
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:17:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:19:	FieldNamingConventions:	FieldNamingConventions: The constant name 'getAllBooksQuery' doesn't match '[A-Z][A-Z_0-9]*'
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:20:	FieldNamingConventions:	FieldNamingConventions: The constant name 'getBookByIdQuery' doesn't match '[A-Z][A-Z_0-9]*'
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:23:	FieldNamingConventions:	FieldNamingConventions: The constant name 'deleteBookByIdQuery' doesn't match '[A-Z][A-Z_0-9]*'
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:23:	LongVariable:	LongVariable: Avoid excessively long variable names like deleteBookByIdQuery
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:26:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:26:	FieldNamingConventions:	FieldNamingConventions: The constant name 'addBookQuery' doesn't match '[A-Z][A-Z_0-9]*'
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:28:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:28:	FieldNamingConventions:	FieldNamingConventions: The constant name 'updateBookQtyByIdQuery' doesn't match '[A-Z][A-Z_0-9]*'
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:28:	LongVariable:	LongVariable: Avoid excessively long variable names like updateBookQtyByIdQuery
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:32:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:32:	FieldNamingConventions:	FieldNamingConventions: The constant name 'updateBookByIdQuery' doesn't match '[A-Z][A-Z_0-9]*'
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:32:	LongVariable:	LongVariable: Avoid excessively long variable names like updateBookByIdQuery
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:41:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'bookId' is not assigned and could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:43:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:43:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:45:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:45:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:45:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:47:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:47:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rs' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:47:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:50:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bCode' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bName' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:52:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bAuthor' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bPrice' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:54:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bQty' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:56:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:58:	EmptyCatchBlock:	EmptyCatchBlock: Avoid empty catch blocks
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:66:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'books' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:66:	UseDiamondOperator:	UseDiamondOperator: Explicit type arguments can be replaced by a diamond: `new ArrayList<>()`
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:67:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:67:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:70:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:70:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:70:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:71:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:71:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rs' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:71:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:74:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bCode' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:75:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bName' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:76:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bAuthor' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:77:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bPrice' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:78:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bQty' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:80:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:80:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'book' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:83:	EmptyCatchBlock:	EmptyCatchBlock: Avoid empty catch blocks
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:90:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'bookId' is not assigned and could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:92:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:92:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:94:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:94:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:94:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:96:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'k' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:96:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:97:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:100:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:101:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal " : " appears 4 times in this file; the first occurrence is on line 101
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:102:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:108:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'book' is not assigned and could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:110:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:110:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:112:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:112:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:112:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:118:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'k' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:118:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:119:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:122:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:124:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:130:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'bookId' is not assigned and could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:130:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:132:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:132:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:134:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:134:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:134:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:139:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:141:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:147:	LongVariable:	LongVariable: Avoid excessively long variable names like commaSeperatedBookIds
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:147:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'commaSeperatedBookIds' is not assigned and could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:148:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'books' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:148:	UseDiamondOperator:	UseDiamondOperator: Explicit type arguments can be replaced by a diamond: `new ArrayList<>()`
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:149:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:149:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:151:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'getBooksByCommaSeperatedBookIdsQuery' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:151:	LongVariable:	LongVariable: Avoid excessively long variable names like getBooksByCommaSeperatedBookIdsQuery
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:154:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:154:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:154:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:155:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:155:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rs' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:155:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:158:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bCode' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:159:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bName' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:160:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bAuthor' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:161:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bPrice' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:162:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bQty' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:164:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:164:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'book' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:167:	EmptyCatchBlock:	EmptyCatchBlock: Avoid empty catch blocks
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:174:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'book' is not assigned and could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:176:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:176:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:178:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:178:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:178:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:186:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/bittercode/service/impl/BookServiceImpl.java:188:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:18:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:18:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:20:	FieldNamingConventions:	FieldNamingConventions: The constant name 'registerUserQuery' doesn't match '[A-Z][A-Z_0-9]*'
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:23:	FieldNamingConventions:	FieldNamingConventions: The constant name 'loginUserQuery' doesn't match '[A-Z][A-Z_0-9]*'
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'role' is not assigned and could be declared final
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'session' is not assigned and could be declared final
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:29:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:30:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:30:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userType' could be declared final
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:38:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:38:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rs' could be declared final
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:38:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:49:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:55:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'session' is not assigned and could be declared final
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:57:	AvoidReassigningParameters:	AvoidReassigningParameters: Avoid reassigning parameters such as 'role'
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:57:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:62:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'session' is not assigned and could be declared final
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:70:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'role' is not assigned and could be declared final
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:70:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:72:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:72:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'con' could be declared final
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:74:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:74:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ps' could be declared final
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:74:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:82:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'userType' could be declared final
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:84:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'k' could be declared final
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:84:	ShortVariable:	ShortVariable: Avoid variables with short names like k
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:85:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:87:	EmptyStatementNotInLoop:	EmptyStatementNotInLoop: An empty statement (semicolon) not part of a loop
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:87:	UnnecessarySemicolon:	UnnecessarySemicolon: Unnecessary semicolon
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:89:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:92:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/bittercode/service/impl/UserServiceImpl.java:93:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/com/bittercode/util/DBUtil.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/bittercode/util/DBUtil.java:10:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/main/java/com/bittercode/util/DBUtil.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/util/DBUtil.java:24:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/com/bittercode/util/DatabaseConfig.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/bittercode/util/DatabaseConfig.java:7:	DataClass:	DataClass: The class 'DatabaseConfig' is suspected to be a Data Class (WOC=0.000%, NOPA=7, NOAM=0, WMC=0)
+src/main/java/com/bittercode/util/DatabaseConfig.java:9:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'prop'
+src/main/java/com/bittercode/util/DatabaseConfig.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/util/DatabaseConfig.java:9:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+src/main/java/com/bittercode/util/DatabaseConfig.java:12:	LawOfDemeter:	LawOfDemeter: Call to `getContextClassLoader` on foreign value `Thread.currentThread()` (degree 1)
+src/main/java/com/bittercode/util/DatabaseConfig.java:12:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'classLoader' could be declared final
+src/main/java/com/bittercode/util/DatabaseConfig.java:13:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'input' could be declared final
+src/main/java/com/bittercode/util/DatabaseConfig.java:18:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/com/bittercode/util/DatabaseConfig.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/util/DatabaseConfig.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/util/DatabaseConfig.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/util/DatabaseConfig.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/util/DatabaseConfig.java:26:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/util/DatabaseConfig.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/util/DatabaseConfig.java:28:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bittercode/util/StoreUtil.java:13:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/bittercode/util/StoreUtil.java:13:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/main/java/com/bittercode/util/StoreUtil.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'role' is not assigned and could be declared final
+src/main/java/com/bittercode/util/StoreUtil.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'session' is not assigned and could be declared final
+src/main/java/com/bittercode/util/StoreUtil.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'activeTab' is not assigned and could be declared final
+src/main/java/com/bittercode/util/StoreUtil.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'pw' is not assigned and could be declared final
+src/main/java/com/bittercode/util/StoreUtil.java:26:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/main/java/com/bittercode/util/StoreUtil.java:37:	CognitiveComplexity:	CognitiveComplexity: The method 'updateCartItems(HttpServletRequest)' has a cognitive complexity of 19, current threshold is 15
+src/main/java/com/bittercode/util/StoreUtil.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/main/java/com/bittercode/util/StoreUtil.java:38:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'selectedBookId' could be declared final
+src/main/java/com/bittercode/util/StoreUtil.java:39:	LawOfDemeter:	LawOfDemeter: Call to `getSession` on foreign value `req` (degree 1)
+src/main/java/com/bittercode/util/StoreUtil.java:39:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'session' could be declared final
+src/main/java/com/bittercode/util/StoreUtil.java:43:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `session` (degree 2)
+src/main/java/com/bittercode/util/StoreUtil.java:46:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/bittercode/util/StoreUtil.java:48:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/bittercode/util/StoreUtil.java:60:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "qty_" appears 7 times in this file; the first occurrence is on line 60
+src/main/java/com/bittercode/util/StoreUtil.java:61:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/bittercode/util/StoreUtil.java:61:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `session` (degree 2)
+src/main/java/com/bittercode/util/StoreUtil.java:67:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/bittercode/util/StoreUtil.java:67:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `session` (degree 2)
+src/main/java/com/bittercode/util/StoreUtil.java:68:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/main/java/servlets/AboutServlet.java:15:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/servlets/AboutServlet.java:15:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/servlets/AboutServlet.java:15:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/servlets/AboutServlet.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/main/java/servlets/AboutServlet.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/main/java/servlets/AboutServlet.java:17:	MissingOverride:	MissingOverride: The method 'service(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/main/java/servlets/AboutServlet.java:18:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/main/java/servlets/AboutServlet.java:18:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/main/java/servlets/AboutServlet.java:18:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/main/java/servlets/AboutServlet.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/AboutServlet.java:21:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/AboutServlet.java:24:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/AboutServlet.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/AboutServlet.java:28:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/AboutServlet.java:31:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/AboutServlet.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/AboutServlet.java:35:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/AboutServlet.java:37:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/AddBookServlet.java:21:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/servlets/AddBookServlet.java:21:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/servlets/AddBookServlet.java:21:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/servlets/AddBookServlet.java:22:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'bookService'
+src/main/java/servlets/AddBookServlet.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/servlets/AddBookServlet.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/main/java/servlets/AddBookServlet.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/main/java/servlets/AddBookServlet.java:24:	MissingOverride:	MissingOverride: The method 'service(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/main/java/servlets/AddBookServlet.java:25:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/main/java/servlets/AddBookServlet.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/main/java/servlets/AddBookServlet.java:25:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/main/java/servlets/AddBookServlet.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/AddBookServlet.java:29:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/AddBookServlet.java:31:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/AddBookServlet.java:32:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/servlets/AddBookServlet.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bName' could be declared final
+src/main/java/servlets/AddBookServlet.java:36:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/AddBookServlet.java:36:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/AddBookServlet.java:39:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/AddBookServlet.java:48:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'uniqueID' could be declared final
+src/main/java/servlets/AddBookServlet.java:49:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bCode' could be declared final
+src/main/java/servlets/AddBookServlet.java:50:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bAuthor' could be declared final
+src/main/java/servlets/AddBookServlet.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bPrice' could be declared final
+src/main/java/servlets/AddBookServlet.java:52:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bQty' could be declared final
+src/main/java/servlets/AddBookServlet.java:54:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'book' could be declared final
+src/main/java/servlets/AddBookServlet.java:55:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'message' could be declared final
+src/main/java/servlets/AddBookServlet.java:56:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/main/java/servlets/AddBookServlet.java:57:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/AddBookServlet.java:60:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/AddBookServlet.java:63:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/servlets/AddBookServlet.java:64:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/servlets/AddBookServlet.java:65:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/AddBookServlet.java:69:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'pw' is not assigned and could be declared final
+src/main/java/servlets/AddBookServlet.java:69:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/main/java/servlets/AddBookServlet.java:70:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'form' could be declared final
+src/main/java/servlets/BuyBooksServlet.java:20:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/servlets/BuyBooksServlet.java:20:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/servlets/BuyBooksServlet.java:20:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/servlets/BuyBooksServlet.java:21:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'bookService'
+src/main/java/servlets/BuyBooksServlet.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/servlets/BuyBooksServlet.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/main/java/servlets/BuyBooksServlet.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/main/java/servlets/BuyBooksServlet.java:23:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/main/java/servlets/BuyBooksServlet.java:24:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/main/java/servlets/BuyBooksServlet.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/main/java/servlets/BuyBooksServlet.java:24:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/main/java/servlets/BuyBooksServlet.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/BuyBooksServlet.java:27:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/BuyBooksServlet.java:29:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/BuyBooksServlet.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'books' could be declared final
+src/main/java/servlets/BuyBooksServlet.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/BuyBooksServlet.java:34:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/BuyBooksServlet.java:37:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/BuyBooksServlet.java:38:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/BuyBooksServlet.java:39:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/BuyBooksServlet.java:49:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+src/main/java/servlets/BuyBooksServlet.java:50:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'book' could be declared final
+src/main/java/servlets/BuyBooksServlet.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bCode' could be declared final
+src/main/java/servlets/BuyBooksServlet.java:52:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bName' could be declared final
+src/main/java/servlets/BuyBooksServlet.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bAuthor' could be declared final
+src/main/java/servlets/BuyBooksServlet.java:54:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bPrice' could be declared final
+src/main/java/servlets/BuyBooksServlet.java:55:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bAvl' could be declared final
+src/main/java/servlets/BuyBooksServlet.java:57:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'n' could be declared final
+src/main/java/servlets/BuyBooksServlet.java:57:	ShortVariable:	ShortVariable: Avoid variables with short names like n
+src/main/java/servlets/BuyBooksServlet.java:58:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'q' could be declared final
+src/main/java/servlets/BuyBooksServlet.java:58:	ShortVariable:	ShortVariable: Avoid variables with short names like q
+src/main/java/servlets/BuyBooksServlet.java:59:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/BuyBooksServlet.java:65:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "</td>" appears 5 times in this file; the first occurrence is on line 65
+src/main/java/servlets/BuyBooksServlet.java:65:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "<td>" appears 5 times in this file; the first occurrence is on line 65
+src/main/java/servlets/BuyBooksServlet.java:65:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/BuyBooksServlet.java:66:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/BuyBooksServlet.java:67:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/BuyBooksServlet.java:68:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/BuyBooksServlet.java:69:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/BuyBooksServlet.java:70:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/BuyBooksServlet.java:73:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/BuyBooksServlet.java:78:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/servlets/BuyBooksServlet.java:79:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/servlets/CartServlet.java:23:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/servlets/CartServlet.java:23:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/servlets/CartServlet.java:23:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/servlets/CartServlet.java:25:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'bookService'
+src/main/java/servlets/CartServlet.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/servlets/CartServlet.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/main/java/servlets/CartServlet.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/main/java/servlets/CartServlet.java:27:	MissingOverride:	MissingOverride: The method 'service(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/main/java/servlets/CartServlet.java:28:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/main/java/servlets/CartServlet.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/main/java/servlets/CartServlet.java:28:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/main/java/servlets/CartServlet.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/CartServlet.java:33:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/CartServlet.java:35:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/CartServlet.java:43:	LawOfDemeter:	LawOfDemeter: Call to `getSession` on foreign value `req` (degree 1)
+src/main/java/servlets/CartServlet.java:43:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'session' could be declared final
+src/main/java/servlets/CartServlet.java:46:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/servlets/CartServlet.java:46:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `session` (degree 2)
+src/main/java/servlets/CartServlet.java:48:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/CartServlet.java:48:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/CartServlet.java:55:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'books' could be declared final
+src/main/java/servlets/CartServlet.java:56:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cartItems' could be declared final
+src/main/java/servlets/CartServlet.java:56:	UseDiamondOperator:	UseDiamondOperator: Explicit type arguments can be replaced by a diamond: `new ArrayList<>()`
+src/main/java/servlets/CartServlet.java:57:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/CartServlet.java:58:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/CartServlet.java:67:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "    </tr>\r\n" appears 4 times in this file; the first occurrence is on line 67
+src/main/java/servlets/CartServlet.java:71:	UseCollectionIsEmpty:	UseCollectionIsEmpty: Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+src/main/java/servlets/CartServlet.java:72:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/CartServlet.java:76:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'book' could be declared final
+src/main/java/servlets/CartServlet.java:77:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `session` (degree 2)
+src/main/java/servlets/CartServlet.java:77:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'qty' could be declared final
+src/main/java/servlets/CartServlet.java:78:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/servlets/CartServlet.java:78:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cart' could be declared final
+src/main/java/servlets/CartServlet.java:81:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/CartServlet.java:89:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/CartServlet.java:93:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "</td>\r\n" appears 5 times in this file; the first occurrence is on line 93
+src/main/java/servlets/CartServlet.java:96:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/CartServlet.java:99:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/CartServlet.java:105:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/servlets/CartServlet.java:106:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/servlets/CartServlet.java:110:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/servlets/CartServlet.java:110:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cart' is not assigned and could be declared final
+src/main/java/servlets/CartServlet.java:111:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'book' could be declared final
+src/main/java/servlets/CheckoutServlet.java:16:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/servlets/CheckoutServlet.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/servlets/CheckoutServlet.java:16:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/servlets/CheckoutServlet.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/main/java/servlets/CheckoutServlet.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/main/java/servlets/CheckoutServlet.java:17:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/main/java/servlets/CheckoutServlet.java:18:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/main/java/servlets/CheckoutServlet.java:18:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/main/java/servlets/CheckoutServlet.java:18:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/main/java/servlets/CheckoutServlet.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/CheckoutServlet.java:21:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/CheckoutServlet.java:23:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/CheckoutServlet.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/CheckoutServlet.java:28:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/CheckoutServlet.java:31:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/CheckoutServlet.java:32:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `req.getSession()` (degree 2)
+src/main/java/servlets/CheckoutServlet.java:32:	LawOfDemeter:	LawOfDemeter: Call to `getSession` on foreign value `req` (degree 1)
+src/main/java/servlets/CheckoutServlet.java:35:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/CheckoutServlet.java:38:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/CheckoutServlet.java:42:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/servlets/CheckoutServlet.java:43:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/servlets/CustomerLoginServlet.java:19:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/servlets/CustomerLoginServlet.java:19:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/servlets/CustomerLoginServlet.java:19:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/servlets/CustomerLoginServlet.java:21:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'authService'
+src/main/java/servlets/CustomerLoginServlet.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/servlets/CustomerLoginServlet.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/main/java/servlets/CustomerLoginServlet.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/main/java/servlets/CustomerLoginServlet.java:23:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/main/java/servlets/CustomerLoginServlet.java:24:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/main/java/servlets/CustomerLoginServlet.java:24:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/main/java/servlets/CustomerLoginServlet.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/main/java/servlets/CustomerLoginServlet.java:24:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/main/java/servlets/CustomerLoginServlet.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'uName' could be declared final
+src/main/java/servlets/CustomerLoginServlet.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pWord' could be declared final
+src/main/java/servlets/CustomerLoginServlet.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/main/java/servlets/CustomerLoginServlet.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/CustomerLoginServlet.java:34:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/CustomerLoginServlet.java:46:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/CustomerLoginServlet.java:46:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/CustomerLoginServlet.java:51:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/servlets/CustomerLoginServlet.java:52:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/servlets/CustomerRegisterServlet.java:20:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/servlets/CustomerRegisterServlet.java:20:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/servlets/CustomerRegisterServlet.java:20:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/servlets/CustomerRegisterServlet.java:22:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'userService'
+src/main/java/servlets/CustomerRegisterServlet.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/servlets/CustomerRegisterServlet.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/main/java/servlets/CustomerRegisterServlet.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/main/java/servlets/CustomerRegisterServlet.java:24:	MissingOverride:	MissingOverride: The method 'service(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/main/java/servlets/CustomerRegisterServlet.java:25:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/main/java/servlets/CustomerRegisterServlet.java:25:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/main/java/servlets/CustomerRegisterServlet.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/main/java/servlets/CustomerRegisterServlet.java:25:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/main/java/servlets/CustomerRegisterServlet.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pWord' could be declared final
+src/main/java/servlets/CustomerRegisterServlet.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'fName' could be declared final
+src/main/java/servlets/CustomerRegisterServlet.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'lName' could be declared final
+src/main/java/servlets/CustomerRegisterServlet.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'addr' could be declared final
+src/main/java/servlets/CustomerRegisterServlet.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'phNo' could be declared final
+src/main/java/servlets/CustomerRegisterServlet.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mailId' could be declared final
+src/main/java/servlets/CustomerRegisterServlet.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/main/java/servlets/CustomerRegisterServlet.java:42:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'respCode' could be declared final
+src/main/java/servlets/CustomerRegisterServlet.java:43:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/servlets/CustomerRegisterServlet.java:45:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/CustomerRegisterServlet.java:45:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/CustomerRegisterServlet.java:49:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/CustomerRegisterServlet.java:49:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/CustomerRegisterServlet.java:54:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/servlets/CustomerRegisterServlet.java:55:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/servlets/ErrorHandlerServlet.java:18:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/servlets/ErrorHandlerServlet.java:18:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/servlets/ErrorHandlerServlet.java:18:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/servlets/ErrorHandlerServlet.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/main/java/servlets/ErrorHandlerServlet.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/main/java/servlets/ErrorHandlerServlet.java:20:	MissingOverride:	MissingOverride: The method 'service(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/main/java/servlets/ErrorHandlerServlet.java:21:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/main/java/servlets/ErrorHandlerServlet.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/main/java/servlets/ErrorHandlerServlet.java:21:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/main/java/servlets/ErrorHandlerServlet.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'throwable' could be declared final
+src/main/java/servlets/ErrorHandlerServlet.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'servletName' could be declared final
+src/main/java/servlets/ErrorHandlerServlet.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'requestUri' could be declared final
+src/main/java/servlets/ErrorHandlerServlet.java:33:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/servlets/ErrorHandlerServlet.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'errorCodes' could be declared final
+src/main/java/servlets/ErrorHandlerServlet.java:40:	SimplifyConditional:	SimplifyConditional: No need to check for null before an instanceof
+src/main/java/servlets/ErrorHandlerServlet.java:41:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'storeException' could be declared final
+src/main/java/servlets/ErrorHandlerServlet.java:46:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/servlets/ErrorHandlerServlet.java:50:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/servlets/ErrorHandlerServlet.java:51:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/servlets/ErrorHandlerServlet.java:52:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/servlets/ErrorHandlerServlet.java:53:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/servlets/ErrorHandlerServlet.java:54:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/servlets/ErrorHandlerServlet.java:55:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/servlets/ErrorHandlerServlet.java:56:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/servlets/ErrorHandlerServlet.java:59:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/ErrorHandlerServlet.java:59:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/ErrorHandlerServlet.java:65:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/ErrorHandlerServlet.java:65:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/ErrorHandlerServlet.java:71:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/ErrorHandlerServlet.java:71:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/ErrorHandlerServlet.java:73:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/ErrorHandlerServlet.java:82:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'errorCode' is not assigned and could be declared final
+src/main/java/servlets/ErrorHandlerServlet.java:82:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'errorMessage' is not assigned and could be declared final
+src/main/java/servlets/ErrorHandlerServlet.java:82:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'pw' is not assigned and could be declared final
+src/main/java/servlets/ErrorHandlerServlet.java:82:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/main/java/servlets/LogoutServlet.java:16:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/servlets/LogoutServlet.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/servlets/LogoutServlet.java:16:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/servlets/LogoutServlet.java:18:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'authService'
+src/main/java/servlets/LogoutServlet.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/servlets/LogoutServlet.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/main/java/servlets/LogoutServlet.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/main/java/servlets/LogoutServlet.java:20:	MissingOverride:	MissingOverride: The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/main/java/servlets/LogoutServlet.java:21:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/main/java/servlets/LogoutServlet.java:21:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/main/java/servlets/LogoutServlet.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/main/java/servlets/LogoutServlet.java:21:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/main/java/servlets/LogoutServlet.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'logout' could be declared final
+src/main/java/servlets/LogoutServlet.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/LogoutServlet.java:27:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/LogoutServlet.java:34:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/servlets/LogoutServlet.java:35:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/servlets/ProcessPaymentServlet.java:22:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/servlets/ProcessPaymentServlet.java:22:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/servlets/ProcessPaymentServlet.java:22:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/servlets/ProcessPaymentServlet.java:24:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'bookService'
+src/main/java/servlets/ProcessPaymentServlet.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/servlets/ProcessPaymentServlet.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/main/java/servlets/ProcessPaymentServlet.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/main/java/servlets/ProcessPaymentServlet.java:27:	MissingOverride:	MissingOverride: The method 'service(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/main/java/servlets/ProcessPaymentServlet.java:28:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/main/java/servlets/ProcessPaymentServlet.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/main/java/servlets/ProcessPaymentServlet.java:28:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/main/java/servlets/ProcessPaymentServlet.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/ProcessPaymentServlet.java:31:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/ProcessPaymentServlet.java:33:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/ProcessPaymentServlet.java:38:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/ProcessPaymentServlet.java:38:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/ProcessPaymentServlet.java:41:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/ProcessPaymentServlet.java:42:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/ProcessPaymentServlet.java:44:	LawOfDemeter:	LawOfDemeter: Call to `getSession` on foreign value `req` (degree 1)
+src/main/java/servlets/ProcessPaymentServlet.java:44:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'session' could be declared final
+src/main/java/servlets/ProcessPaymentServlet.java:47:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/servlets/ProcessPaymentServlet.java:47:	LawOfDemeter:	LawOfDemeter: Call to `getAttribute` on foreign value `session` (degree 2)
+src/main/java/servlets/ProcessPaymentServlet.java:48:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cart' could be declared final
+src/main/java/servlets/ProcessPaymentServlet.java:49:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'book' could be declared final
+src/main/java/servlets/ProcessPaymentServlet.java:50:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bPrice' could be declared final
+src/main/java/servlets/ProcessPaymentServlet.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bCode' could be declared final
+src/main/java/servlets/ProcessPaymentServlet.java:52:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bName' could be declared final
+src/main/java/servlets/ProcessPaymentServlet.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bAuthor' could be declared final
+src/main/java/servlets/ProcessPaymentServlet.java:55:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'qtToBuy' could be declared final
+src/main/java/servlets/ProcessPaymentServlet.java:58:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/ProcessPaymentServlet.java:65:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/ProcessPaymentServlet.java:67:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/servlets/ProcessPaymentServlet.java:68:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/servlets/ProcessPaymentServlet.java:72:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/servlets/ProcessPaymentServlet.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'bAuthor' is not assigned and could be declared final
+src/main/java/servlets/ProcessPaymentServlet.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'bCode' is not assigned and could be declared final
+src/main/java/servlets/ProcessPaymentServlet.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'bName' is not assigned and could be declared final
+src/main/java/servlets/ProcessPaymentServlet.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'bPrice' is not assigned and could be declared final
+src/main/java/servlets/ProcessPaymentServlet.java:73:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'button' could be declared final
+src/main/java/servlets/ReceiptServlet.java:20:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/servlets/ReceiptServlet.java:20:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/servlets/ReceiptServlet.java:20:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/servlets/ReceiptServlet.java:21:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'bookService'
+src/main/java/servlets/ReceiptServlet.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/servlets/ReceiptServlet.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/main/java/servlets/ReceiptServlet.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/main/java/servlets/ReceiptServlet.java:24:	MissingOverride:	MissingOverride: The method 'service(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/main/java/servlets/ReceiptServlet.java:25:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/main/java/servlets/ReceiptServlet.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/main/java/servlets/ReceiptServlet.java:25:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/main/java/servlets/ReceiptServlet.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/ReceiptServlet.java:28:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/ReceiptServlet.java:30:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/ReceiptServlet.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'books' could be declared final
+src/main/java/servlets/ReceiptServlet.java:35:	ShortVariable:	ShortVariable: Avoid variables with short names like i
+src/main/java/servlets/ReceiptServlet.java:36:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/ReceiptServlet.java:36:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/ReceiptServlet.java:39:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/ReceiptServlet.java:40:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/ReceiptServlet.java:47:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'book' could be declared final
+src/main/java/servlets/ReceiptServlet.java:48:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bPrice' could be declared final
+src/main/java/servlets/ReceiptServlet.java:49:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bCode' could be declared final
+src/main/java/servlets/ReceiptServlet.java:50:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bName' could be declared final
+src/main/java/servlets/ReceiptServlet.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bAuthor' could be declared final
+src/main/java/servlets/ReceiptServlet.java:55:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'qt' could be declared final
+src/main/java/servlets/ReceiptServlet.java:55:	ShortVariable:	ShortVariable: Avoid variables with short names like qt
+src/main/java/servlets/ReceiptServlet.java:56:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'quantity' could be declared final
+src/main/java/servlets/ReceiptServlet.java:58:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'check1' could be declared final
+src/main/java/servlets/ReceiptServlet.java:59:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'getChecked' could be declared final
+src/main/java/servlets/ReceiptServlet.java:61:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/ReceiptServlet.java:66:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/servlets/ReceiptServlet.java:67:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "</td>" appears 5 times in this file; the first occurrence is on line 67
+src/main/java/servlets/ReceiptServlet.java:67:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/ReceiptServlet.java:68:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "<td>" appears 5 times in this file; the first occurrence is on line 68
+src/main/java/servlets/ReceiptServlet.java:68:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/ReceiptServlet.java:69:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/ReceiptServlet.java:70:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/ReceiptServlet.java:71:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/ReceiptServlet.java:72:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'amount' could be declared final
+src/main/java/servlets/ReceiptServlet.java:74:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/ReceiptServlet.java:76:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/servlets/ReceiptServlet.java:79:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/servlets/ReceiptServlet.java:79:	EmptyCatchBlock:	EmptyCatchBlock: Avoid empty catch blocks
+src/main/java/servlets/ReceiptServlet.java:82:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/ReceiptServlet.java:84:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/servlets/ReceiptServlet.java:85:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/servlets/RemoveBookServlet.java:18:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/servlets/RemoveBookServlet.java:18:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/servlets/RemoveBookServlet.java:18:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/servlets/RemoveBookServlet.java:20:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'bookService'
+src/main/java/servlets/RemoveBookServlet.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/servlets/RemoveBookServlet.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/main/java/servlets/RemoveBookServlet.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/main/java/servlets/RemoveBookServlet.java:22:	MissingOverride:	MissingOverride: The method 'service(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/main/java/servlets/RemoveBookServlet.java:23:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/main/java/servlets/RemoveBookServlet.java:23:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/main/java/servlets/RemoveBookServlet.java:23:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/main/java/servlets/RemoveBookServlet.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/RemoveBookServlet.java:26:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/RemoveBookServlet.java:28:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/RemoveBookServlet.java:29:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/servlets/RemoveBookServlet.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bookId' could be declared final
+src/main/java/servlets/RemoveBookServlet.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/RemoveBookServlet.java:34:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/RemoveBookServlet.java:37:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/RemoveBookServlet.java:44:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'responseCode' could be declared final
+src/main/java/servlets/RemoveBookServlet.java:46:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/RemoveBookServlet.java:47:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/RemoveBookServlet.java:51:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/RemoveBookServlet.java:52:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/RemoveBookServlet.java:55:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/RemoveBookServlet.java:56:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/servlets/RemoveBookServlet.java:57:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/servlets/RemoveBookServlet.java:58:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/RemoveBookServlet.java:62:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'pw' is not assigned and could be declared final
+src/main/java/servlets/RemoveBookServlet.java:62:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/main/java/servlets/RemoveBookServlet.java:63:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'form' could be declared final
+src/main/java/servlets/SellerLoginServlet.java:19:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/servlets/SellerLoginServlet.java:19:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/servlets/SellerLoginServlet.java:19:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/servlets/SellerLoginServlet.java:21:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'userService'
+src/main/java/servlets/SellerLoginServlet.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/servlets/SellerLoginServlet.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/main/java/servlets/SellerLoginServlet.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/main/java/servlets/SellerLoginServlet.java:23:	MissingOverride:	MissingOverride: The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/main/java/servlets/SellerLoginServlet.java:24:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/main/java/servlets/SellerLoginServlet.java:24:	LawOfDemeter:	LawOfDemeter: Call to `getWriter` on foreign value `res` (degree 1)
+src/main/java/servlets/SellerLoginServlet.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/main/java/servlets/SellerLoginServlet.java:24:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/main/java/servlets/SellerLoginServlet.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'uName' could be declared final
+src/main/java/servlets/SellerLoginServlet.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pWord' could be declared final
+src/main/java/servlets/SellerLoginServlet.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/main/java/servlets/SellerLoginServlet.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/SellerLoginServlet.java:31:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/SellerLoginServlet.java:43:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/SellerLoginServlet.java:43:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/SellerLoginServlet.java:48:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/servlets/SellerLoginServlet.java:49:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/servlets/StoreBookServlet.java:19:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/servlets/StoreBookServlet.java:19:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/servlets/StoreBookServlet.java:19:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/servlets/StoreBookServlet.java:22:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'bookService'
+src/main/java/servlets/StoreBookServlet.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/servlets/StoreBookServlet.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/main/java/servlets/StoreBookServlet.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/main/java/servlets/StoreBookServlet.java:24:	MissingOverride:	MissingOverride: The method 'service(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/main/java/servlets/StoreBookServlet.java:25:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/main/java/servlets/StoreBookServlet.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/main/java/servlets/StoreBookServlet.java:25:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/main/java/servlets/StoreBookServlet.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/StoreBookServlet.java:30:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/StoreBookServlet.java:32:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/StoreBookServlet.java:41:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/StoreBookServlet.java:41:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/StoreBookServlet.java:43:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/StoreBookServlet.java:48:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'books' could be declared final
+src/main/java/servlets/StoreBookServlet.java:49:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/StoreBookServlet.java:50:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/StoreBookServlet.java:62:	UseCollectionIsEmpty:	UseCollectionIsEmpty: Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+src/main/java/servlets/StoreBookServlet.java:63:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/StoreBookServlet.java:67:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'book' could be declared final
+src/main/java/servlets/StoreBookServlet.java:68:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/StoreBookServlet.java:71:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/StoreBookServlet.java:74:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/servlets/StoreBookServlet.java:75:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/servlets/StoreBookServlet.java:79:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/servlets/StoreBookServlet.java:79:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'book' is not assigned and could be declared final
+src/main/java/servlets/UpdateBookServlet.java:21:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/servlets/UpdateBookServlet.java:21:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/servlets/UpdateBookServlet.java:21:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/servlets/UpdateBookServlet.java:22:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'bookService'
+src/main/java/servlets/UpdateBookServlet.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/servlets/UpdateBookServlet.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/main/java/servlets/UpdateBookServlet.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/main/java/servlets/UpdateBookServlet.java:24:	MissingOverride:	MissingOverride: The method 'service(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/main/java/servlets/UpdateBookServlet.java:25:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/main/java/servlets/UpdateBookServlet.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/main/java/servlets/UpdateBookServlet.java:25:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/main/java/servlets/UpdateBookServlet.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/UpdateBookServlet.java:29:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/UpdateBookServlet.java:31:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/UpdateBookServlet.java:32:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/servlets/UpdateBookServlet.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/UpdateBookServlet.java:35:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/UpdateBookServlet.java:38:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/UpdateBookServlet.java:42:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bName' could be declared final
+src/main/java/servlets/UpdateBookServlet.java:43:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bCode' could be declared final
+src/main/java/servlets/UpdateBookServlet.java:44:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bAuthor' could be declared final
+src/main/java/servlets/UpdateBookServlet.java:45:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bPrice' could be declared final
+src/main/java/servlets/UpdateBookServlet.java:46:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bQty' could be declared final
+src/main/java/servlets/UpdateBookServlet.java:48:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'book' could be declared final
+src/main/java/servlets/UpdateBookServlet.java:49:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'message' could be declared final
+src/main/java/servlets/UpdateBookServlet.java:51:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/UpdateBookServlet.java:54:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/UpdateBookServlet.java:61:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bookId' could be declared final
+src/main/java/servlets/UpdateBookServlet.java:64:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'book' could be declared final
+src/main/java/servlets/UpdateBookServlet.java:68:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/servlets/UpdateBookServlet.java:69:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/servlets/UpdateBookServlet.java:70:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/UpdateBookServlet.java:74:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'book' is not assigned and could be declared final
+src/main/java/servlets/UpdateBookServlet.java:74:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'pw' is not assigned and could be declared final
+src/main/java/servlets/UpdateBookServlet.java:74:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/main/java/servlets/UpdateBookServlet.java:75:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'form' could be declared final
+src/main/java/servlets/UpdateBookServlet.java:82:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "\' required><br/>\r\n" appears 4 times in this file; the first occurrence is on line 82
+src/main/java/servlets/ViewBookServlet.java:20:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/servlets/ViewBookServlet.java:20:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/servlets/ViewBookServlet.java:20:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/servlets/ViewBookServlet.java:23:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'bookService'
+src/main/java/servlets/ViewBookServlet.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/servlets/ViewBookServlet.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'req' is not assigned and could be declared final
+src/main/java/servlets/ViewBookServlet.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'res' is not assigned and could be declared final
+src/main/java/servlets/ViewBookServlet.java:25:	MissingOverride:	MissingOverride: The method 'service(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/main/java/servlets/ViewBookServlet.java:26:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/main/java/servlets/ViewBookServlet.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pw' could be declared final
+src/main/java/servlets/ViewBookServlet.java:26:	ShortVariable:	ShortVariable: Avoid variables with short names like pw
+src/main/java/servlets/ViewBookServlet.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/ViewBookServlet.java:31:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/ViewBookServlet.java:33:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/ViewBookServlet.java:39:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'books' could be declared final
+src/main/java/servlets/ViewBookServlet.java:42:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rd' could be declared final
+src/main/java/servlets/ViewBookServlet.java:42:	ShortVariable:	ShortVariable: Avoid variables with short names like rd
+src/main/java/servlets/ViewBookServlet.java:49:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/ViewBookServlet.java:53:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/ViewBookServlet.java:59:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'session' could be declared final
+src/main/java/servlets/ViewBookServlet.java:60:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'book' could be declared final
+src/main/java/servlets/ViewBookServlet.java:63:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/ViewBookServlet.java:68:	LawOfDemeter:	LawOfDemeter: Call to `println` on foreign value `pw` (degree 2)
+src/main/java/servlets/ViewBookServlet.java:73:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/servlets/ViewBookServlet.java:74:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/servlets/ViewBookServlet.java:78:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/servlets/ViewBookServlet.java:78:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'book' is not assigned and could be declared final
+src/main/java/servlets/ViewBookServlet.java:78:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'session' is not assigned and could be declared final
+src/main/java/servlets/ViewBookServlet.java:79:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bCode' could be declared final
+src/main/java/servlets/ViewBookServlet.java:80:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bQty' could be declared final
+src/main/java/servlets/ViewBookServlet.java:91:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'button' is never used (overwritten on lines 95 and 108)
+src/main/java/servlets/ViewBookServlet.java:95:	AddEmptyString:	AddEmptyString: Do not add empty strings

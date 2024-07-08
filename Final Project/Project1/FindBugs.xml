@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.0.1-dev-20150306-5afe4d1" sequence="1" timestamp="1691422819544" analysisTimestamp="1691422815313" release="">
+  <Project projectName="InventoryManagementSystem-master.zip_expanded">
+    <Jar>/Users/chirayu/Desktop/EECS4313 Project/Project/InventoryManagementSystem-master.zip_expanded/InventoryManagementSystem-master/out/production/InventoryManagementSystem</Jar>
+    <AuxClasspathEntry>/Users/chirayu/Desktop/EECS4313 Project/Project/InventoryManagementSystem-master.zip_expanded/InventoryManagementSystem-master/out/production/InventoryManagementSystem</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/chirayu/Desktop/EECS4313 Project/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/chirayu/Desktop/EECS4313 Project/IMSrequired/jcalendar-1.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/chirayu/Desktop/EECS4313 Project/IMSrequired/JTattoo-1.6.10.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/chirayu/Desktop/EECS4313 Project/IMSrequired/mysql-connector-java-5.1.23-bin.jar</AuxClasspathEntry>
+    <SrcDir>/Users/chirayu/Desktop/EECS4313 Project/Project/InventoryManagementSystem-master.zip_expanded/InventoryManagementSystem-master/src</SrcDir>
+    <Cloud id="edu.umd.cs.findbugs.cloud.doNothingCloud" online="false"></Cloud>
+  </Project>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Sun, 6 Aug 2023 02:47:51 -0400" total_classes="0" referenced_classes="2" total_bugs="0" total_size="0" num_packages="0" java_version="17.0.5" vm_version="17.0.5+8" cpu_seconds="15.18" clock_seconds="25.98" peak_mbytes="890.42" alloc_mbytes="2048.00" gc_seconds="0.05">
+    <FindBugsProfile>
+      <ClassProfile name="de.tobject.findbugs.builder.FindBugs2Eclipse" totalMilliseconds="285" invocations="2" avgMicrosecondsPerInvocation="142984" maxMicrosecondsPerInvocation="178734" standardDeviationMircosecondsPerInvocation="35748"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="88" invocations="369" avgMicrosecondsPerInvocation="239" maxMicrosecondsPerInvocation="17915" standardDeviationMircosecondsPerInvocation="1519"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="57" invocations="2" avgMicrosecondsPerInvocation="28713" maxMicrosecondsPerInvocation="37184" standardDeviationMircosecondsPerInvocation="8471"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History>
+    <AppVersion sequence="0" timestamp="1691422819543" release="" codeSize="0" numClasses="0"/>
+  </History>
+</BugCollection>
